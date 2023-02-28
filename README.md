@@ -1,5 +1,5 @@
 # cse210-ww-student-template
-TUMBA Guy-Jeef
+Guy-Jeef Désiré TUMBA
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
