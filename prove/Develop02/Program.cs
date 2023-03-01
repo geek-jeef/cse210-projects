@@ -31,6 +31,8 @@ class Program
                     break;
                 case 3:
                     // load entry into journal instance from file
+                    //I added a function to validate the filenames provided to the Save() and Load() function using regular expressions
+                    // see GetValidFileName() in Journal.cs
                     journal.Load();
                     break;
                 case 4:
