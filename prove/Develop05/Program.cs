@@ -1,9 +1,9 @@
 using System;
-
 /***********************************************************************************************
  - Showing Creativity and Exceeding Requirements
- 1)Game data can be stored to a file in data directory
- 2)Clean code
+ 1) a game class to handle all gamification features
+ 2)Game data can be stored to a file in data directory
+ 3)Clean code
 ************************************************************************************************/
 class Program
 {
