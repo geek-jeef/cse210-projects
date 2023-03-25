@@ -4,7 +4,6 @@ class Activity
   protected const string ANIMATION_COUNTDOWN = "countdown";
   protected const string ANIMATION_PAUSE = "pause";
 
-
   protected string _activityName;
   protected string _activityDescription;
   public int _duration;
@@ -44,9 +43,6 @@ class Activity
     Animation(ANIMATION_SPINNER);
 
   }
-
-
-
 
   protected void Animation(string type, int time = 3)
   {
