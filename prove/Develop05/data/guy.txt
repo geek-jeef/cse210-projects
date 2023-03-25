@@ -1,0 +1,4 @@
+600
+Goal|Make a speech|Make a speech during sacrement meeting|100|True
+EternalGoal|read scriptures|read scripetures during 10 minutes each morning|25|False
+CheckListGoal|Go to temple|Go to accra ghana temple|500|1|3|1500
