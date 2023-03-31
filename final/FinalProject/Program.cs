@@ -17,7 +17,7 @@ Demo Student username: jeef ; password : jeef
 ************************************************************************************************/
 class Program
 {
-  public static Database database = new Database();
+  public static Database _database = new Database();
   
   static void Main(string[] args)
   {
@@ -138,8 +138,8 @@ class Program
     Console.Write("Enter your password: ");
     string password = Console.ReadLine();
 
-    if(database.VerifyUser(username,password)){
-      return database.GetUserByName(username);
+    if(_database.VerifyUser(username,password)){
+      return _database.GetUserByName(username);
     }else{
       Console.WriteLine("Authentication Fail if you dont have account please register : ");
       return null;
@@ -178,7 +178,7 @@ class Program
       }
     } while ( (choice != 0) && (type == ""));
 
-    return database.createUser(type,username, password);
+    return _database.createUser(type,username, password);
   }
 
   static void DisplayEndMessage()

@@ -40,7 +40,7 @@ public class QuizTaker
     }while(choice != 0);
   }
 
-  public void TakeQuiz(ref Quiz quiz){
+  private void TakeQuiz(ref Quiz quiz){
 
     List<Question> questions = _database.GetQuizQuestion(quiz);
     List<Dictionary<string, string>> answers  = new List<Dictionary<string, string>>() ;
@@ -91,7 +91,6 @@ public class QuizTaker
     Console.ReadKey();
   }
 
-
   public void PrintGradeList(){
     List<QuizResult> results = _database.GetStudentResults(_user);
     
@@ -118,7 +117,7 @@ public class QuizTaker
     }while(choice != 0);
   }
 
-  public void manageQuizResult(ref QuizResult result, ref List<QuizResult> results)
+  private void manageQuizResult(ref QuizResult result, ref List<QuizResult> results)
   {
     Console.WriteLine("Manage Quiz Result");
     int choice = -1;

@@ -31,7 +31,7 @@ public class QuizManager
     GetQuizzesFromDatabase();
   }
 
-  public void AddQuestionToQuiz( ref Quiz quiz)
+  private void AddQuestionToQuiz( ref Quiz quiz)
   {
     int choice = -1 ;
     Console.WriteLine("""
@@ -227,8 +227,7 @@ public class QuizManager
   }
 
   
-
-  public void GetQuizzesFromDatabase()
+  private void GetQuizzesFromDatabase()
   {
     _quizzes = _database.GetUserQuizzes(_user);
   }
@@ -258,7 +257,6 @@ public class QuizManager
     }while(choice != 0);
   }
 
-
   public void PrintQuestionList(Quiz quiz)
   {
     List<Question> questions = _database.GetQuizQuestion(quiz);
@@ -287,7 +285,7 @@ public class QuizManager
     }while(choice != 0);
   }
 
-  public void manageQuiz(ref Quiz quiz)
+  private void manageQuiz(ref Quiz quiz)
   {
     int choice = -1;
     do{
@@ -334,7 +332,7 @@ public class QuizManager
     }while(choice != 0);
   }
 
-  public void manageQuestion(ref Question question, ref List<Question> questions)
+  private void manageQuestion(ref Question question, ref List<Question> questions)
   {
     Console.WriteLine("Manage Question");
     int choice = -1;

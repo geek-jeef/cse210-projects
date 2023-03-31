@@ -313,7 +313,6 @@ public class Database
   }
 
 
-
   public void AddQuizResult(QuizResult quizResult)
   {
     //userId, quizId, correctAnswers, totalQuestions , score, time, quizData, data

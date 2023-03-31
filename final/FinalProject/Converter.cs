@@ -5,7 +5,7 @@ using System.Text.Json;
 /*=======================================================================
   This file is used to convert data from source (url: https://github.com/uberspot/OpenTriviaQA) to json format
 =======================================================================*/
-class Converter
+static class Converter
 {
   public static string StripAndEncode(string str)
   {
