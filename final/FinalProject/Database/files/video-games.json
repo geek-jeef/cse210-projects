@@ -1,0 +1,4195 @@
+[
+  {
+    "question": "In what fictional city is the TV show Futurama set?",
+    "category": "video-games",
+    "answer": "New New York",
+    "choices": "New Chicago\nNew New York\nNew San Francisco\nNone of these",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the lowest ranking species in the Covenant hierarchy in the Halo series?",
+    "category": "video-games",
+    "answer": "Grunt",
+    "choices": "Drone\nBrute\nElite\nGrunt",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who controls the Flood in the Halo series?",
+    "category": "video-games",
+    "answer": "Gravemind",
+    "choices": "Gravemind\nThe Prophet of Truth\nThe Arbiter\nNo one",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is a SPARTAN in the Halo series?",
+    "category": "video-games",
+    "answer": "All of these",
+    "choices": "A Genetically modified super soldier\nA higher ranking soldier than a ODST\nTroopers that went through military training at the age of five\nAll of these",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What species is the Didact in the Halo series?",
+    "category": "video-games",
+    "answer": "Forerunner",
+    "choices": "Forerunner\nPrecursor\nPromethean\nYamne",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Halo series, Zealots use Energy Swords.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of the following does the UNSC use to transport troops in the halo series?",
+    "category": "video-games",
+    "answer": "Pelicans",
+    "choices": "Falcons\nHornets\nPhantoms\nPelicans",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does UNSC stand for in the Halo series?",
+    "category": "video-games",
+    "answer": "United Nations Space Command",
+    "choices": "None of the above\nUnited Nations Space Council\nUnited Nations Space Command\nUnified Nations Supreme Court",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the largest UNSC ship in the Halo series?",
+    "category": "video-games",
+    "answer": "UNSC Infinity",
+    "choices": "UNSC In Amber Clad\nUNSC Infinity\nUNSC Spirit of Fire\nUNSC Pillar of Autumn",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What city does Halo 3 ODST take place in?",
+    "category": "video-games",
+    "answer": "New Mombasa",
+    "choices": "Voi\nNew Mombasa\nToronto\nNew York",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the largest species of the Covenant in the Halo series?",
+    "category": "video-games",
+    "answer": "Hunter",
+    "choices": "Brute\nHunter\nJackal\nElite",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who made the fictional Mother Brain and for what purpose?",
+    "category": "video-games",
+    "answer": "The Chozo built her to be a organic Supercomputer.",
+    "choices": "The Galactic Federation built her as a next generation Aurora Unit.\nIt is unknown who made her but she was made to control Zebes.\nThe Space Pirates built her to be one of their generals.\nThe Chozo built her to be a organic Supercomputer.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How did the Alimbics become extinct in the Metroid series?",
+    "category": "video-games",
+    "answer": "The entire species used up their life energy to imprison Gorea.",
+    "choices": "They discovered Phazon and developed Phazon Madness causing them to wipe each other out.\nGorea wiped them out.\nThe entire species used up their life energy to imprison Gorea.\nThe Metroids wiped them out.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What creature passes on the X Parasite to Samus in the Metroid series?",
+    "category": "video-games",
+    "answer": "Hornoad",
+    "choices": "Metroid\nSpace Pirate\nKihunter\nHornoad",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is the Deleter in the Metroid series?",
+    "category": "video-games",
+    "answer": "James Pierce",
+    "choices": "Lyle Smithsonian\nAdam Malkovich\nK.G Misawa\nJames Pierce",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Kraid is the only one of his species encountered in the Metroid game.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What do Steamlords keep as pets in the Metroid series of games?",
+    "category": "video-games",
+    "answer": "Vaporwing",
+    "choices": "Steambot\nWarp Hound\nSteamspider\nVaporwing",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "An ancient Chozo prophecy predicts the coming of Phazon and the Metroid Prime. In this prophecy the Metroid Prime is referred to as which of the following?",
+    "category": "video-games",
+    "answer": "Worm",
+    "choices": "Worm\nBeast\nDestroyer\nConsumer",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "King Worm can be fought after Mother Brainin Metroid Zero Mission.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What planet are Kihunters from in the Metroid games?",
+    "category": "video-games",
+    "answer": "Unknown",
+    "choices": "Space Pirate Homeworld\nUnknown\nSR388\nZebes",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What planet is Samus from  in the Metorid games?",
+    "category": "video-games",
+    "answer": "K-2L",
+    "choices": "It is unknown\nK-2L\nNorion\nZebes",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the enemy faction in the first N.O.V.A?",
+    "category": "video-games",
+    "answer": "Xenos",
+    "choices": "Xenos\nVolterites\nJudgers\nThe Dominion",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The N.O.V.A 3 Shotgun is both semi and fully automatic.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "On which planet does the first two missions in N.O.V.A 2 take place?",
+    "category": "video-games",
+    "answer": "Aquarius",
+    "choices": "Sagittarius\nEarth\nNew Ceres\nAquarius",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who helps Kal Wardin find the Judger artifact aboard Therrius in N.O.V.A?",
+    "category": "video-games",
+    "answer": "MazRah",
+    "choices": "Prometheus\nYelena\nMazRah\nRufus",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In N.O.V.A, Kal Wardin is rewarded for finding out what happened aboard the Colonial Pride by almost being killed.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Who is the leader of the Volterites in N.O.V.A?",
+    "category": "video-games",
+    "answer": "The Overseer",
+    "choices": "MazRah\nNone of the above\nPrometheus\nThe Overseer",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which Xeno is capable of teleporting in N.O.V.A?",
+    "category": "video-games",
+    "answer": "Heavy Demon",
+    "choices": "Heavy Demon\nRed Demon\nImp\nFiend",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In N.O.V.A, President Folson is unarmed.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Boreas is the only desert planet in the N.O.V.A series.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the name of the damsel you have to save in the classic arcade game Donkey Kong?",
+    "category": "video-games",
+    "answer": "Pauline",
+    "choices": "Peach\nDaisy\nPauline\nDixie Kong",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these was a name that game character, Mario, was once called?",
+    "category": "video-games",
+    "answer": "Jumpman",
+    "choices": "Koopa\nPlumberio\nJumpman\nLuigi",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who or what turned Warios treasure into monsters in the game, Wario World?",
+    "category": "video-games",
+    "answer": "The black jewel",
+    "choices": "Kemmy Koopa\nLemmy Koopa\nThe black jewel\nBowser",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Mario games, what animal is a paratroopa?",
+    "category": "video-games",
+    "answer": "A turtle",
+    "choices": "A bird\nA lizard\nA turtle\nA tiger",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "When first created, Mario game character, Birdo, was what?",
+    "category": "video-games",
+    "answer": "A boy",
+    "choices": "A dog\nA boy\nA girl\nA bird",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the video games of Mario, is Luigi Marios cousin?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the Mario video games, Bowser is the king of what?",
+    "category": "video-games",
+    "answer": "Koopas",
+    "choices": "Bowsers\nThe Jungle\nMushroom Kingdom\nKoopas",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is the last boss in video game Paper Mario 2?",
+    "category": "video-games",
+    "answer": "Shadow Queen",
+    "choices": "Gloom Tail\nBowser\nShadow Queen\nCackletta",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which movie is this Warcraft 3 quote from?\nBandit: -What we have here is a failure to communicate.",
+    "category": "video-games",
+    "answer": "Cool Hand Luke",
+    "choices": "For a Fistful of Dollars\nDirty Sanchez\nCool Hand Luke\nMetal Man",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Where does the popular video game character Mario live?",
+    "category": "video-games",
+    "answer": "The Mushroom Kingdom",
+    "choices": "The Koopa Kingdom\nThe Kingdom of Sarasaland\nThe Mushroom Kingdom\nYoshi Island",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is Marios nationality according to Nintendo video games?",
+    "category": "video-games",
+    "answer": "Italian",
+    "choices": "Italian\nAmerican\nMexican\nBritish",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Has the video game character Mario ever been in a TV show?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What was the first video game in which Mario appeared?",
+    "category": "video-games",
+    "answer": "Donkey Kong",
+    "choices": "Mario\nThe Mario Bros.\nSuper Mario\nDonkey Kong",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Why does Mario wear a red cap in the Mario series of games?",
+    "category": "video-games",
+    "answer": "The creators didnt have the technology to animate his hair.",
+    "choices": "The creators didnt have the technology to animate his hair.\nHe is bald.\nHe cant make his hair neat.\nHe likes his cap.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Has Nintendo character Mario ever been a bad guy?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What does the Fire Flower do to Mario in the Mario video games?",
+    "category": "video-games",
+    "answer": "Allows him to throw fire balls.",
+    "choices": "Allows him to breath fire.\nNothing\nIt makes him angry.\nAllows him to throw fire balls.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What effect does the Super Mushroom have on Mario in the popular series of video games?",
+    "category": "video-games",
+    "answer": "It makes him bigger.",
+    "choices": "It makes him bigger.\nNone\nIt makes him impervious to danger.\nIt makes him smaller.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Mario series of video games, Mario never uses any weapons.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is Marios occupation in the Mario series of games?",
+    "category": "video-games",
+    "answer": "plumber",
+    "choices": "engineer\ndoctor\nplumber\nelectrician",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the land where most of the Legend of Zelda games take place?",
+    "category": "video-games",
+    "answer": "Hyrule",
+    "choices": "Hylia\nHyrule\nSacred Realm\nTermania",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which monster made its first appearance in the game The Legend of Zelda: Majoras Mask?",
+    "category": "video-games",
+    "answer": "Chu-Chu",
+    "choices": "Chu-Chu\nArmos\nKeese\nOctorok",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which one of the Legend of Zelda games does not feature the same Link as the others?",
+    "category": "video-games",
+    "answer": "Wind Waker",
+    "choices": "Ocarina of Time\nLinks Awakening\nWind Waker\nMajoras Mask",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following is not an item that Link uses in the Legend of Zelda series of games?",
+    "category": "video-games",
+    "answer": "A spear used for immobilizing enemies",
+    "choices": "A magical leaf used for flying\nA spear used for immobilizing enemies\nA jar that can suck stuff into it and shoot out gusts of wind\nA candle for shooting fire at enemies",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Legend of Zelda series of games Link has not worn a tunic in what colour?",
+    "category": "video-games",
+    "answer": "yellow",
+    "choices": "yellow\nblue\nred\ngreen",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which games were included in the 2003 Legend of Zelda Collectors edition that became available on the Nintendo GameCube?",
+    "category": "video-games",
+    "answer": "The Legend of Zelda, The Adventure of Link, Ocarina of Time, Majoras Mask",
+    "choices": "The Legenda of Zelda, The Adventure of Link, A Link to the Past, Ocarina of TIme\nOrcale of Seasons, Orcale of Ages, Links Awakening, and Minish Cap\nThe Legend of Zelda, The Adventure of Link, Ocarina of Time, Majoras Mask\nA Link to the Past, Majoras Mask, Ocarina of Time, Wind Waker",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which Final Fantasy 3 character is known for blitzes such as Bum Rush, Pummel, and Suplex?",
+    "category": "video-games",
+    "answer": "Sabin",
+    "choices": "Edgar\nSetzer\nLocke\nSabin",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What character from the Final Fantasy series used a weapon called the Buster Sword?",
+    "category": "video-games",
+    "answer": "Cloud Strife",
+    "choices": "Sephiroth\nSquall Leonhart\nCloud Strife\nSeifer Almasy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was the name of the summoned creatures that aided the characters in the Final Fantasy 8 game?",
+    "category": "video-games",
+    "answer": "Guardian Forces",
+    "choices": "Materia\nSummonings\nEspers\nGuardian Forces",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which character was the main villain in the American Final Fantasy 3 game?",
+    "category": "video-games",
+    "answer": "Kefka",
+    "choices": "Sin\nKefka\nGarland\nSephiroth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which Final Fantasy game was released in North America on 7 September 1999?",
+    "category": "video-games",
+    "answer": "Final Fantasy 8",
+    "choices": "Final Fantasy 10\nFinal Fantasy 9\nFinal Fantasy 8\nFinal Fantasy 7",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which one of these Final Fantasy characters didnt own an airship?",
+    "category": "video-games",
+    "answer": "Rinoa Heartilly",
+    "choices": "Setzer Gabbiani\nDaryl\nRinoa Heartilly\nCid Highwind",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What year was the first Final Fantasy game released in Japan?",
+    "category": "video-games",
+    "answer": "1987",
+    "choices": "1989\n1988\n1990\n1987",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This character, who has appeared in nearly every Final Fantasy game, usually provides transportation to the main characters.",
+    "category": "video-games",
+    "answer": "Cid",
+    "choices": "Edgar\nCid\nSabin\nSquall",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In this Final Fantasy spin-off every new recruit starts out as a Squire or a Chemist.",
+    "category": "video-games",
+    "answer": "Final Fantasy Tactics",
+    "choices": "Final Fantasy Mystic Quest\nFinal Fantasy Tactics Advance\nKingdom Hearts\nFinal Fantasy Tactics",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Final Fantasy X featured which mini-game?",
+    "category": "video-games",
+    "answer": "Blitzball",
+    "choices": "Snowboarding\nBlitzball\nTriple Triad\nTetra Master",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which video game is the following quote from?\nIve got muscles in places youve never even heard of.",
+    "category": "video-games",
+    "answer": "Escape from Monkey Island",
+    "choices": "Escape from Monkey Island\nSimon the Sorcerer 3D\nGrim Fandango\nMonkey Island 2: LeChucks Revenge",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which video game are the following quotes from?\n\nA: Come on, comrades! Up to the rooftop! Go!\nB: Get that flag up! Berlin is ours!",
+    "category": "video-games",
+    "answer": "Call of Duty",
+    "choices": "Medal of Honor\nCall of Duty\nHidden and Dangerous 2\nBattlefield 1942",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the cheat for getting 50 000 simoleans in the computer game The Sims 2?",
+    "category": "video-games",
+    "answer": "motherlode",
+    "choices": "kaching\nall of these\nmotherlode\nsimoleons_$$$",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What are the expansion packs available for The Sims 2 game?",
+    "category": "video-games",
+    "answer": "University, Night Life, Family Fun, Open for Business",
+    "choices": "Odd Jobs, Pets\nAll of these\nUniversity, Night Life, Family Fun, Open for Business\nMakin Magic, Holiday, Party",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the computer game The Sims 2, in order for a Sim to have a baby, you must select the woohoo option on a different Sim.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "On the cover of the Sims 2 University expansion pack there is a picture of two Sims, one male and one female. What is the male Sim wearing?",
+    "category": "video-games",
+    "answer": "toga",
+    "choices": "hippie outfit\ntoga\nmascot costume\nfootball equipment",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Bella Goth is absent from the family when The Sims 2 begins.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In Open for Business, the third expansion pack for The Sims 2, Sims may earn 25 business perks.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Was the computer game The Sims 2 made solely by EA games?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The Sims 2 game is rated E (Everyone).",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the name of the robot in The Sims 2, that fetches take-away food?",
+    "category": "video-games",
+    "answer": "MunchieBot",
+    "choices": "HungryBot\nMunchieBot\nBot\nFoodBot",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Nightlife, the second expansion pack for The Sims 2, Sims can have their own cars.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which is not an actual die?",
+    "category": "video-games",
+    "answer": "d18",
+    "choices": "d10\nd100\nd4\nd18",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This class has the ability to smite evil.",
+    "category": "video-games",
+    "answer": "Paladin",
+    "choices": "Rogue\nPaladin\nRanger\nSorcerer",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This race doesnt sleep, they meditate instead.",
+    "category": "video-games",
+    "answer": "Elf",
+    "choices": "Dwarf\nElf\nHuman\nChangeling",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these is not a feat?",
+    "category": "video-games",
+    "answer": "Knowledge Arcana",
+    "choices": "Quick Draw\nKnowledge Arcana\nForge Ring\nToughness",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "You roll a d20 for attack rolls (to see if you hit your opponent).",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which item costs the most according to the Players Handbook?",
+    "category": "video-games",
+    "answer": "Full Plate Mail",
+    "choices": "Whetstone\nTwo-Bladed Sword\nFull Plate Mail\nHeavy Repeating Crossbow",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How far can a medium sized, unencumbered creature walk in one round?",
+    "category": "video-games",
+    "answer": "30 feet",
+    "choices": "20 feet\n50 feet\n30 feet\n10 feet",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which class casts arcane magic innately?",
+    "category": "video-games",
+    "answer": "Sorcerer",
+    "choices": "Ranger\nCleric\nWizard\nSorcerer",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This 9th level wizard spell is sought after by many characters as a reward.  Many wizards also strive to learn this spell.",
+    "category": "video-games",
+    "answer": "Wish",
+    "choices": "Power Word Kill\nWish\nImprisonment\nGate",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This class must choose 2 weapon fighting or archery as their weapon style at 2nd level.",
+    "category": "video-games",
+    "answer": "Ranger",
+    "choices": "Bard\nCleric\nRanger\nFighter",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Where is the first warp whistle located in the game Super Mario 3?",
+    "category": "video-games",
+    "answer": "world 1-3",
+    "choices": "world 1-3\nworld 1 fortress\nworld 2-5\nworld 1-4",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Mario Kart: Double Dash, what is the last thing you unlock by getting gold in the all cup tour in mirror mode?",
+    "category": "video-games",
+    "answer": "Parade car",
+    "choices": "Parade car\nBullet car\nSuper Mario car\nGanondorf car",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following characters can bounce off walls in the game Super Smash Brothers Melee?",
+    "category": "video-games",
+    "answer": "Young Link",
+    "choices": "Luigi\nNess\nYoshi\nYoung Link",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the game Luigis Mansion, which of these in not one of Marios lost items?",
+    "category": "video-games",
+    "answer": "Marios belt",
+    "choices": "Marios shoe\nMarios hat\nMarios belt\nMarios star",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is the boss at the end of world 5 in the game Super Mario 2?",
+    "category": "video-games",
+    "answer": "Clawgrip",
+    "choices": "Birdo\nTryclide\nBowser\nClawgrip",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the game Super Mario 1, which level in world 7 is a water level?",
+    "category": "video-games",
+    "answer": "7-2",
+    "choices": "7-1\n7-2\n7-4\n7-3",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Super Mario World, you start the game on which island?",
+    "category": "video-games",
+    "answer": "Yoshis Island",
+    "choices": "Toads Island\nYoshis Island\nPeachs Island\nBowsers Island",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these is not a playable character in the video game Mario Party 4?",
+    "category": "video-games",
+    "answer": "Toad",
+    "choices": "Peach\nDonkey Kong\nMario\nToad",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the game Super Mario Sunshine, where is Bowser when you fight him at the end?",
+    "category": "video-games",
+    "answer": "in a hot tub",
+    "choices": "in his castle\nin a volcano\nin a hot tub\nin the windmill with Petey Piranha",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does Mario use for his power shot in the game Mario Power Tennis?",
+    "category": "video-games",
+    "answer": "a hammer",
+    "choices": "a fiery racket\na hammer\na star\na fire fist",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the God Pokemon called in Pokemon Pearl and Diamond?",
+    "category": "video-games",
+    "answer": "Arceus",
+    "choices": "Giratina\nDialga\nCresselia\nArceus",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Pokemon creature Snorunt can evolve in which of the following?",
+    "category": "video-games",
+    "answer": "Glalie  Froslass",
+    "choices": "Glalie  Snolie\nGlalie  Froslass\nGlalie  Galrunt\nGlalie  Probopass",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In what Pokemon version can Palkia be obtained?",
+    "category": "video-games",
+    "answer": "Pearl",
+    "choices": "Pearl\nBlue\nDiamond\nRed",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was the first ever ghost Pokemon to appear in a Pokemon episiode?",
+    "category": "video-games",
+    "answer": "Gengar",
+    "choices": "Misdreavus\nGengar\nGhastly\nHaunter",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What Pokemon abducted Professor Spencer Haled in the movie Pokemon 3?",
+    "category": "video-games",
+    "answer": "Unknown",
+    "choices": "Aipom\nGengar\nUnknown\nEntei",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many heroes are alive at the end of Startcraft: Brood War?",
+    "category": "video-games",
+    "answer": "6 - Artanis, Arcturus Mengsk, Jim Raynor, Zeratul, Samir Duran, Sarah Kerrigan",
+    "choices": "6 - Artanis, Arcturus Mengsk, Jim Raynor, Zeratul, Samir Duran, Sarah Kerrigan\n7 - Aratnis, Arcturus Mengsk, Aldaris, Samir Duran, Sarah Kerrigan, Fenix, Zeratul\n5 - Fenix, Arcturus Mengsk, Edmund Duke, Samir Duran, Sarah Kerrigan\n7 - Aratnis, Arcturus Mengsk, Aldaris, Samir Duran, Sarah Kerrigan, Fenix, Jim Raynor",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Edmund Duke leads which group of elite fighters?",
+    "category": "video-games",
+    "answer": "Alpha Squadron",
+    "choices": "Alpha Squadron\nBeta Squadron\nDelta Squadron\nOmega Squadron",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What type of unit is Zeratul?",
+    "category": "video-games",
+    "answer": "Dark Templar",
+    "choices": "Dark Archon\nHigh Templar\nDark Templar\nZealot",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What are characteristics of the Archon unit?",
+    "category": "video-games",
+    "answer": "10 hit points and 350 plasma shield",
+    "choices": "10 hit points and 250 plasma shield\n20 hit points and 250 plasma shield\n10 hit points and 350 plasma shield\n20 hit points and 300 plasma shield",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What unit says that in the game?",
+    "category": "video-games",
+    "answer": "Dark Templar",
+    "choices": "Zealot\nScout\nDark Templar\nZealot",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is Alexei Stukovs rank?",
+    "category": "video-games",
+    "answer": "Vice Admiral",
+    "choices": "General\nAdmiral\nVice Admiral\nCorporal",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "During which mission do Edmund Duke and Fenix die?",
+    "category": "video-games",
+    "answer": "True colors",
+    "choices": "True colors\nOmega station\nDay of lightning\nHammer falls",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who leads the UED (United Earth Directorate forces)?",
+    "category": "video-games",
+    "answer": "Gerard DuGalle",
+    "choices": "Samir Duran\nGerard DuGalle\nJim Raynor\nAlexei Stukov",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is Kerrigan talking to?",
+    "category": "video-games",
+    "answer": "Fenix",
+    "choices": "Zeratul\nEdmund Duke\nFenix\nArtanis",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the Italian plumber, thats also the mascot of Nintendo?",
+    "category": "video-games",
+    "answer": "Mario",
+    "choices": "Luigi\nDonkey Kong\nSonic\nMario",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does KOTOR stand for?",
+    "category": "video-games",
+    "answer": "Knights of the Old Republic",
+    "choices": "Kings Of The Old Realm\nKnow One Tells Our Ruses\nKin Of Time Or Rain\nKnights of the Old Republic",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the video game Rock Band you can play multiple instruments in the band.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which Age of Empires game expansion pack allows you to play as Native Americans?",
+    "category": "video-games",
+    "answer": "The War Chiefs",
+    "choices": "The War Chiefs\nThe Tribal Warriors\nThe Lakota Warriors\nAsian Dynasty",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of Donkey Kongs tiny sidekick?",
+    "category": "video-games",
+    "answer": "Diddy Kong",
+    "choices": "Tiny Kong\nDonkey Kong Jr.\nDiddy Kong\nMini Donkey Kong",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which GTA game features Tommy Vercetti?",
+    "category": "video-games",
+    "answer": "Vice City",
+    "choices": "Grand Theft Auto III\nSan Andreas\nGTA 9,000\nVice City",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which game is Luis Sera featured in?",
+    "category": "video-games",
+    "answer": "Resident Evil 4",
+    "choices": "Burnout Revenge\nDead Rising\nResident Evil 4\nMidnight Mayhem",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these games is not based on a comic book?",
+    "category": "video-games",
+    "answer": "Kingdom Hearts",
+    "choices": "The Darkness\nGhost Rider\nKingdom Hearts\nX-Men The Game",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these songs is not in Guitar Hero 2?",
+    "category": "video-games",
+    "answer": "We Will Rock You",
+    "choices": "Carry on My Wayward Son\nStrutter\nWar Pigs\nWe Will Rock You",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In 2007, this game was named by IGN the 3rd best GameCube game of all time.",
+    "category": "video-games",
+    "answer": "Super Smash Bros Melee",
+    "choices": "Pikmin\nSuper Smash Bros Melee\nResident Evil 4\nNicktoons Unite",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Legend of Zelda: Twilight Princess, what is the name of the first sword you get?",
+    "category": "video-games",
+    "answer": "Wooden sword",
+    "choices": "Ordon sword\nFour sword\nWooden sword\nMaster sword",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In The Legend of Zelda: Majoras Mask, how many days do you have until the moon crashes down on Temina?",
+    "category": "video-games",
+    "answer": "three",
+    "choices": "one\nnine\nthree\nsix",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "There is at least one game of the Zelda series of games, released from 1986 to 2006, in which Zelda and Link get married.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the name of the owner of lon-lon ranch in the Zelda series of games?",
+    "category": "video-games",
+    "answer": "Talon",
+    "choices": "Zelda\nIngo\nMinda\nTalon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In The Legend of Zelda: Twilight Princess, what was the name of the villain that had been fired from a joker at Hyrule Castle?",
+    "category": "video-games",
+    "answer": "None of these",
+    "choices": "None of these\nGannondorf\nNavi\nVati",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Zelda series of games, what is the name of the tribe Gannondorf comes from?",
+    "category": "video-games",
+    "answer": "Gerudo",
+    "choices": "Zora\nGerudo\nGoron\nHylian",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Link, one of the main characters in the Zelda series of games, is a member of what race?",
+    "category": "video-games",
+    "answer": "Hylians",
+    "choices": "Hylians\nKokiri\nZora\nGoron",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is Links fathers name according to the Zelda series of games?",
+    "category": "video-games",
+    "answer": "It has never been revealed.",
+    "choices": "It has never been revealed.\nGerald\nSam\nLance",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In which Zelda game does Link turn into a bunny when he goes into the dark world without a pearl?",
+    "category": "video-games",
+    "answer": "Link to the Past",
+    "choices": "Twilight Princess\nLink to the Past\nOcarina of Time\nLinks Awakening",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which computer game is this soundtrack from?",
+    "category": "video-games",
+    "answer": "Double Dragon",
+    "choices": "Double Dragon\nFinal Fight\nPunisher\nStreet Fighter",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What island do you start on in the online role-playing game RuneScape?",
+    "category": "video-games",
+    "answer": "Tutorial Island",
+    "choices": "Beginners Island\nNoobonia Island\nStartagonia Island\nTutorial Island",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What icon is used to start a low detail RuneScape game?",
+    "category": "video-games",
+    "answer": "A warrior",
+    "choices": "A skeleton\nAn imp\nA warrior\nA barbarian",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the sword used to defeat the demon in the demon slayer quest of the online role-playing game RuneScape?",
+    "category": "video-games",
+    "answer": "Silverlight",
+    "choices": "Brightheart\nDemonbane\nThe Shining Light\nSilverlight",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the online role-playing game RuneScape, what kind of fruit is grown in Karajama?",
+    "category": "video-games",
+    "answer": "Bananas",
+    "choices": "Apples\nBananas\nOranges\nPineapples",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Priest robes raise your mage level in the mass online game RuneScape.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the highest weapon type available to nonmembers in the online role-playing game RuneScape?",
+    "category": "video-games",
+    "answer": "Rune",
+    "choices": "Dragon\nGranite\nRune\nAdamantite",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the fantasy realm in which the RuneScape game is set?",
+    "category": "video-games",
+    "answer": "Gielinor",
+    "choices": "None of these\nModor\nGomor\nGielinor",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does Traiborn call you in the online role-playing game RuneScape?",
+    "category": "video-games",
+    "answer": "Thingummywut",
+    "choices": "Bungdungydingdong\nHugmugabugger\nThingummywut\nTrindindlekindy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The action in the survival horror game Resident Evil 4 takes place in what country?",
+    "category": "video-games",
+    "answer": "Spain",
+    "choices": "Germany\nSpain\nFrance\nUSA",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the guns listed is available before you beat the Resident Evil 4 game?",
+    "category": "video-games",
+    "answer": "Killer7",
+    "choices": "Chicago typewriter\nKiller7\nHandcannon\nInfinite Launcher",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the merchants real name in the video game Resident Evil 4?",
+    "category": "video-games",
+    "answer": "It is not mentioned",
+    "choices": "Jeremy\nKrauser\nIt is not mentioned\nRobert",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This creature from the game Resident Evil 4 was created by splicing genes from reptiles, insects and a human into one organism.",
+    "category": "video-games",
+    "answer": "U3",
+    "choices": "None of the above\nVerdugo\nGarrador\nU3",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the survival video game Resident Evil 4, the handcannon with its exclusive upgrade does 99.9 damage and has infinite ammo.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Not including the rocket launcher, what is the second most powerful weapon in Resident Evil 4, according to its damage per shot?",
+    "category": "video-games",
+    "answer": "Broken butterfly",
+    "choices": "Semi-auto rifle\nChicago typewriter\nKiller7\nBroken butterfly",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Whose final speech ends in We shall win through no matter the cost!",
+    "category": "video-games",
+    "answer": "Arcturus Mengsk",
+    "choices": "Alexei Stukov\nEdmund Duke\nJim Raynor\nArcturus Mengsk",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who kills the Matriarch?",
+    "category": "video-games",
+    "answer": "Zeratul",
+    "choices": "Zeratul\nSarah Kerrigan\nAldaris\nSamir Duran",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The words Doom to all who threaten the homeworld belong to which unit?",
+    "category": "video-games",
+    "answer": "Zealot",
+    "choices": "Zealot\nDark Templar\nArchon\nDark Archon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What were the words of Sarah Kerrigan to Jim Raynor when they first met?",
+    "category": "video-games",
+    "answer": "You pig!",
+    "choices": "You pig!\nHello, Jimmy\nHello, sheriff\nHello, marshal",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many hit points does the Arclite Siege Tank have?",
+    "category": "video-games",
+    "answer": "150",
+    "choices": "140\n160\n150\n120",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Listen to the dialogue and determine what name is missing at the end",
+    "category": "video-games",
+    "answer": "Alexei",
+    "choices": "Raynor\nAlexei\nGerard\nKerrigan",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What hero do these words belong to: I fear no death, I fear no enemy, our\nstrength is eternal",
+    "category": "video-games",
+    "answer": "Fenix",
+    "choices": "Artanis\nZeratul\nFenix\nTessadar",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the official version for the death of Alexei Stukov?",
+    "category": "video-games",
+    "answer": "He dies during the final assault on planet Char",
+    "choices": "He commits suicide after his fleet is destroyed\nHe is killed by Samir Duran, because he was a traitor\nHis spaceship is blown up by Prottos forces\nHe dies during the final assault on planet Char",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which unit says You called down the Thunder, now reap the Whirlwind.",
+    "category": "video-games",
+    "answer": "Ghost",
+    "choices": "Ghost\nMedic\nMarine\nFirebat",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This sound clip is from what classic Nintendo game?",
+    "category": "video-games",
+    "answer": "Super Mario Bros",
+    "choices": "Star Fox\nDonkey Kong\nSuper Mario Bros\nThe Legend of Zelda",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This sound clip is from what NES game featuring a creature that could eat anything?",
+    "category": "video-games",
+    "answer": "Kirbys Adventure",
+    "choices": "Metroid\nLegend of Zelda\nSuper Mario Bros.\nKirbys Adventure",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This is the theme to what Xbox video game?",
+    "category": "video-games",
+    "answer": "Halo",
+    "choices": "Final Fantasy\nEldar Scrolls IV: Oblivion\nRainbow 6\nHalo",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This is the overworld theme to this NES game that introduced the save function because the game took so long to complete.",
+    "category": "video-games",
+    "answer": "Legend of Zelda",
+    "choices": "Metroid\nDonkey Kong\nLegend of Zelda\nSuper Mario Bros.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This is the victory theme to what popular video game series?",
+    "category": "video-games",
+    "answer": "Final Fantasy",
+    "choices": "Mortal Combat\nLegend of Zelda\nFinal Fantasy\nSuper Mario",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "From which fighting game is this sound clip?",
+    "category": "video-games",
+    "answer": "Super Smash Bros. Melee",
+    "choices": "Street Fighter II\nSuper Smash Bros. Melee\nTeken 4\nSoul Caliber II",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This sound clip is from what Game Boy game that spawned an anime TV show and a collectible card game?",
+    "category": "video-games",
+    "answer": "Pokemon",
+    "choices": "Final Fantasy\nPokemon\nMagic the Gathering\nYu-Gi-Oh",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This sound clip is from what PC RTS game?",
+    "category": "video-games",
+    "answer": "Age of Empires II",
+    "choices": "Age of Empires II\nStarCraft\nCommand and Conquer\nWarcraft III",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This sound clip is a theme in which of the following Legend of Zelda games?",
+    "category": "video-games",
+    "answer": "The Legend of Zelda: Ocarina of Time",
+    "choices": "The Legend of Zelda: A Link to the Past\nThe Legend of Zelda\nThe Legend of Zelda: The Wind Waker\nThe Legend of Zelda: Ocarina of Time",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This sound clip is from what video game series?",
+    "category": "video-games",
+    "answer": "Star Fox",
+    "choices": "Star Wars: Rouge Squadron\nFinal Fantasy\nStar Fox\nHalo",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these levels is on both Star Wars: Battlefront 1 and 2?",
+    "category": "video-games",
+    "answer": "Kamino",
+    "choices": "Death Star\nKamino\nBespin\nMustafar",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "You can control Jedi on both Star Wars: Battlefront 1 and 2.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the default number of points to destroy a ship in a space battle on Star Wars: Battlefront  2?",
+    "category": "video-games",
+    "answer": "180",
+    "choices": "500\n200\n10\n180",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Choose the correct order for player points bonuses in Star Wars: Battlefront from least to greatest.",
+    "category": "video-games",
+    "answer": "Endurance, Guardian, War Hero",
+    "choices": "Endurance, Guardian, War Hero\nGuardian, Endurance, War Hero\nWar Hero, Guardian, Endurance\nMarksman, Demolition, Technician",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The two levels on Kashyyyk on Star Wars: Battlefront 1 are Islands and Docks.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "On the Star Wars: Battlefront game, which of these is among the non-player characters of the game?",
+    "category": "video-games",
+    "answer": "Jawas",
+    "choices": "Mace Windu\nHeavy weapons soldier\nLuke Skywalker\nJawas",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who controls the AT-ATs on Hoth in Star Wars: Battlefront?",
+    "category": "video-games",
+    "answer": "Empire",
+    "choices": "Empire\nRebels\nRepublic\nCIS",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Warchief Thrall is the leader of which clan?",
+    "category": "video-games",
+    "answer": "Doomhammer",
+    "choices": "Warsong\nDeath Spear\nBlack Rock\nDoomhammer",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What type of creature is the DeathWing?",
+    "category": "video-games",
+    "answer": "Black Dragon",
+    "choices": "Black Dragon\nRed Dragon\nBone Dragon\nGreen Dragon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What unit or hero does the phrase Speak up fool belong to?",
+    "category": "video-games",
+    "answer": "Prince Arthas as Dead Knight",
+    "choices": "Ghoul\nDruid of the Claw\nPrince Arthas as Dead Knight\nPrince Arthas",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who kills Mannoroth?",
+    "category": "video-games",
+    "answer": "Grom Hellscream",
+    "choices": "Thrall\nPrince Arthas\nGrom Hellscream\nIllidan Stormrage",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What unit or hero does this phrase belong to?",
+    "category": "video-games",
+    "answer": "Dwarf Rifleman",
+    "choices": "muradin bronzebeard\nHuman Footman\nDwarf Rifleman\nThroll Hunter",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which building makes the Druid of the Claw unit?",
+    "category": "video-games",
+    "answer": "Ancient of  Lore",
+    "choices": "Ancient of  Lore\nAncient of  Wind\nAncient of Wisdom\nAncient of War",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who rides \uFFFDNightsabre Panthers\uFFFD?",
+    "category": "video-games",
+    "answer": "Huntresses",
+    "choices": "Wind Druids\nHead Hunters\nHuntresses\nArchers",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What unit or hero does the phrase \uFFFDI can see clearly, now the rain has gone\uFFFD belong to?",
+    "category": "video-games",
+    "answer": "Grom Hellscream",
+    "choices": "Thrall\nShadow Hunter\nGrom Hellscream\nThief",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Pokemon TV series, Ash saw a Gyarados in the first episode.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "On what other character is Ash Ketchum loosely based in the Pokemon video games?",
+    "category": "video-games",
+    "answer": "Red",
+    "choices": "Blue\nYellow\nGreen\nRed",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Is the Pokemon character Raikou included in any of the first ten Pokemon movies?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the first season of Johto called in Pokemon series?",
+    "category": "video-games",
+    "answer": "Johto Journeys",
+    "choices": "Johto\nJohto Quest\nJohto Journeys\nMaster Quest",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Was the tenth Pokemon movie released simultaneously in Japan and the USA?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Where can you find the gym leader Blaine in the video games Pokemon Gold and Silver and Pokemon Crystal?",
+    "category": "video-games",
+    "answer": "Seaform Islands",
+    "choices": "Celadon City\nSeaform Islands\nCinnabar Island\nFusia city",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the very first car you drive in the Need for Speed: Most Wanted game?",
+    "category": "video-games",
+    "answer": "BMW M3 GTR",
+    "choices": "Golf GTI\nBMW M3 GTR\nCorvette C6\nLamborghini Gallardo",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "There are a total of 20 blacklist drivers in the game Need for Speed: Most Wanted.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the racing game Need for Speed: Most Wanted, what are the street names of  Blacklist numbers 1, 4, 7, and 15?",
+    "category": "video-games",
+    "answer": "Razor, JV, Kaze, Sonny",
+    "choices": "Razor, JV, Kaze, Sonny\nTaz, Big Lou, Baron, Ronnie\nKaze, Big Lou, Bull, Razor\nWebster, Vic, Izzy, Bull",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many maximum infractions can you get in a single pursuit in the game Need for Speed: Most Wanted?",
+    "category": "video-games",
+    "answer": "8",
+    "choices": "10\n9\n8\n7",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Do you have a rap sheet in the game Need for Speed: Most Wanted?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of the following refers to the ability to win a Blacklist opponents car in the game Need for Speed: Most Wanted?",
+    "category": "video-games",
+    "answer": "pink slip",
+    "choices": "pink slip\ngold bars\norange tye\nthong wrap",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the racing game Need for Speed: Most Wanted, where is is Blacklist number one located?",
+    "category": "video-games",
+    "answer": "Rockport",
+    "choices": "Johan City\nRockport\nGoodwales\nAmberhill",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who created the theme song of the Super Mario Brothers game?",
+    "category": "video-games",
+    "answer": "Koji Kondo",
+    "choices": "Nobuo Uematsu\nKoji Kondo\nYasunori Mitsuda\nShigeru Miyamoto",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Shigeru Miyamoto constructed the arcade game Donkey Kongs music himself, using an Electronic Keyboard.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The core of this gaming console, released in 1977, was combined with a display and sound chip known as the TIA, for Television Interface Adaptor.  The console was capable of producing 2 channel mono sound.",
+    "category": "video-games",
+    "answer": "Atari 2600",
+    "choices": "Sega Master System\nIntellivision\nAtari 2600\nNintendo Entertainment System (NES)",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The sound chip of the Commodore 64 home computer, released in 1982, was very advanced for its time.  It had three channels with several different waveforms, which could reach 8 different octaves each (approximately 16 - 4000 Hz).  Name the chip.",
+    "category": "video-games",
+    "answer": "Sound Interface Device",
+    "choices": "Sound Interface Disk\nSound Interface Component\nSound Interface Device\nSound Interface Chip",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "My rogue in the game Dungeons and Dragons wants to use a wand of Greater Invisibility. In order to do this he must make a Use Magic Device check at what Difficulty Class?",
+    "category": "video-games",
+    "answer": "20",
+    "choices": "25\n30\n20\n15",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the listed bonuses in the game Dungeons and Dragons stacks?",
+    "category": "video-games",
+    "answer": "Dodge",
+    "choices": "Dodge\nEnchantment\nArmor\nDivine",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these feats does not prevent attacks of opportunity in one form or another in the role-playing game Dungeons and Dragons?",
+    "category": "video-games",
+    "answer": "Flyby Attack",
+    "choices": "Spring Attack\nFlyby Attack\nImproved Unarmed Strike\nImproved Trip",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which Knowledge Skill would allow you to determine the type of Giant you are facing in Dungeons and Dragons?",
+    "category": "video-games",
+    "answer": "Nature",
+    "choices": "Dungeoneering\nReligion\nArcane\nNature",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the game Dungeons and Dragons, a character with 5 ranks in Bluff gains a \u002B2 synergy bonus to all these skills but one. Which is the odd one?",
+    "category": "video-games",
+    "answer": "Gather Information",
+    "choices": "Diplomacy\nIntimidate\nSleight of Hand\nGather Information",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these is not a correct entrance requirement to join the Assassin Prestige Class in Dungeons and Dragons?",
+    "category": "video-games",
+    "answer": "Disguise 8 ranks",
+    "choices": "Disguise 8 ranks\nMove Silently 8 ranks\nHide 8 ranks\nAlignment: Any evil",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the game Dungeons and Dragons, Aamonks Ki Strike ability evolves in what order?",
+    "category": "video-games",
+    "answer": "Magic, Lawful, Adamantine",
+    "choices": "Magic, Adamantine, Lawful\nLawful, Magic, Adamantine\nMagic, Lawful, Adamantine\nAdamantine, Magic, Lawful",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Dungeons and Dragons, the Tumble Difficulty Class needed to kip up, according the Complete Adventurer book, is what?",
+    "category": "video-games",
+    "answer": "35",
+    "choices": "30\n35\n40\n25",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which class in Dungeons and Dragons does not get evasion?",
+    "category": "video-games",
+    "answer": "Barbarian",
+    "choices": "Monk\nRogue\nRanger\nBarbarian",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Of the choices for a Rangers favored enemy in Dungeons and Dragons, which number is immune to sneak attacks?",
+    "category": "video-games",
+    "answer": "5",
+    "choices": "6\n4\n3\n5",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many golden skulltulas could you get as child Link out of the whole game The Legend of Zelda: Ocarina of Time?",
+    "category": "video-games",
+    "answer": "35",
+    "choices": "35\n10\n20\n30",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many heart pieces can you get as adult Link in the game The Legend of Zelda: Ocarina of Time?",
+    "category": "video-games",
+    "answer": "24",
+    "choices": "5\n24\n20\n10",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the video game The Legend of Zelda: Ocarina of Time, what are the two places where you can get the hylian shield?",
+    "category": "video-games",
+    "answer": "Kakariko Graveyard and Hyrule town market.",
+    "choices": "lake Hylia and Hyrule castle.\nHaunted Wasteland and Zoras domain.\nGoron city and Kokiri forest.\nKakariko Graveyard and Hyrule town market.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In The Legend of Zelda: Ocarina of Time, how many items do you get that are improved later in the game?",
+    "category": "video-games",
+    "answer": "four",
+    "choices": "one\nsix\nthree\nfour",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In The Legend of Zelda: Ocarina of Time, how many items do you trade to get the Biggorons sword?",
+    "category": "video-games",
+    "answer": "9",
+    "choices": "11\n7\n10\n9",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the video game The Legend of Zelda: Ocarina of Time, Link wore tunics in three colors. They were green, red and yellow.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "How many hidden fairy fountains are there in the game The Legend of Zelda: Ocarina of Time, not counting the great fairies?",
+    "category": "video-games",
+    "answer": "6",
+    "choices": "3\n5\n6\n2",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following is NOT a character class in World of Warcraft?",
+    "category": "video-games",
+    "answer": "Blood-Elf",
+    "choices": "Warlock\nPaladin\nBlood-Elf\nDruid",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following races cannot play a Hunter in World of Warcraft?",
+    "category": "video-games",
+    "answer": "Gnome",
+    "choices": "Draenei\nGnome\nDwarf\nTauren",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Horde and the Alliance are the two playable factions in World of Warcraft.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In World of Warcraft, it is possible to fly from Theramore to Stormwind.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In World of Warcraft, it is sometimes necessary to fight other groups of players inside an instance.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of the following is not a realm type in World of Warcraft?",
+    "category": "video-games",
+    "answer": "RP",
+    "choices": "PvP\nRP\nRP-PvP\nNormal",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the Iron Maiden song performed in Guitar Hero 3?",
+    "category": "video-games",
+    "answer": "The Number of the Beast",
+    "choices": "The Metal\nEnter Sandman\nOne\nThe Number of the Beast",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who sings Slow Ride, one of the songs included in Guitar Hero 3?",
+    "category": "video-games",
+    "answer": "Foghat",
+    "choices": "Foghat\nMetallica\nZZ Top\nSonic Youth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What song by Tenacious D appeared in the video game Guitar Hero 3?",
+    "category": "video-games",
+    "answer": "The Metal",
+    "choices": "Lou\nBulls On Parade\nAnarchy in the U.K.\nThe Metal",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Tom Morello is a member of the band Sonic Youth.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the first place you get a gig at on Guitar Hero 3?",
+    "category": "video-games",
+    "answer": "Backyard Bash",
+    "choices": "Fenway Park\nBackyard Bash\nYankee Stadium\nMitchs Moose Lounge",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the way to evolve the pokemon Tangela to tangrowth in the Diamond and Pearl Pokemon series?",
+    "category": "video-games",
+    "answer": "Level it up after learning ancient power.",
+    "choices": "Level it up after learning ancient power.\nTrade it while holding a growth incense.\nUse a leaf stone on it.\nLevel it up.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How do you evolve Rhydon into Rhyperior in the Diamond and Pearl Pokemon series?",
+    "category": "video-games",
+    "answer": "Trade Rhydon up while holding a protector.",
+    "choices": "Level Rhydon up.\nTrade Rhydon up while holding a hard stone.\nTrade Rhydon up while holding a protector.\nTrade Rhydon.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In what way can you evolve the pokemon Gilgar into Gliscor in the Diamond and Pearl Pokemon series for Nintendo DS?",
+    "category": "video-games",
+    "answer": "None of these",
+    "choices": "Trade it.\nTrade it holding a razor fang.\nNone of these\nLevel up.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How do you evolve an Electabuzz into an Electrivire in the Diamond and Pearl Pokemon series?",
+    "category": "video-games",
+    "answer": "Trade it while holding a electrizer.",
+    "choices": "None of these\nTrade it while holding a electrizer.\nGive it a electrizer.\nTrain it while holding a electrizer.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Pokemon Diamond and Pearl, in what way do you evolve a Porygon2 into a Porygon-Z?",
+    "category": "video-games",
+    "answer": "Give it a dubious disc and trade it.",
+    "choices": "Give it an upgrade and trade it.\nGive it a tech disc and trade it.\nLevel it up.\nGive it a dubious disc and trade it.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the way to evolve a Yanma into a Yanmega in the Diamond and Pearl Pokemon series for Nintendo DS?",
+    "category": "video-games",
+    "answer": "At level 33 let Yanma learn anchient power.",
+    "choices": "At level 33 let Yanma learn rollout.\nAt level 33 let Yanma learn silver wind.\nNone of these\nAt level 33 let Yanma learn anchient power.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these is the correct way to evolve a Kirlia into a Gallade in Pokemon Diamond and Pearl?",
+    "category": "video-games",
+    "answer": "None of these",
+    "choices": "Use a dawn stone on Kirlia.\nTrade Kirlia.\nUse a dawn stone on a female Kirlia.\nNone of these",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In what way can you evolve the pokemon Snorunt into a Frosslass in the Diamond and Pearl Pokemon series for Nintendo DS?",
+    "category": "video-games",
+    "answer": "Use a dawn stone on a female Snorunt.",
+    "choices": "Use a dawn stone on a male Snorunt.\nUse a shiny stone on a male Snorunt.\nUse a dawn stone on a female Snorunt.\nUse a shiny stone on a females Snorunt.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How do you evolve a Dusclops into a Duskinoir in Pokemon Diamond and Pearl?",
+    "category": "video-games",
+    "answer": "Trade a Dusclops that is holding a reapers cloth.",
+    "choices": "Trade a Dusclops.\nTrain Dusclops at night.\nTrade a Dusclops that is holding a reapers cloth.\nNone of these",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "At what location does the PS2 role-playing game Final Fantasy X start?",
+    "category": "video-games",
+    "answer": "Zanarkand",
+    "choices": "Zanarkand\nMt. Gagazet\nBesaid\nKilika",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which other team member do you meet first in the PS2 game Final Fantasy X?",
+    "category": "video-games",
+    "answer": "Auron",
+    "choices": "Rikku\nKimhari\nAuron\nYuna",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Final Fantasy X, where does Yuna perform her first Sending?",
+    "category": "video-games",
+    "answer": "Kilika",
+    "choices": "Kilika\nBesaid\nDjos\u00E9\nHome",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Final Fantasy X, when you enter the Farplane in Guadosalam to talk to Yunas father, Auron stays behind because he is scared of confronting Jecht.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of these is not a blitzball team from the PS2 game Final Fantasy X?",
+    "category": "video-games",
+    "answer": "Ronso Rovers",
+    "choices": "Guado Glories\nBesiad Aurochs\nRonso Rovers\nLuca Goers",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Final Fantasy X, where do you get each of the following aeons respectively: Ifrit, Shiva, Yojimbo, Valefor, Magus Sisters, Ixion?",
+    "category": "video-games",
+    "answer": "Kilika, Macalania, Calm Lands, Besaid, Requiem, Djose",
+    "choices": "Djose, Requiem, Besaid, Macalania, Calm Lands, Kilika\nKilika, Macalania, Calm Lands, Besaid, Requiem, Djose\nMacalania, Kilika, Calm Lands, Gagazet, Requiem, Djose.\nKilika, Djose, Calm Lands, Requiem, Besiad, Macalania",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Where is Maester Seymour the final time you have to fight him in the PS2 role-playing game Final Fantasy X?",
+    "category": "video-games",
+    "answer": "In the Sea of Sorrows inside Sin",
+    "choices": "On top of Mt. Gagazet\nOn the Highroad in Bevelle\nOutside Besaid\nIn the Sea of Sorrows inside Sin",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to Final Fantasy X, what does this sentence in the Al Bhed language translate to: Xna ehi ayo degurk e wouj?",
+    "category": "video-games",
+    "answer": "Why are you taking a quiz?",
+    "choices": "How can you ignore a call?\nDid you see Tidus swim?\nWhy not see snakes a rule!\nWhy are you taking a quiz?",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Yunas speech at the end of Final Fantasy X, what phrase is an almost direct reference to Tidus?",
+    "category": "video-games",
+    "answer": "The dreams that have faded",
+    "choices": "The friends who have gone\nStand by your friends\nThe dreams that have faded\nLife is a game of blitzball",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does Sarias Song do in Legend of Zelda Ocarina of Time?",
+    "category": "video-games",
+    "answer": "Enables you to talk to Saria",
+    "choices": "Enables you to fly\nTeleports you to the Hyrule Castle\nTeleports you anywhere\nEnables you to talk to Saria",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Legend of Zelda Majoras Mask you are transformed into a Zora by Ganondorf.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Is it true that in Legend of Zelda Twilight Princess, after you get the Master Sword you can transform into a wolf any time you like?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Is it true that in Legend of Zelda and the Wind Waker, after you beat the game you can make a new file and not get Links green clothing?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In Legend of Zelda Ocarina of Time, once you pull out the Master Sword you will become older.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Is it true that in the whole Legend of Zelda series, the currency is rupees?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Where can you find the Spiritual Gem of Water in Legend of Zelda and the Ocarina of Time?",
+    "category": "video-games",
+    "answer": "Zoras Domain",
+    "choices": "Deku Tree\nZoras Domain\nDeath Moutain\nSky World",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What game console is the strategy video game Thrillville available on?",
+    "category": "video-games",
+    "answer": "Xbox/PSP/PS2",
+    "choices": "DS/Gamecube/PS3\nXbox/PSP/PS2\nPSP/PS3/PS2\nPS3/PS2/DS",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the strategy video game Thrillville, there are 4 categories in the park menu.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Can you take control of your staff members in the Thrillville video game strategy?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the simulation and strategy Thrillville, what is the best way to increase your attraction meter?",
+    "category": "video-games",
+    "answer": "Play the flirt mini-game",
+    "choices": "Play the flirt mini-game\nTalk with the person\nA challenge the person to a mini-game off\nRide rides together",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The video game Thrillville is rated T by the Entertainment Software Rating Board (ESRB).",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the Thrillville strategy video game you cant make money off of mini-games.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the Thrillville video game, can you make money off of playing mini-golf?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "You suck up trash by using a vacuum gun in the Thrillville video game.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Who are the people that save the gang from Tabuu in Super Smash Bros. Brawl?",
+    "category": "video-games",
+    "answer": "Ness, King Dedede, Luigi, Kirby",
+    "choices": "Ness, King Dedede, Luigi, Kirby\nMario, Luigi, Pit, Bowser\nNobody saves them.\nR.O.B., Lucario, Snake",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many rooms are there in the Great Maze in Super Smash Bros. Brawl?",
+    "category": "video-games",
+    "answer": "40",
+    "choices": "There is no great maze.\n126\n999999\n40",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What character from Super Smash Bros. Brawl was not in Super Smash Bros. Melee?",
+    "category": "video-games",
+    "answer": "Ike",
+    "choices": "Pikachu\nFalco\nLink\nIke",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Including the Melee Pokemon Stadium, how many stadiums in Super Smash Bros. Brawl are related to Pokemon?",
+    "category": "video-games",
+    "answer": "3",
+    "choices": "2\n6\n1\n3",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the function of the the Astral Amulet in the computer game Chrono Cross?",
+    "category": "video-games",
+    "answer": "Serves as a key to open  dimension ports to other worlds",
+    "choices": "Serves as a key to open  dimension ports to other worlds\nTo see the future\nMakes you invisible\nUpgrades your weapons",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the computer game Chrono Cross, the water dragon gives you what ability?",
+    "category": "video-games",
+    "answer": "Ice Breath",
+    "choices": "Ice Breath\nFire attack\nBlizzard storm\nWater attack",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who made the following statement in the game Chrono Cross: I love you so much... That is why I sometimes desire to smash you to bits!!!?",
+    "category": "video-games",
+    "answer": "Fate",
+    "choices": "Fate\nKid\nLynx\nSarge",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these songs from the Chrono Cross soundtrack is on the sound clip?",
+    "category": "video-games",
+    "answer": "Radical Dreamers",
+    "choices": "Garden of the Gods\nRadical Dreamers\nFrozen Flame\nDream of  the Shore Near Another World",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which Chrono Cross character delivered the following words: In your eyes, I perceive both the look of a beauty  and the look of a beast.?",
+    "category": "video-games",
+    "answer": "Fortune Teller",
+    "choices": "Harle\nKid\nFortune Teller\nSerge",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Listen to the sound clip and name the song from the Chrono Cross soundtrack.",
+    "category": "video-games",
+    "answer": "Dreamwatch of time",
+    "choices": "Dreamwatch of time\nRadical Dreamers\nTime Scar\nDragon Knight",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Is Gyarados a water and flying type of Pokemon?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What type of Pokemon is Sableye?",
+    "category": "video-games",
+    "answer": "Ghost dark",
+    "choices": "Ghost\nGhost dark\nGhost psychic\nGhost poison",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What type of Pokemon is Tyranitar?",
+    "category": "video-games",
+    "answer": "Rock dark",
+    "choices": "Rock dark\nGround dark\nGround\nGround rock",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Gengar is a ghost dark type of Pokemon.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Is the Pokemon Togekiss flying and normal type of Pokemon?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Does the Pokemon Empolean belong only to the water type of Pokemon?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Is Typlosion only a fire type of Pokemon?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the online game RuneScape, you can wear rune platebody without doing the quest Dragonslayer.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the game RuneScape, big bones get your prayer level up higher than dragon bones.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Name the RuneScape character who is the duke of Lumberidge.",
+    "category": "video-games",
+    "answer": "Horacio",
+    "choices": "Horacio\nHaracio\nRoald\nRoyald",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the RuneScape game, you have to be level 85 to mine rune.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In RuneScape, green dragonhide is better than black dragonhide.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the game RuneScape, wearing Zamorack armour requires this level.",
+    "category": "video-games",
+    "answer": "40",
+    "choices": "50\n40\n35\n99",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "At the start of the RPG game Final Fantasy VIII, which characters are shown in the opening movie?",
+    "category": "video-games",
+    "answer": "Squall, Seifer, Rinoa, Edea",
+    "choices": "Squall, Seifer, Rinoa, Edea\nSquall, Rinoa\nSquall, Seifer, Quistis\nZell, Selphie, Squall",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is inside the lamp given to you by Headmaster Cid before your first official SEED mission in the role-playing game Final Fantasy VIII?",
+    "category": "video-games",
+    "answer": "Diablos",
+    "choices": "Ethers\nIfrit\nPotions\nDiablos",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Final Fantasy VIII, what is Seifers romantic dream?",
+    "category": "video-games",
+    "answer": "To be Edeas knight",
+    "choices": "To be Edeas knight\nTo marry Selphie\nTo date Rinoa\nTo go on holiday with Ade",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Did Quistis Trepe from Final Fantasy VIII have a group of admirers called the Trepies?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What did Squall say to the torturer in D-District Prison about SEED in Final Fantasy VIII?",
+    "category": "video-games",
+    "answer": "They want to plant flowers and then invade the countries.",
+    "choices": "They want to kill as many Galbadians as possible.\nThey want to nuke the planet and fly to a sanctuary.\nThey want to plant flowers and then invade the countries.\nThey want to master as many GFs as possible.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which two characters played Rock, Paper, Scissors in the role-playing game Final Fantasy VIII?",
+    "category": "video-games",
+    "answer": "The Brothers",
+    "choices": "Seifer and Squall\nAdel and Edea\nThe Brothers\nSquall and Zell",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the last fight of the role-playing game Final Fantasy VIII, who does Ultimecia summon?",
+    "category": "video-games",
+    "answer": "Griever",
+    "choices": "None of these\nRinoa\nUltima Weapon\nGriever",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the game Animal Crossing, the players must work part-time for the character who gives them their first house.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the video game Animal Crossing the player can dig up fossils.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of these is not included in the game Animal Crossing?",
+    "category": "video-games",
+    "answer": "A barbers shop.",
+    "choices": "A tailors shop\nA dump\nA museum\nA barbers shop.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the game Animal Crossing your character may have horns.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Can you have pets in the game Animal Crossing?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Can you have two houses in the Nintendo game Animal Crossing?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What can you have in your house in the game Animal Crossing?",
+    "category": "video-games",
+    "answer": "A basement",
+    "choices": "Rats\nA mailbox\nA roller-coaster\nA basement",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Can you own a shop in the game Animal Crossing?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The seasons in the game Animal Crossing change as the seasons actually change in real life.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In Runescape, what creature lives in the basement of Draynor Manor?",
+    "category": "video-games",
+    "answer": "a vampire",
+    "choices": "a vampire\na witch\na werewolf\na zombie",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the highest level your character can go up to in the Runescape game for non-members?",
+    "category": "video-games",
+    "answer": "126",
+    "choices": "99\n126\n113\nIt never ends",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Runescape, you must have level 40 defence to wear adamant armor.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What fruit grows on Karmaja in the Runescape video game?",
+    "category": "video-games",
+    "answer": "bananas",
+    "choices": "peaches\noranges\napples\nbananas",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What item do you obtain from the 2006 Runescape Christmas Special?",
+    "category": "video-games",
+    "answer": "a reindeer hat",
+    "choices": "a pair of Santas magical boots\na reindeer hat\na Santa hat\na polar bear suit",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Can you kill demons in a non-members world of Runescape?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Can you wear goblin mail in Runescape?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In Runescape, you must have a level of 99 on any skill to get a Skill Cape.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Sasuke, one of the main characters in the anime series Naruto, is branded with a cursed seal.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of these anime characters can use the technique, known as Rasengan?",
+    "category": "video-games",
+    "answer": "Naruto",
+    "choices": "Kakashi\nLee\nTenten\nNaruto",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What did anime character Sasuke say when he received the cursed seal?",
+    "category": "video-games",
+    "answer": "Im an avenger.",
+    "choices": "Ill destroy your whole clan.\nIm an avenger.\nWith this power Ill brake every bone in your body.\nYou are dead.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Fictional character Naruto killed Gaara.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is Narutos favorite food?",
+    "category": "video-games",
+    "answer": "ramen",
+    "choices": "tomatoes\npizza\nbrocoli\nramen",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who taught Sasuke the Chidori technique in the Naruto series?",
+    "category": "video-games",
+    "answer": "Kakashi",
+    "choices": "Naruto\nItachi\nKakashi\nOrochimaru",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What technique in the Naruto series was created by Kakashi?",
+    "category": "video-games",
+    "answer": "Chidori",
+    "choices": "Primary lotus\nRasengan\nLeaf whirlwind\nChidori",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does Naruto dream of being in the self-titled anime series?",
+    "category": "video-games",
+    "answer": "hokage",
+    "choices": "hokage\nreal estate salesman\nsinger\na pizza man",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What Naruto character was initially infatuated with Sasuke?",
+    "category": "video-games",
+    "answer": "Sakura",
+    "choices": "Ino\nNone of these\nSakura\nHinata",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "You get the P90 weapon at what level in Call of Duty 4?",
+    "category": "video-games",
+    "answer": "40",
+    "choices": "37\n43\n34\n40",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many different weapons are there in Call of Duty 4?",
+    "category": "video-games",
+    "answer": "29",
+    "choices": "30\n29\n17\n22",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "You can go into 15 Prestiges on XBox Livve.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In Call of Duty 4 you can run around with your knife and kill as many people as you want with it.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The Barret .50 Caliber is the most powerful sniper rifle in the game Call of Duty 4.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "How many skins for the weapons are there in Call of Duty 4?",
+    "category": "video-games",
+    "answer": "6",
+    "choices": "5\n6\n3\n1",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "If you shoot a person in the head in the game Call of Duty 4, they can survive.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of these is not a stage in the first game of Banjo and Kazooie for Nintendo 64?",
+    "category": "video-games",
+    "answer": "Cloud Cuckooland",
+    "choices": "Gobis Valley\nMumbos Mountain\nCloud Cuckooland\nFreezeezy Peak",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the adventure video game Banjo-Kazooie, how many turtles are in Tiptups choir?",
+    "category": "video-games",
+    "answer": "6",
+    "choices": "7\n6\n5\n8",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Gobis Valley from the Banjo-Kazooie adventure video game, how many notes are there in front of the door that you ride the magic carpet to?",
+    "category": "video-games",
+    "answer": "5",
+    "choices": "3\n5\n9\n7",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Mad Monster Mansion from the Banjo-Kazooie video game, what is the time shown on the clock above the church?",
+    "category": "video-games",
+    "answer": "None of these",
+    "choices": "13 oclock\nNone of these\nThe hands are moving\nMidnight",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the quiz stage of the adventure video game Banjo-Kazooie, failing a question on a Grunty Space will cause the characters to fall into the lava pit.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Gobi is the name of the camel in Gobis Valley in the Banjo and Kazooie video game.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Do you need to talk to somebody in Kurast Docks in order to activate the first quest in Act III of the computer game Diablo II?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Complete the title of the 2nd quest in Act III of the computer game Diablo II:  Blade of the _____ Religion.",
+    "category": "video-games",
+    "answer": "Old",
+    "choices": "New\nLost\nOld\nFound",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the third quest of Act III in Diablo II, how many items must be retrieved?",
+    "category": "video-games",
+    "answer": "4",
+    "choices": "4\n1\n5\n2",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who must you talk to, in order to activate the Lam Esens Tome quest in the computer game Diablo II?",
+    "category": "video-games",
+    "answer": "Alkor",
+    "choices": "Asheara\nOrmus\nDeckard Cain\nAlkor",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The 5th quest in Act III of Diablo II is activated by Ormus, only if you are able to find this place.",
+    "category": "video-games",
+    "answer": "Travincal",
+    "choices": "Kurast Bazaar\nDurance of Hate\nUpper Kurast\nTravincal",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What boss must be fought in the last quest in Act III of the computer game Diablo II?",
+    "category": "video-games",
+    "answer": "Mephisto",
+    "choices": "Andariel\nDiablo\nBaal\nMephisto",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What reward will you receive upon completing the first quest in Act IV of the game Diablo II?",
+    "category": "video-games",
+    "answer": "Two skill points",
+    "choices": "Free repair\nTwo skill points\nFree potions\nTwo points in your attributes",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "You must talk to this person in order to activate your 2nd quest in Act IV of the computer game Diablo II.",
+    "category": "video-games",
+    "answer": "Deckard Cain",
+    "choices": "Tyrael\nHalbu\nJamella\nDeckard Cain",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the title of the last quest in Act IV of the computer game Diablo II?",
+    "category": "video-games",
+    "answer": "Terrors End",
+    "choices": "Diablo: Lord of Terror\nRevenge\nTerrors End\nRestoration of Goodness",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which one of these songs is NOT in the final section of Guitar Hero III, Lous Inferno?",
+    "category": "video-games",
+    "answer": "Stricken",
+    "choices": "Stricken\nRaining Blood\nOne\nThe Number of the Beast",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "You must beat Guitar Hero III on Expert to be able to play Through the Fire and Flames.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What song is unlocked after beating Tom Morello in a guitar battle in the video game Guitar Hero III?",
+    "category": "video-games",
+    "answer": "Bulls on Parade",
+    "choices": "Bulls on Parade\nShe Bangs the Drums\nSchools out\nSlow Ride",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "After you beat Guitar Hero III on Expert, you are informed that you can really test your skill by doing this.",
+    "category": "video-games",
+    "answer": "playing Expert in Precision Mode",
+    "choices": "playing Expert in Precision Mode\nplaying people online\ntrying to get 5 stars on every song\nbattling against a friend",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "On what date was the release of Call of Duty 4: Modern Warfare announced?",
+    "category": "video-games",
+    "answer": "April 25, 2007",
+    "choices": "April 25, 2007\nMarch 10, 2007\nJune 30, 2007\nJune 22, 2007",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many times can a player trade in their levels at prestige mode in the first-person shooter Call of Duty 4?",
+    "category": "video-games",
+    "answer": "10",
+    "choices": "11\n9\n10\n12",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Xbox 360 version of Call of Duty 4, the achievement war pig is given for killing Khaled Al-Asad.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The AC-140 gunship has 3 different weapons and uses thermal vision in Call of Duty 4.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Billy Murray lends his voice to Captain Price from Call of Duty 4: Modern Warfare.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Who do you have to talk in order to receive your first quest after creating a character in the game Diablo II?",
+    "category": "video-games",
+    "answer": "Akara",
+    "choices": "Kashya\nAkara\nWarriv\nCharsi",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the 2nd quest in the first chapter of the computer game Diablo II?",
+    "category": "video-games",
+    "answer": "Sisters Burial Grounds",
+    "choices": "The Forgotten Tower\nSisters Burial Grounds\nDen of Evil\nThe Search for Cain",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who must be rescued in the third quest of the game Diablo II?",
+    "category": "video-games",
+    "answer": "Deckard Cain",
+    "choices": "Deckard Cain\nRaven\nGheed\nFlavie",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What must be retrieved in the fifth quest of the first act of the computer game Diablo II?",
+    "category": "video-games",
+    "answer": "Horadric Malus",
+    "choices": "Horadric Headpiece\nHoradric Staff\nHoradric Cube\nHoradric Malus",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the last quest in Chapter I of the computer game Diablo II?",
+    "category": "video-games",
+    "answer": "Sisters to the Slaughter",
+    "choices": "Sisters to the Slaughter\nFathers to the Slaughter\nBrothers to the Slaughter\nMothers to the Slaughter",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who must be defeated in the first quest of the second chapter of the computer game Diablo II?",
+    "category": "video-games",
+    "answer": "Radament",
+    "choices": "Radament\nDuriel\nTal Rasha\nSummoner",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which item must be formed, to succeed in the second quest of Chapter II of the computer game Diablo II?",
+    "category": "video-games",
+    "answer": "Horadric Staff",
+    "choices": "Horadric Malus\nHoradric Shaft\nHoradric Headpiece\nHoradric Staff",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is your objective of the 4th quest of Chapter II in the game Diablo II?",
+    "category": "video-games",
+    "answer": "to get the Journal",
+    "choices": "to kill the Summoner\nto kill all monsters in the Arcane Sanctuary\nto open the portal to the Kurast Docks\nto get the Journal",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who must be killed in the 5th quest in Chapter II of  Diablo II?",
+    "category": "video-games",
+    "answer": "Summoner",
+    "choices": "Hell Clan\nSummoner\nGhoul Lord\nSpecter",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who must be saved in the last quest in Chapter II (The Seven Tombs) of the computer game Diablo II?",
+    "category": "video-games",
+    "answer": "Tyrael",
+    "choices": "Tyrael\nOrmus\nJamella\nHalbu",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Name Master Chiefs partners in the video game Halo 1.",
+    "category": "video-games",
+    "answer": "Green Horns",
+    "choices": "Alienators\nAlien Hunters\nGreen Toads\nGreen Horns",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Name the aliens with the shields in the game Halo 1.",
+    "category": "video-games",
+    "answer": "Jackals",
+    "choices": "Hunters\nJackals\nGrunts\nElites",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "You start out with a weapon in the first level of Halo 1.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the name of the Halo 1 aliens with plasma cannons?",
+    "category": "video-games",
+    "answer": "Hunters",
+    "choices": "Hunters\nGrunts\nElites\nJackals",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What are the smallest aliens you face in the video game Halo 1?",
+    "category": "video-games",
+    "answer": "Grunts",
+    "choices": "Jackals\nHunters\nElites\nGrunts",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "These aliens are the protectors of halo in the video game Halo 1.",
+    "category": "video-games",
+    "answer": "Elites",
+    "choices": "Jackals\nHunters\nElites\nGrunts",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Master Chief is the protagonist of the Halo video game.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the name of Samus enemies common to nearly every Metroid video game",
+    "category": "video-games",
+    "answer": "Space Pirates",
+    "choices": "Space Pirates\nThe Federation\nThe Chozo\nX Parasites",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the suit Samus starts out with in almost every Metroid video game?",
+    "category": "video-games",
+    "answer": "Varia Suit",
+    "choices": "Power Suit\nGravity Suit\nVaria Suit\nPhazon Suit",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What word is always attached to the names of the shots that come from Samus arm-mounted gun in the Metroid video game?",
+    "category": "video-games",
+    "answer": "Beam",
+    "choices": "Beam\nRocket\nGun\nLauncher",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What type of character is Samus from the Metroid video game?",
+    "category": "video-games",
+    "answer": "Human Female",
+    "choices": "Chozo Male\nHuman Male\nLuminoth Female\nHuman Female",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Metroid video game, what is Samus profession?",
+    "category": "video-games",
+    "answer": "Bounty Hunter",
+    "choices": "Professional Collector\nSoldier\nPirate\nBounty Hunter",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What special abilities are unique to Metroids in the video game series Metroid?",
+    "category": "video-games",
+    "answer": "They can suck out your life energy.",
+    "choices": "They can suck out your life energy.\nThey can kill by physical contact.\nThey can create lifelike illusions.\nThey can kill by eye contact.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these is not an upgrade Samus receives in the Metroid game series?",
+    "category": "video-games",
+    "answer": "Grenade Launcher",
+    "choices": "Grenade Launcher\nMorph Ball\nMissile Launcher\nGrapple Beam",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Metroid video game series, what species created the suit and most of the upgrades available to Samus?",
+    "category": "video-games",
+    "answer": "The Chozo",
+    "choices": "The Lords of Science\nThe Chozo\nThe Luminoth\nThe X",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these is not an ability available to Samus while in Morph Ball Mode of the Metroid video game?",
+    "category": "video-games",
+    "answer": "Phazon Bomb",
+    "choices": "Phazon Bomb\nBomb\nPower Bomb\nBoost Ball",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Naruto was first published in 1999, in this magazine.",
+    "category": "video-games",
+    "answer": "Weekly Shonen Jump",
+    "choices": "Weekly Shonen Run\nWeekly Shonen Jump\nMonthly Shonen Jump\nNone of these",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is the only female Akatsuki member in the Naruto manga series?",
+    "category": "video-games",
+    "answer": "Konan",
+    "choices": "Jugo\nMadara\nKanan\nKonan",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is the first ninja recruited for the fictional team Hawk?",
+    "category": "video-games",
+    "answer": "Suigetsu Hozuki",
+    "choices": "Suigetsu Hozuki\nShunsuke Sakuya\nSasuke Uchiha\nAkeno Watanabe",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Namikaze Sateraito is the opening song for the first 22 episodes of which Naruto season?",
+    "category": "video-games",
+    "answer": "1",
+    "choices": "1\n7\n6\n8",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Orochimarus Curse is the title of which volume of the Naruto manga?",
+    "category": "video-games",
+    "answer": "7",
+    "choices": "5\n6\n7\n4",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Masatoshi Kazikuga is the author of two novelizations of Naruto, published in Japan and America.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What can you wield after the Monkey Madness Quest in RuneScape?",
+    "category": "video-games",
+    "answer": "Dragon Scimitar",
+    "choices": "Dragon Scimitar\nDragon Spear\nDragon Halberd\nDragon Longsword",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The RuneScape game was created by Christopher Grower.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of the following RuneScape defence armors is the best?",
+    "category": "video-games",
+    "answer": "Veracs (full)",
+    "choices": "Dragon (full)\nGuthans (full)\nDharoks (full)\nVeracs (full)",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "When was the first version of RuneScape released to the public?",
+    "category": "video-games",
+    "answer": "January 4th 2001",
+    "choices": "July 4th, 2003\nFebuary 8th 1998\nJanuary 4th 2001\nJune 5th 2001",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "RuneScape is set in the fantasy-themed realm of Gielinor.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The creator of RuneScape was helped by his cousin, Joel, in developing the game.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What was RuneScape originally named?",
+    "category": "video-games",
+    "answer": "DeviousMUD",
+    "choices": "DeviousMUD\nRuneworld\nDeviousWOF\nRuneLand",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the evil god in RunesSape whose rival is Saradomin?",
+    "category": "video-games",
+    "answer": "Zamorak",
+    "choices": "Guthan\nGuthix\nDharok\nZamorak",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Are there members-only servers for RuneScape Classic?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What weapon do you wield after the Regicide Quest in RuneScape?",
+    "category": "video-games",
+    "answer": "Dragon hally",
+    "choices": "Dragon hally\nFlaming sword of death\nDragon longsword\nDagon scimitar",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Ash Ketchum, the main protagonist in the Pok\u00E9mon anime, is loosely based on what other character?",
+    "category": "video-games",
+    "answer": "Red",
+    "choices": "Blue\nGreen\nRed\nYellow",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In what way can you evolve the Pokemon Gilgar into Gliscor in the Diamond and Pearl Pokemon series for Nintendo DS?",
+    "category": "video-games",
+    "answer": "none of these",
+    "choices": "none of these\ntrain it at night\nTrade it while holding a razor fang\ntrade it",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Celebi is a grass type Pokemon that you can find in the sinnow region.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of the following is not a game in The Last Half of Darkness series?",
+    "category": "video-games",
+    "answer": "The Last Half of Darkness: New Ways to Die",
+    "choices": "The Last Half of Darkness 3\nThe Last Half of Darkness: Shadows of the Servants\nThe Last Half of Darkness VGA\nThe Last Half of Darkness: New Ways to Die",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these is not the title of an actual PC game?",
+    "category": "video-games",
+    "answer": "Last Warrior of Orion",
+    "choices": "Power Rangers Time Force\nLast Warrior of Orion\nMaster of Magic\nArchon Ultra",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following is part of the game Archon Ultra?",
+    "category": "video-games",
+    "answer": "Valkyrie",
+    "choices": "Valkyrie\nBlack Knight\nWitch\nOrc",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Last Half of Darkness series, there is a Last Half of Darkness III VGA.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of these horror movie based games isnt a PC game?",
+    "category": "video-games",
+    "answer": "Blade",
+    "choices": "The Mist\nAlien Trilogy\nBlade\nClive Barkers Undying",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these games was not developed by New World Computing?",
+    "category": "video-games",
+    "answer": "X-COM: UFO Defense",
+    "choices": "Heroes of Might and Magic\nPlanets Edge\nMight and Magic\nX-COM: UFO Defense",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following is not an adventure game?",
+    "category": "video-games",
+    "answer": "Raptor: Call of the Shadows",
+    "choices": "Dragon Lore: The Legend Begins\nRaptor: Call of the Shadows\nThe Nine Lives of the Secret Agent Katt\n7th Guest",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What type of game is Power Rangers Time Force?",
+    "category": "video-games",
+    "answer": "All of these",
+    "choices": "All of these\n3D Action game\nMini-game collection\n2D Side-scroller",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who created the game Last Half of Darkness?",
+    "category": "video-games",
+    "answer": "William R. Fisher III",
+    "choices": "Brian Moriarty\nBill Gates\nWilliam R. Fisher III\nRoberta Williams",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following is not a real role-playing game?",
+    "category": "video-games",
+    "answer": "Last Guardian",
+    "choices": "Albion\nDungeon Master\nLast Guardian\nBloodnet",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the evil dragon in RuneScape that players have to kill in the Dragon Slayer quest?",
+    "category": "video-games",
+    "answer": "Elvarg",
+    "choices": "Elvarg\nDelrith\nHector\nVerac",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the RuneScape game, on the Construction Skillcape emote, the character performing the emote does which of the following?",
+    "category": "video-games",
+    "answer": "Builds a small house around himself",
+    "choices": "Builds a small house around himself\nHammers down nails on a board\nMakes a workbench with a saw\nBuilds a bridge",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "To equip Barrows armour and weapons in RuneScape, you must have an attack and defence level 70.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Is it true that in the RuneScape game, goblins can be found only in Goblin Village and Goblin Cave?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the RuneScape game, you need to have 80 defence to use Guthix armor.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What was the reward in RuneScapes 2008 Easter Seasonal Event?",
+    "category": "video-games",
+    "answer": "a chocatrice cape that turns you into a wrapped egg",
+    "choices": "a chocolate sword that you can eat off of 3 times a day healing 10hp\na chocatrice cape that turns you into a wrapped egg\nEaster bunny ears that make your speed increase\na giant cookie",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the mime random event in RuneScape, the object is to identify all the mime emotes and get a reward afterwards.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "To start the Demon Slayer Quest in RuneScape, you must talk to which one of these?",
+    "category": "video-games",
+    "answer": "The Gypsy",
+    "choices": "a dwarf\nThe Gypsy\nSir Vyrinn\nThe duke of Lumbridge",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In what RuneScape quest do you have to use a friend from the opposite gang?",
+    "category": "video-games",
+    "answer": "Shield of Arrav",
+    "choices": "Dragon Slayer\nShield of Arrav\nVampire Slayer\nRomeo and Juliet",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the game Super Mario Kart, how many coins do you receive for placing 1st in a single race?",
+    "category": "video-games",
+    "answer": "9",
+    "choices": "15\n9\n10\n12",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Do players have lives in the racing game Super Mario Kart?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the game Super Mario Kart, what does the mushroom item do to the racer?",
+    "category": "video-games",
+    "answer": "gives the racer a short burst of speed",
+    "choices": "poisons the racer so they cant steer correctly\ngives the racer a short burst of speed\nmakes the racer large to run over other racers\nslows the racer so they dont go as fast",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "All of the following cups are in the game Super Mario Kart, except which one of these?",
+    "category": "video-games",
+    "answer": "Lightning cup",
+    "choices": "Star cup\nMushroom cup\nSpecial cup\nLightning cup",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The feather item in the game Super Mario Kart helps the racer by jumping.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the Flower cup, in the game Super Mario Kart, on which track do you start?",
+    "category": "video-games",
+    "answer": "Choco Island",
+    "choices": "Donut Plains 2\nChoco Island\nKoopa Beach 1\nMario Circuit 1",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Super Mario Kart, the green shell is a heat-seeking missile.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the game Super Mario Kart, for the Super Nintendo, it is possible to fall off the track.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "All of the following are items used in the game Super Mario Kart, for the Super NES, except which one of the following?",
+    "category": "video-games",
+    "answer": "blue shell",
+    "choices": "coins\nbanana peel\nghost\nblue shell",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "On the Nintendo 64 version of Mario Kart, Wario replaced which of the following playable characters from the Super NES version?",
+    "category": "video-games",
+    "answer": "Koopa Troopa",
+    "choices": "Princess Peach\nKoopa Troopa\nDonkey Kong\nYoshi",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "There is a PC port in the first three Timesplitters games.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "How many of the following Power Rangers games are for PC: Power Rangers; Power Rangers: Lightspeed Rescue; Power Rangers: Super Legends; Power Rangers Zeo Versus the Machine Empire; Power Rangers: Ninja Storm Double Pack?",
+    "category": "video-games",
+    "answer": "5",
+    "choices": "5\n4\n2\n1",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Excluding collections, how many Might and Magic games were released from 1986 to 2002?",
+    "category": "video-games",
+    "answer": "11",
+    "choices": "11\n9\n10\n7",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Might and Magic 8, which of these classes are unselectable for the main character?",
+    "category": "video-games",
+    "answer": "Dragon",
+    "choices": "Vampire\nDark Elf\nKnight\nDragon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Joe Satriani was given a special thanks in B.A.T. II.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In which of these games does the player take the role of Kirt?",
+    "category": "video-games",
+    "answer": "Shadowcaster",
+    "choices": "Marvel: Ultimate Alliance\nQuest for Glory\nFreedom Force\nShadowcaster",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these games is rogue-like?",
+    "category": "video-games",
+    "answer": "Ancient Domains of Mystery",
+    "choices": "Neverwinter Nights\nBaldurs Gate\nThe Elder Scrolls 4 Obvilion\nAncient Domains of Mystery",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many races are there in Star Wars: Galactic Battlegrounds? (With expansion)",
+    "category": "video-games",
+    "answer": "8",
+    "choices": "12\n7\n8\n6",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What do you transform into in stage 4 of Altered Beast?",
+    "category": "video-games",
+    "answer": "Weretiger",
+    "choices": "Werewolf\nWerebear\nWeredragon\nWeretiger",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these games isnt an action/adventure hybrid?",
+    "category": "video-games",
+    "answer": "Grand Theft Auto",
+    "choices": "Grand Theft Auto\nKings Quest: Mask of Eternity\nThe Nine Lives of the Secret Agent Katt\nThe Adventures of Maddog Williams",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is the protagonist of the PC game Blood?",
+    "category": "video-games",
+    "answer": "Caleb",
+    "choices": "Ellen Ripley\nHugo\nBlake Stone\nCaleb",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these isnt a game from the Hugo series?",
+    "category": "video-games",
+    "answer": "Hugos Castle of Death",
+    "choices": "Hugos Castle of Death\nHugos House of Horror\nNightmare 3D\nWhodunit?",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Name the odd game.",
+    "category": "video-games",
+    "answer": "Archon",
+    "choices": "The Terminator\nDoom\nTwilight 2000\nArchon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these games was not developed by Blizzard?",
+    "category": "video-games",
+    "answer": "Hammer of the Gods",
+    "choices": "Blackthrone\nDiablo\nThe Lost Vikings\nHammer of the Gods",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these games was developed by New World Computing?",
+    "category": "video-games",
+    "answer": "Planets Edge",
+    "choices": "Pizza Tycoon\nPlanets Edge\nBlackthrone\nOne Must Fall 2097",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these isnt a Sega collection for PC?",
+    "category": "video-games",
+    "answer": "Sega Genesis Collection",
+    "choices": "Sega Genesis Collection\nSonic 3 and Knuckles\nSega Smash Pack\nSonic Adventure DX: Directors Cut",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Nancy Drew conputer games, Nancy Drews trusty sidekicks are cousins George Fayne and this slightly plump blonde.",
+    "category": "video-games",
+    "answer": "Bess",
+    "choices": "Jenny\nBeth\nBess\nTess",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "These two detective brothers appear several times in the Nancy Drew computer games to help Nancy solve mysteries.",
+    "category": "video-games",
+    "answer": "Frank and Joe",
+    "choices": "Frank and Joe\nFrank and Moe\nFred and Joseph\nNone of these",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was the very first Nancy Drew computer game?",
+    "category": "video-games",
+    "answer": "Secrets Can Kill",
+    "choices": "Treasure in the Royal Tower\nSecrets Can Kill\nMessage in a Haunted Mansion\nSecret of the Old Clock",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What did Nancy Drew find along with a message in the computer game Message in a Haunted Mansion?",
+    "category": "video-games",
+    "answer": "A shark tooth",
+    "choices": "A piece of glass\nA bat wing\nShe did not find anything along with the note.\nA shark tooth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In which of these computer games did Nancy Drew wake up in the middle of the night because of a nightmare?",
+    "category": "video-games",
+    "answer": "Ghost of Blackmoor Manor",
+    "choices": "Creature of Kapu Cave\nSecrets Can Kill\nShe never had a nightmare.\nGhost of Blackmoor Manor",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these characters appears in the Nancy Drew computer game Lights, Camera, Curses!?",
+    "category": "video-games",
+    "answer": "Molly McOwens",
+    "choices": "Rick Arlen\nNone of these\nMolly McOwens\nSally McDonald",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the computer game Warnings at Waverly Academy, what was pictured on Nancy Drews cabin door?",
+    "category": "video-games",
+    "answer": "Mr. Mingles, the cat",
+    "choices": "Mr. Mingles, the cat\nA butterfly with you and your roommates names in it\nit was blank\nThe Waverly Academy crow",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Rick Arlen is known as an arrogant television star from Stay Tuned for Danger, but his picture appears in what place in another Nancy Drew game?",
+    "category": "video-games",
+    "answer": "In a briefcase",
+    "choices": "His picture never appears in another game\nIn a briefcase\nIn a bottle\nIn a bedside picture frame",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The wolf in the computer game White Wolf of Icicle Creek was named Isis.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the computer game The Final Scene, a flashing ring gave Nancy Drew the opportunity to save a friend.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the Nancy Drew computer game Ghost Dogs of Moon Lake, what is the rangers last name?",
+    "category": "video-games",
+    "answer": "Smith",
+    "choices": "Smith\nWilkinson\nMadison\nHis last name was never revealed",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "When you first start Wonderland Online, where do you find yourself?",
+    "category": "video-games",
+    "answer": "On a ship",
+    "choices": "On a ship\nOn an island\nOn a dock\nIn a volcano",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "When your raft gets washed up, what is the place it lands (for the first time) in the game Wonderland Online?",
+    "category": "video-games",
+    "answer": "Starter Beach",
+    "choices": "Beginners Island\nTutorial Ridge\nStarter Beach\nNewbie Point",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which one of these is not a jelly monster you can find on North Island in the game Wonderland Online?",
+    "category": "video-games",
+    "answer": "Pear",
+    "choices": "Pineapple\nPear\nKiwi\nGrape",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Wonderland Online, which of these makes your level go up?",
+    "category": "video-games",
+    "answer": "Killing monsters",
+    "choices": "Killing monsters\nFishing\nSetting up shops\nCompounding items",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "You can ride beasts that you capture in the game Wonderland Online.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In Wonderland Online it is possible to have a dinosaur as a pet.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What game starts when you talk to some fierce rabbits at Kelan Village in Wonderland Online?",
+    "category": "video-games",
+    "answer": "Reaction",
+    "choices": "Operation\nSituation\nConversation\nReaction",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does a mermaid at North Island ask you to fetch for her as a quest in the game Wonderland Online?",
+    "category": "video-games",
+    "answer": "A shell",
+    "choices": "Her true love\nHer will\nA message in a bottle\nA shell",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many characters in Super Smash Bros Brawl have the Final Smash Attack of Landmaster?",
+    "category": "video-games",
+    "answer": "3",
+    "choices": "none\n3\n2\n4",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many characters are there at the beginning of Super Smash Bros Brawl?",
+    "category": "video-games",
+    "answer": "20",
+    "choices": "19\n15\n21\n20",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many Super Smash Bros Brawl characters have 2\u002B characters in their team?",
+    "category": "video-games",
+    "answer": "5",
+    "choices": "6\n5\n4\n3",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many bosses are there in Subspace Emissary in Super Smash Bros Brawl?",
+    "category": "video-games",
+    "answer": "8",
+    "choices": "10\n9\n8\n5",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What are the bosses in the first Metroid game?",
+    "category": "video-games",
+    "answer": "Ridley, Kraid, Mother Brain",
+    "choices": "Alpha Metroid, Gamma Metroid, Zeta Metroid, Omega Metroid, Queen Metroid\nRidley, Mother Brain, Queen Metroid\nRidley, Kraid, Mother Brain\nRidley, Kraid, Queen Metroid",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Chronologically what is the last boss Samus has faced in the Metroid series?",
+    "category": "video-games",
+    "answer": "Omega Metroid",
+    "choices": "Omega Metroid\nQueen Metroid\nMother Brain\nAurora Unit 313",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Metroid Prime 3: Corruption Samus fights Meta Ridley while falling down which of the following?",
+    "category": "video-games",
+    "answer": "Generator Shaft",
+    "choices": "Elevator Shaft\nGenerator Shaft\nVentilation System\nGarbage Disposal",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Why is Phatoons eye his weak point in the Metroid series?",
+    "category": "video-games",
+    "answer": "His eye is the only thing that connects him to the material world.",
+    "choices": "He will run away if blinded.\nHis eye is the only thing that connects him to the material world.\nHis eye is his only weapon.\nIt is unknown.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Pinnacle of Project Helix is what kind of Phazon Infused Space Pirate?",
+    "category": "video-games",
+    "answer": "Omega Pirate",
+    "choices": "Berserker Lord\nBerserker Knight\nOmega Pirate\nElite Pirate",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Metroid series, the Vorashs weak point is its eyes.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The final boss of Metroid Other M on hard mode is Phantoon.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is Nightmares main weapon in the Metroid series?",
+    "category": "video-games",
+    "answer": "Multi-laser system",
+    "choices": "Gravity Manipultain Device\nPhazon Cannons\nThe ability to create hallucinations\nMulti-laser system",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Berserker Lord is fought twice in the Metorid series.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Where does the first game of the Crysis series take place?",
+    "category": "video-games",
+    "answer": "Lingshan Islands",
+    "choices": "Mars\nCaribbean Islands\nLingshan Islands\nNorth Korea",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Of the Crysis characters below, who is not a member of Raptor Team?",
+    "category": "video-games",
+    "answer": "Alcatraz",
+    "choices": "Psycho\nAlcatraz\nAztec\nProphet",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What Crysis character founded C.E.L.L?",
+    "category": "video-games",
+    "answer": "Jacob Hargreave",
+    "choices": "Jacob Hargreave\nDr. Gould\nTara Strickland\nMajor Lockhart",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which city is not a Ceph point of interest in the Crysis game series?",
+    "category": "video-games",
+    "answer": "Paris",
+    "choices": "London\nParis\nCairo\nHawaii",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Crysis games Ceph Organisms are nicknamed Stalkers.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the Typhoons Rate of Fire in the Crysis games?",
+    "category": "video-games",
+    "answer": "500 Rounds Per second",
+    "choices": "500 Rounds per minute\n720 Rounds per second\nNone, the Typhoon fires a beam that you must focus on the target\n500 Rounds Per second",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "You can not destroy a round from the Gravity Bomb Launcher in the Crysis games.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Prophet dies at the beginning of Crysis 2 .",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the Crysis games, Pingers do not fire at Alcatraz when he is cloaked.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What year was Crysis character Jacob Hargreave born?",
+    "category": "video-games",
+    "answer": "1896",
+    "choices": "1967\n1896\n2001\n1919",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which map is considered as a remake of the much loved Halo 3 map Valhalla?",
+    "category": "video-games",
+    "answer": "Ragnarok",
+    "choices": "Exile\nHaven\nVortex\nRagnarok",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The plasma rifle is the first covenant weapon to be unlocked in the multiplayer mode of Halo 4.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What are the only two weapons you can use in Grifball in Halo 4 Multiplayer?",
+    "category": "video-games",
+    "answer": "Gravity Hammer and Energy Sword",
+    "choices": "Gravity Hammer and Energy Sword\nSniper Rifle and Binary Rifle\nRocket Launcher and Incinerator Canon\nStorm Rifle and Supressor",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the award you get for infecting every player in Flood mode in Halo 4 Multiplayer?",
+    "category": "video-games",
+    "answer": "Gravemind",
+    "choices": "Hunter\nGravemind\nFloodifier\nFlood Master",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which  Halo 4 Multiplayer map has a Mantis being constructed in the center of the map?",
+    "category": "video-games",
+    "answer": "None",
+    "choices": "Adrift\nNone\nRagnarok\nLongbow",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "You can drop weapons of your choice in Halo 4.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "On what ship does the Halo 4 Multiplayer take place?",
+    "category": "video-games",
+    "answer": "UNSC Infinity",
+    "choices": "UNSC Pillar of Autumn\nUNSC Infinity\nUNSC Spirit of Fire\nNone",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Binary Rifle in Halo 4 can only kill someone with a headshot.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the Promethean pistol called in Halo 4?",
+    "category": "video-games",
+    "answer": "Boltshot",
+    "choices": "Hardlight Pistol\nPlasma Pistol\nLight Pistol\nBoltshot",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which armor ability allows the user to see through walls in Halo 4?",
+    "category": "video-games",
+    "answer": "Promethean Vision",
+    "choices": "Advanced Vision googles\nPromethean Vision\nX-ray Vision\nHeat Scanner",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What happens when you die in the 2006 Runescape Halloween Event?",
+    "category": "video-games",
+    "answer": "The Grim Reaper comes to claim your body.",
+    "choices": "You burst into flames of different colors.\nThe Grim Reaper comes to claim your body.\nSaradomin reincarnates your body after you die.\nnothing",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Jagex Ltd released RuneScape 3 in 2004.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In Runescape a chicken is a level 1 monster.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Zezima is the name of a Runescape player who was first ranked number 1 in 2003.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "When were Runescape Bots introduced?",
+    "category": "video-games",
+    "answer": "January 2001",
+    "choices": "September 2001\nJanuary 2001\nMay 1997\nJanuary 1997",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many sub-quests are there in the quest Recipe for Disaster?",
+    "category": "video-games",
+    "answer": "10",
+    "choices": "six\n91\n5\n10",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The King Black Dragon was the highest level monster in Runescape until 7 September 2004, when it was replaced by which of the following?",
+    "category": "video-games",
+    "answer": "The Kalphite Queen",
+    "choices": "Mithril Dragon\nDust Devil\nNone of these\nThe Kalphite Queen",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Did any Runescape player manage to kill the Corporal Beast by themselves without abusing a glitch during the first year of the Beasts release?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "On Tutorial Island of RuneScape you get runes from a male character.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of these RuneScape weapons is the most powerful?",
+    "category": "video-games",
+    "answer": "Ahrims staff",
+    "choices": "Ancient staff\nSardomin staff\nIban staff\nAhrims staff",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these is the best type of RuneScape weapon for non members?",
+    "category": "video-games",
+    "answer": "Dragon",
+    "choices": "Rune\nGranite\nBarrow\nDragon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these RuneScape quests is the most difficult?",
+    "category": "video-games",
+    "answer": "Monkey Madness",
+    "choices": "Final Showdown of Death\nPrince Ali Rescue\nMonkey Madness\nDragon Slayer",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Christopher Greenfield is the creator of the RuneScape game.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The creator of RuneScape was helped by his cousin in developing the game.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Is is true that in RuneScape, the Corporeal Beast is level 311, the highest level?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of the following is not a place in RuneScape?",
+    "category": "video-games",
+    "answer": "Duel Wars",
+    "choices": "Bounty Hunter\nDuel Wars\nCastle Wars\nClan Wars",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Name the female character and one of the four survivors in LFD1.",
+    "category": "video-games",
+    "answer": "Zoey",
+    "choices": "Marylin\nZoey\nRoxanne\nMimi",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the main difference between LFD1 and LFD2 in regard to use of weapons?",
+    "category": "video-games",
+    "answer": "In LFD1 there are no melee weapons like the ax or the machete.",
+    "choices": "In LFD2 you can use a flame thrower.\nIn LFD1 there are no melee weapons like the ax or the machete.\nIn LFD1 there are no pipe bombs.\nIn LFD2 you can throw hand grenades.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Setting off a car alarm scares off the zombies in LFD.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "A pipe bomb is an ideal weapon to destroy LFD zombies because it is a silent weapon and they wont hear it when you throw it among a group of them.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Unlike in other video or PC games you cannot save a game in LFD and then come back later to play it from where you left off.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Name the fictional government agency or organization that was supposed to fight the infection and evacuate people from infected areas in LFD.",
+    "category": "video-games",
+    "answer": "CEDA",
+    "choices": "CEDA\nUNSC\nPETA\nUSAA",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In LFD2 the Parish campaign takes place in this city.",
+    "category": "video-games",
+    "answer": "New Orleans",
+    "choices": "Savannah\nMiami\nAtlanta\nNew Orleans",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of fictional band featured in LFD2?",
+    "category": "video-games",
+    "answer": "The Midnight Riders",
+    "choices": "The Runarounds\nThe Rockabillies\nStagnant Water\nThe Midnight Riders",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What pestilence or disease caused people to turn into zombies and deformed some of them into super mutants in LFD?",
+    "category": "video-games",
+    "answer": "The green flu",
+    "choices": "Swines disease\nThe mutant virus\nNuclear malaria\nThe green flu",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the race car driver encountered in the Dead Center campaign of LFD2?",
+    "category": "video-games",
+    "answer": "Jimmy Gibbs Jr.",
+    "choices": "Hank Buffet\nSpeedy Weedy\nJimmy Gibbs Jr.\nHerb Gonzales",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In LFD1 the achievement known as Do Not Disturb is awarded for which of the following?",
+    "category": "video-games",
+    "answer": "Sneaking past all Witches in a campaign without disturbing one",
+    "choices": "Not interrupting a fellow survivor when he is busy shooting at one of the zombies\nNot waking up your fellow survivors while they are sleeping in the safehouse\nNot disturbing a zombie while its eating someone\nSneaking past all Witches in a campaign without disturbing one",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In LFD2 the achievement known as the CHAIN OF COMMAND is awarded for which of the following?",
+    "category": "video-games",
+    "answer": "Killing 100 Common Infected with the chainsaw",
+    "choices": "Tying up one of the special infected with some chain\nUsing a chainsaw to cut through some dense brush\nKilling 100 Common Infected with the chainsaw\nWhipping one of the zombies with a piece of chain",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "You can add more maps and campaigns in LFD1 and LFD2.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In both LFD1 and LFD2, accumulating more cash than the other survivors will give you an advantage.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What unique Zord do the Time Force Rangers have?",
+    "category": "video-games",
+    "answer": "Time Shadow",
+    "choices": "Time Shadow\nLast Time\nTime Knight\nDark Time",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Zelda, featured in The Legend of Zelda series of video games, is what kind of character?",
+    "category": "video-games",
+    "answer": "The princess",
+    "choices": "The main villain\nThe old lady\nThe princess\nThe elfin hero",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the currency used in the Legend of Zelda video game series?",
+    "category": "video-games",
+    "answer": "Rupees",
+    "choices": "Coins\nTriangles\nRings\nRupees",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these is not a race featured in the Legend of Zelda video games?",
+    "category": "video-games",
+    "answer": "Hobbit",
+    "choices": "Zora\nHylian\nHobbit\nRito",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these items is always in Links arsenal in the Legend of Zelda games?",
+    "category": "video-games",
+    "answer": "Boomerang",
+    "choices": "Boomerang\nWand of Gamelon\nHookshot\nMagic cape",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In The Legend of Zelda series of video games Zelda possesses which piece of the Triforce?",
+    "category": "video-games",
+    "answer": "Wisdom",
+    "choices": "Power\nWisdom\nAll of them\nCourage",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Is there a game called Super Mario Tennis?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "There are Mario games featuring racing, baseball, soccer, tennis, and golf.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of the following characters is NOT a sidekick in Super Mario Strikers?",
+    "category": "video-games",
+    "answer": "Paratroopa",
+    "choices": "Paratroopa\nBirdo\nToad\nHammer bros.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Mario Superstar Baseball what do you have to you use to unleash your characters super pitch?",
+    "category": "video-games",
+    "answer": "A star",
+    "choices": "A heart\nA fire flower\nA star\nA credit",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Mario Kart, characters are classified as either heavy or light.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is Luigis power shot in Mario Power Tennis?",
+    "category": "video-games",
+    "answer": "A hammer",
+    "choices": "He sucks the ball with a vacuum.\nHe jumps really high and slams the ball.\nA hammer\nA super big tennis racket",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Mario Power Tennis, Bowsers racket has spikes on it.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the most basic court in Mario Power Tennis?",
+    "category": "video-games",
+    "answer": "Peach Dome",
+    "choices": "Mario Mansion\nPeach Palace\nPeach Dome\nMario Yard",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Sonic the Hedgehog is the protagonist of a video game, released by Nintendo.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which one of these game systems was released by Nintendo?",
+    "category": "video-games",
+    "answer": "snes",
+    "choices": "Playstation\nNone of these\nsnes\nXbox",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Does Nintendos mascot Mario wear a red and black hat?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Is it true that Kirby, the protagonist of the Kirby game series, is pink?",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Captain Falcon, from the F-Zero video games, is a pirate.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of these games was not released by Nintendo?",
+    "category": "video-games",
+    "answer": "Assassins Creed",
+    "choices": "Warioware\nMario Galaxy\nAssassins Creed\nStar Fox",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which Super Smash Bros. Melee character can be unlocked by defeating the 10-minute melee?",
+    "category": "video-games",
+    "answer": "Falco",
+    "choices": "Falco\nJigglypuff\nRoy\nMr. Game and Watch",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which character in Super Smash Bros. Melee can be unlocked by beating the game with every character?",
+    "category": "video-games",
+    "answer": "Mr. Game and Watch",
+    "choices": "Luigi\nFalco\nMr. Game and Watch\nRoy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which character in Super Smash Bros. Melee did not have a grapple ability?",
+    "category": "video-games",
+    "answer": "Zelda",
+    "choices": "Zelda\nYoung Link\nLink\nSamus",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which Pokemon character in Super Smash Bros. Melee damages itself by using its B button moves?",
+    "category": "video-games",
+    "answer": "Pichu",
+    "choices": "Mewtwo\nJigglypuff\nPichu\nPikachu",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which character in Super Smash Bros. Melee is the final boss of the normal game (Classic Mode)?",
+    "category": "video-games",
+    "answer": "Master Hand",
+    "choices": "Poorly Coordinated Hand\nCrazy Hand\nMaster Hand\nPower Hand",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which character in Super Smash Bros. Melee could jump more than once in midair?",
+    "category": "video-games",
+    "answer": "Kirby",
+    "choices": "Peach\nMeta Knight\nKirby\nYoshi",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which character in Super Smash Bros. Melee is unlocked by beating the game with a character from the same game?",
+    "category": "video-games",
+    "answer": "Roy",
+    "choices": "Falco\nMewtwo\nRoy\nCaptain Falcon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which character in Super Smash Bros. Melee had the ability to pick up other characters and walk with them?",
+    "category": "video-games",
+    "answer": "Donkey Kong",
+    "choices": "Ganondorf\nDonkey Kong\nBowser\nMario",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following game series featured the most Super Smash Bros. Melee characters?",
+    "category": "video-games",
+    "answer": "Mario",
+    "choices": "Zelda\nMario\nStar Fox\nPokemon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which character in Super Smash Bros. Melee does not have a saving Up B button move?",
+    "category": "video-games",
+    "answer": "Yoshi",
+    "choices": "Yoshi\nBowser\nDr. Mario\nPeach",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the main character in the 2006 third-person shooter Gears of War?",
+    "category": "video-games",
+    "answer": "Marcus Fenix",
+    "choices": "Marcus Fenix\nLt. Kim\nDominic Santiago\nBaird",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In video game Gears of War, these creatures let loose loud piercing shrieks when they attack but are generally easy to kill.",
+    "category": "video-games",
+    "answer": "Wretches",
+    "choices": "Wretches\nDrones\nCorpsers\nTheron Guards",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Gears of War, if you stay in the dark and walk slowly, the mutant race Kryll wont attack you.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In Gears of War, which of these creatures is blind, walks upright and hunts by smell?",
+    "category": "video-games",
+    "answer": "Berserker",
+    "choices": "Drone\nCorpser\nBerserker\nWretch",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the third-person shooter Gears of War, can you kill the Corpser in the Locust tunnels by using the Hammer of Dawn?",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the name of the Colonel who is in command according to the scenarios in Gears of War?",
+    "category": "video-games",
+    "answer": "Hoffman",
+    "choices": "Raam\nCole\nHoffman\nSantiago",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Gears of War game, which member of Alpha Team is first found fighting in a small courtyard, alone and taunting the Locust?",
+    "category": "video-games",
+    "answer": "Cole",
+    "choices": "Cole\nBaird\nRojas\nKim",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which difficulty setting can only be unlocked by completing Gears of War once on any difficulty?",
+    "category": "video-games",
+    "answer": "Insane",
+    "choices": "Normal\nCasual\nInsane\nHardcore",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "General RAAM is protected by the mutant race Kryll when you try to kill him on the train at the end of Gears of War.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of these dragons is the strongest in the Runescape game?",
+    "category": "video-games",
+    "answer": "Black Dragon",
+    "choices": "Red Dragon\nBlue Dragon\nBlack Dragon\nGreen Dragon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these Runescape creatures drops a Dragon 2H Sword?",
+    "category": "video-games",
+    "answer": "Chaos Elemental",
+    "choices": "Mithral Dragon\nKing Black Dragon\nChaos Elemental\nCalphite Queen",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the city in Runescape that you unlock after the Lost City Quest?",
+    "category": "video-games",
+    "answer": "Zanaris",
+    "choices": "Falador\nZanaris\nCatherbys\nCamalot",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these is the postal service in Runescape?",
+    "category": "video-games",
+    "answer": "RPDT",
+    "choices": "NYER\nLPOG\nLAPD\nRPDT",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Runescape game you get a fishing skillcape in the Legends Guild.",
+    "category": "video-games",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "How many forms does the Calphite Queen have in the game Runescape?",
+    "category": "video-games",
+    "answer": "2",
+    "choices": "5\n4\n2\n3",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these pets can you own in Runescape?",
+    "category": "video-games",
+    "answer": "Kitten",
+    "choices": "Hamster\nKitten\nDog\nBird",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "You can own a pet rock in the Runescape game.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the action/adventure game Killer7, the name of the assassin who can change between seven deadly personalities is Harman Smith.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which persona from the Killer7 game is the one with the Scope on his/her Automatic?",
+    "category": "video-games",
+    "answer": "Kaede",
+    "choices": "Harman\nCon\nDan\nKaede",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Killer7, what is the character Con Smiths\u2019 age?",
+    "category": "video-games",
+    "answer": "14",
+    "choices": "17\n14\nIt is not stated.\n25",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which voice-over actress, who has also done voices for Nickelodeon, is the voice of Kaede in Killer7?",
+    "category": "video-games",
+    "answer": "Tara Strong",
+    "choices": "Debby Derryberry\nTara Strong\nLacey Chabert\nE.G Daily",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of character Iwazarus ex-wife in the action/adventure game Killer7?",
+    "category": "video-games",
+    "answer": "Mizaru",
+    "choices": "Mizaru\nNone of the above\nMizaro\nMizari",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the game Killer7, what is the name of Harmans maid?",
+    "category": "video-games",
+    "answer": "Samantha",
+    "choices": "Susan\nSuzie\nPolly\nSamantha",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The only time you can use the save feature in Killer7 is when character Samantha is in what costume?",
+    "category": "video-games",
+    "answer": "Maid uniform",
+    "choices": "Tight black overall\nNormal clothing\nEvening gown\nMaid uniform",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was Mask De Smith\u2019s profession before coming apart of the killers\u2019 team in Killer7?",
+    "category": "video-games",
+    "answer": "Professional wrestler",
+    "choices": "Costume artist\nProfessional boxer\nBodyguard\nProfessional wrestler",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the action/adventure Killer7, who is the only informant able to contact the Killer7 team?",
+    "category": "video-games",
+    "answer": "Christopher Mills",
+    "choices": "Kun Lan\nChristopher Mills\nHeaven Smile\nTravis",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Besides your Avatar, what other characters can you get at the beginning of the game Baldurs Gate II: Shadows of Amn?",
+    "category": "video-games",
+    "answer": "Imoen, Jahiera, Minsc",
+    "choices": "Imoen, Jahiera, Minsc\nAerie, Jahiera, Jan\nKhalid, Jahiera, Minsc\nValygar, Jahiera, Minsc",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Where can you get the gauntlets of ogre power in the game Baldurs Gate II: Shadows of Amn?",
+    "category": "video-games",
+    "answer": "The Planar Sphere",
+    "choices": "The Shadow thieves cellar\nThe Temple ruins\nThe Planar prison\nThe Planar Sphere",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What ranger can you save in the game Baldurs Gate II: Shadows of Amn by defeating the Shadow lord in the ruin temple?",
+    "category": "video-games",
+    "answer": "Merella",
+    "choices": "Merella\nValygar\nMinsc\nDrizzt",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What organization takes Imoen from you, after you escape the first level in the game Baldurs Gate II: Shadows of Amn?",
+    "category": "video-games",
+    "answer": "The Cowled Wizards",
+    "choices": "The Athkatla Guard\nThe Emerald warriors\nThe Shadow Thieves\nThe Cowled Wizards",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who kidnaps Nalia in the game Baldurs Gate II: Shadows of Amn?",
+    "category": "video-games",
+    "answer": "Isaea Roenal",
+    "choices": "Isaea Roenal\nJon Irenicus\nCorieg Axehand\nStumpy Ironfoot",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the 2007 RuneScape Easter special, what item or items do you earn by helping the Easter bunny?",
+    "category": "video-games",
+    "answer": "A chicken suit",
+    "choices": "An egg that you eat that brings you up one level\nA chicken suit\nA bunny suit\nA ring that transforms you into an egg",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What two special benefits do RuneScape members get?",
+    "category": "video-games",
+    "answer": "special tree logs and special locations",
+    "choices": "rainbow boots and fighting boots\nspecial money and no extra lands\nspecial tree logs and special locations\nyou can kill demons and go to the barbarian village",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the RuneScape game, it is illegal to use a macroer.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the RuneScape game, the woodcutting skillcape lets you save a bird from a tree.",
+    "category": "video-games",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "On a non-member world in RuneScape, how many places can you travel to on the ship in Port Sarim?",
+    "category": "video-games",
+    "answer": "1",
+    "choices": "3\n6\n1\n4",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What animal is Santa on the 2005 RuneScape Christmas special?",
+    "category": "video-games",
+    "answer": "wolf",
+    "choices": "polar bear\nwolf\nreindeer\npenguin",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the dog the main character is trying to save in the Dogs Life video game?",
+    "category": "video-games",
+    "answer": "Daisy",
+    "choices": "Butter\nJesse\nDaisy\nKatie",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What changes on the dog every time you go to a different Poodle Parlour in the video game Dogs Life?",
+    "category": "video-games",
+    "answer": "his collar",
+    "choices": "his attitude\nthe markings on his coat\nhis collar\nhis leash",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "At what location do you first have to run away from the dog catcher in the Dogs Life video game?",
+    "category": "video-games",
+    "answer": "Village center",
+    "choices": "Boom City Park\nLake Minniwahwah Cafe\nVillage center\nFarmhouse",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "When you pick up scents in the game Dogs Life, which of the following is not part of a competition with another dog?",
+    "category": "video-games",
+    "answer": "Barking competition",
+    "choices": "Marking territory\nBarking competition\nDigging holes\nDoing tricks",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What are the names of Miss Peaches henchmen in the Dogs Life game?",
+    "category": "video-games",
+    "answer": "Wayne and Dwayne",
+    "choices": "Wayne and Dwayne\nBob and Rob\nRyan and Bryan\nJohn and Ron",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Dogs Life video game, what challenge do the purple scents start?",
+    "category": "video-games",
+    "answer": "Collect them all before time runs out",
+    "choices": "Obtain more territory than the other dog\nDig holes faster than the other dog\nCollect them all before time runs out\nGet all the food before the other dog does",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What improves your speed, stamina, and health in the game Dogs Life?",
+    "category": "video-games",
+    "answer": "bones",
+    "choices": "bones\nwashing\npeople\ncollars",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following is NOT found at the grooming parlour in the video game Dogs Life?",
+    "category": "video-games",
+    "answer": "shaver",
+    "choices": "scissors\nshower head\nshaver\na sponge",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many places can you go to by train in the Dogs Life game?",
+    "category": "video-games",
+    "answer": "3",
+    "choices": "3\n5\n50\n7",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the radio show in the game Dogs Life?",
+    "category": "video-games",
+    "answer": "The Loud Brothers Live",
+    "choices": "Lake Minniwahah Chat\nMiss Peaches Radio Show\nBlues, Smooths, and Clues Live\nThe Loud Brothers Live",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What button do you press to dig in Dogs Life (PS2)?",
+    "category": "video-games",
+    "answer": "Circle",
+    "choices": "Cross\nSquare\nTriangle\nCircle",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What color is Miss Peaches hair in the video game Dogs Life?",
+    "category": "video-games",
+    "answer": "Orange",
+    "choices": "Orange\nBrown\nBlonde\nBlack",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Where is the Lucky 7s Machine located in the game Dogs Life?",
+    "category": "video-games",
+    "answer": "Lake Minniwahwah Cafe",
+    "choices": "Lake Minniwahwah Slopes\nLake Minniwahwah Hotel\nLake Minniwahwah Mountain Top\nLake Minniwahwah Cafe",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Dogs Life video game, what is the name of the group of bandits at Boom City?",
+    "category": "video-games",
+    "answer": "The Sleeping Bandits",
+    "choices": "The Sleeping Bandits\nThe Danger Bandits\nThe Ruthless Bandits\nThe Masked Bandits",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What color is the jacket the girl wants you to get from the ski slopes in the video game Dogs Life?",
+    "category": "video-games",
+    "answer": "yellow",
+    "choices": "black\nwhite\nyellow\nred",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Dogs Life video game, what does the girl NOT ask you to bring to make her snowman?",
+    "category": "video-games",
+    "answer": "a scarf",
+    "choices": "a scarf\na hat\ntwigs\ncoal",
+    "type": "MultipleChoiceQuestion"
+  }
+]

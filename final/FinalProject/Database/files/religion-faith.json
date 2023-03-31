@@ -1,0 +1,4468 @@
+[
+  {
+    "question": "What Hollywood actor portrayed Casanova in the 2005 movie entitled Casanova, based on the life of the popular adventurer?",
+    "category": "religion-faith",
+    "answer": "Heath Ledger",
+    "choices": "Johnny Depp\nAntonio Banderas\nHeath Ledger\nRyan Phillippe",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these is NOT a son of Adam and Eve?",
+    "category": "religion-faith",
+    "answer": "Enoch",
+    "choices": "Enoch\nCain\nAbel\nSeth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Noah sent these two birds out of the ark to search for land:",
+    "category": "religion-faith",
+    "answer": "raven and dove",
+    "choices": "raven and hawk\nhawk and jay\nraven and dove\ndove and hawk",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Jacob had 12 sons.  Which of his wives/maids bore the most babies?",
+    "category": "religion-faith",
+    "answer": "Leah",
+    "choices": "Zilpah\nLeah\nRachel\nBilhah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these animals did the Israelites worship while Moses was on the mountain?",
+    "category": "religion-faith",
+    "answer": "calf",
+    "choices": "bull\ncalf\nduck\nram",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Many of King Solomons wise sayings are recorded in Book 10 of Proverbs.  Which of these is NOT found there?",
+    "category": "religion-faith",
+    "answer": "When you see trouble coming, dont be stupid and walk right into it--be smart and hide.",
+    "choices": "When you see trouble coming, dont be stupid and walk right into it--be smart and hide.\nGood people are remembered long after they are gone, but the wicked are soon forgotten.\nChildren with good sense make their parents happy, but foolish children make them sad.\nYou will say the wrong thing if you talk too much--so be sensible and watch what you say.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Mary was visited by this angel.",
+    "category": "religion-faith",
+    "answer": "Gabriel",
+    "choices": "Uriel\nRaphael\nGabriel\nMichael",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Jesus was fond of using parables to give his messages.  Which of these was NOT one he used?",
+    "category": "religion-faith",
+    "answer": "The Parable of the Old Men and the Young",
+    "choices": "The Parable of the Mustard Seed\nThe Parable of the Old Men and the Young\nThe Parable of the Prodigal Son\nThe Parable of the Ten Servants",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the Horsemen of the Apocalypse is the first to be called out?",
+    "category": "religion-faith",
+    "answer": "White Horse (Conquest )",
+    "choices": "Black Horse (Famine)\nRed Horse (War)\nWhite Horse (Conquest )\nPale/Green Horse (Death)",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Complete the following quote from Matthew 5:3: Blessed are the poor in spirit, for ________",
+    "category": "religion-faith",
+    "answer": "theirs is the Kindgom of Heaven.",
+    "choices": "they shall be comforted.\nshall be called children of God.\nthey shall see Heaven.\ntheirs is the Kindgom of Heaven.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who wrote the first five books of the Bible?",
+    "category": "religion-faith",
+    "answer": "Moses",
+    "choices": "Adam\nJoseph\nMoses\nAbraham",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Bible, how many wives and concubines did Solomon have?",
+    "category": "religion-faith",
+    "answer": "1000",
+    "choices": "2000\n500\n1000\n100",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who wrote most of the books in the New Testament?",
+    "category": "religion-faith",
+    "answer": "Paul",
+    "choices": "David\nJohn\nPeter\nPaul",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who wrote the Book of Revelation while in exile?",
+    "category": "religion-faith",
+    "answer": "John",
+    "choices": "Paul\nPeter\nJames\nJohn",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the accepted theory, how old was Jesus when He was crucified?",
+    "category": "religion-faith",
+    "answer": "33",
+    "choices": "33\n27\n40\n30",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How old was Jesus when He performed His first miracle (Biblical, not Apocriphal)?",
+    "category": "religion-faith",
+    "answer": "30",
+    "choices": "40\n33\n27\n30",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "David, the famous ancient King of Israel, was the oldest child in the family.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "It is stated in the Bible that God told Moses to build the Temple in Jerusalem.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to the New Testament, who obtained permission to take Jesus Christs body down from the cross and place it in the tomb?",
+    "category": "religion-faith",
+    "answer": "Joseph of Arimathea",
+    "choices": "Joseph of Arimathea\nJoseph of Antioch\nMary Magdalene\nApostle Peter",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Apostle Paul was a kind, friendly and peace-loving man who always helped Christians even before his conversion to Christianity.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Seven people went on the ark with Noah according to the Bible, Genesis, chapters 6 to 9.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What was the profession of Luke the Apostle according to the New Testament?",
+    "category": "religion-faith",
+    "answer": "Physician",
+    "choices": "Tax collector\nCarpenter\nPhysician\nBoat builder",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who committed the first murder in the Bible?",
+    "category": "religion-faith",
+    "answer": "Cain",
+    "choices": "Cain\nSolomon\nAdam\nAbel",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was Gods son according to the Bible?",
+    "category": "religion-faith",
+    "answer": "Jesus",
+    "choices": "John\nPeter\nSolomon\nJesus",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the angel that God sent to tell Mary she was to conceive Jesus?",
+    "category": "religion-faith",
+    "answer": "Gabriel",
+    "choices": "Abraham\nGabriel\nMichael\nPeter",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was Jesus earthly father according to the Bible?",
+    "category": "religion-faith",
+    "answer": "Joseph",
+    "choices": "Solomon\nJoseph\nno one\nDavid",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following is not generally considered one of the seven deadly sins?",
+    "category": "religion-faith",
+    "answer": "obfuscation",
+    "choices": "obfuscation\nhatred\nlust\nenvy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to Matthew and Luke, in what city was Jesus born?",
+    "category": "religion-faith",
+    "answer": "Bethlehem",
+    "choices": "Jerusalem\nBethlehem\nBabylon\nNazareth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Can a deacon get married?",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "You drink the coffee and turn the cup upside down.  The reader predicts the future, deciphering various patterns formed inside the cup.",
+    "category": "religion-faith",
+    "answer": "Tasseomancy",
+    "choices": "Hakata\nScrying\nI Ching\nTasseomancy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This is a deck of 78 cards with pictures and inscriptions on them. They are divided into several suits and the person extracts cards that the reader interprets.",
+    "category": "religion-faith",
+    "answer": "Tarot",
+    "choices": "Tarot\nCartopedy\nBelote\nCledonism",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This method of divination uses air and water. The person covers their head with a cloth, fill a vase with water and expose it to the air.  They whisper a wish over the vase. If bubbles show on the water surface, this is considered a positive sign and the wish will probably come true.",
+    "category": "religion-faith",
+    "answer": "Eromancy",
+    "choices": "Water scrying\nCritomancy\nDowsing\nEromancy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This method includes hexagrams which consist of six lines either solid or broken. Solid lines are considered strong and active, and broken lines stand for weak and acquiescent. These lines define the meaning of the hexagrams. Each hexagram has a different meaning. You determine your own hexagram by tossing 3 coins 3 times.",
+    "category": "religion-faith",
+    "answer": "I Ching",
+    "choices": "Tarot\nI Ching\nAura information\nAstrology",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This method of divination uses a set of 24 alphabet letters that are usually carved on small tiles, so that the person could extract one of all 24 and to interpret its meaning. They were also carved and drawn building walls for protection.",
+    "category": "religion-faith",
+    "answer": "Runes",
+    "choices": "Runes\nTarot\nPalm reading\nShell scrying",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This is the careful screening of your palm, its shapes and lines in order to guess some events from the past and see events in the future.",
+    "category": "religion-faith",
+    "answer": "Palmistry",
+    "choices": "Palmistry\nCledonism\nTasseomancy\nCartopedy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This method uses climate conditions to predict the future. It was considered that climate is the attitude of gods towards men, and that each atmospheric event had its own meaning.",
+    "category": "religion-faith",
+    "answer": "Aeromancy",
+    "choices": "Cephalomancy\nAeromancy\nGraphology\nBibliomancy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This method uses books for predicting ones future. The person should take a book, open to a random page and read a passage. Then he should interpret it.",
+    "category": "religion-faith",
+    "answer": "Bibliomancy",
+    "choices": "Geomancy\nBibliomancy\nHydromancy\nChiromancy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This way of divination uses onion sprouts. First a ritual is held in order to state what the divination is about. Then the onion sprouts are put on an altar. It is thought that onion sprouts can tell you about friends and relatives who are far away, give love advice and answer yes or no questions about the future.",
+    "category": "religion-faith",
+    "answer": "Cromniomancy",
+    "choices": "Cromniomancy\nCrystallomancy\nChirognomy\nCyclomancy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This method uses birds to predict the future. The divinator scatters grains and then he carefully observes the way the birds peck at the grain.",
+    "category": "religion-faith",
+    "answer": "Alectryomancy",
+    "choices": "Austromancy\nCaptopromancy\nBotanomancy\nAlectryomancy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In ancient times people thought that illnesses were caused by demons, possessing the soul of a person. So they cured those illnesses with exorcism. Exorcism is derived from the Greek word  exorkizein. What does this word mean?",
+    "category": "religion-faith",
+    "answer": "To bind by oath",
+    "choices": "To kill the soul\nTo kill the ghost\nTo expel the demon\nTo bind by oath",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Ancient Babylonian priests were one of the first exorcists. They meant to destroy the evil spirit, possessing the victim, by performing this ritual.",
+    "category": "religion-faith",
+    "answer": "They destroyed a wax or clay image of a demon.",
+    "choices": "They killed the possessed person by stabbing them with a sacrificial knife.\nThey destroyed a wax or clay image of a demon.\nThey drew mighty symbols on the forehead of the victim.\nThey drilled a hole in the skull of the possessed.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Exorcism is not popular among religions nowadays.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Jesus Christ is considered to be an exorcist. One of the legends tells of Jesus casting out multiple demons from a madman. The spirits then entered the bodies of some animals. What kind of animals were they?",
+    "category": "religion-faith",
+    "answer": "Pigs",
+    "choices": "Vultures\nPigs\nCrows\nCows",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Jesus Christ gave the power to exorcise demons to his disciples.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In Judaism the evil spirit that possesses the soul of its victim is called dybbuk. It is exorcised through this part of the body.",
+    "category": "religion-faith",
+    "answer": "Small toe",
+    "choices": "Mouth\nChest\nSmall toe\nLeft Arm",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The exorcist must feel as free of sin as possible. Why?",
+    "category": "religion-faith",
+    "answer": "So demons cannot easily possess the exorcist",
+    "choices": "So the exorcist does not die\nSo the exorcist can easily absorb the demons\nSo demons cannot easily possess the exorcist\nSo the possessed victim does not die",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Exorcism is related to ASC. What does ASC stand for?",
+    "category": "religion-faith",
+    "answer": "Altered State Of Consciousness",
+    "choices": "Affecting Spirit of Cataclysm\nAffected Soul by Craziness\nAffected Soul by Cabala\nAltered State Of Consciousness",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "During Christian exorcism, the victim is to hold a crucifix and the exorcist is encouraged to use holy water and relics. These  two other objects should also be present.",
+    "category": "religion-faith",
+    "answer": "Salt and Wine",
+    "choices": "Skull and Bones\nSalt and Wine\nFeather and Ink-pot\nSword and Shield",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Although all exorcisms proceed differently, some stages are common. There are five common stages - The Presence, Break-point, The Voice, The Clash and this.",
+    "category": "religion-faith",
+    "answer": "Expulsion",
+    "choices": "Expatriation\nExpulsion\nDeportation\nRedemption",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Adam was the first human made by God according to the Bible texts.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The Ten Commandments can be found in the book of Exodus, New Testament.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to the Bible, Gods laws were given to Moses on Mount Rushmore.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Moses talked to God on the mountain and received the Ten Commandments in 40 days.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Moses broke the tablets on which the Ten Commandments were written when he slipped on the rocky mountainside.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to the Bible texts, Jesus earthly father Joseph was sheep herder.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the Bible texts, \u201CAm I my brother\u2019s keeper?\u201D was a question asked by Cain to God.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "This line from the Bible is from an address by God to Noah: \u201CAnd the bow shall be in the cloud and I will look upon it that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth.\u201D",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to the Bible, Judas Iscariot was paid 30 pieces of gold to betray Jesus.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In Genesis, we can read that Joseph was sold into slavery by his brothers.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The magic wand is a must have accessory of every witch, if she wants to work wonders. What is the wand is made of?",
+    "category": "religion-faith",
+    "answer": "Hazel",
+    "choices": "Glass\nMetal\nChestnut\nHazel",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Every new witch receives a special craft name, which they only disclose to coven members and keep a secret from everyone else.  Why?",
+    "category": "religion-faith",
+    "answer": "Knowing the craft name gives magical powers",
+    "choices": "It would bring ill fate upon the person\nIt would take away the magical powers of the coven\nIt would kill the person who knows the secret name\nKnowing the craft name gives magical powers",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Incense is often used in witchcraft.  What is the meaning of jasmine scented incense?",
+    "category": "religion-faith",
+    "answer": "Luck in love",
+    "choices": "To ease hurt caused by love\nLuck in love\nTrue love\nIntense desire",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This is one of the most widely used religious symbols. It is generally used for protection. Even though it is often associated with witchcraft, it was also used in Christianity, symbolizing the five wounds of Christ.",
+    "category": "religion-faith",
+    "answer": "Pentagram",
+    "choices": "Hazel\nSword\nPentagram\nChalice",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This is when the spell casting powers are at their fullest.  It is the hour of midnight on a full moon.",
+    "category": "religion-faith",
+    "answer": "The Witching Hour",
+    "choices": "The Midnight Hour\nThe Power Hour\nThe Witching Hour\nThe Moon Hour",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "It is  the magical power of this herb: In the event of some kind of troublesome misfortune, gather the root with care during the descent of the lions cub and hang it around your neck.  It will drive away cares and cause a merry heart. - Syrenius (1540 - 1611).",
+    "category": "religion-faith",
+    "answer": "Angelica",
+    "choices": "Wormwood\nBarberry\nBetony\nAngelica",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "An ancient tradition was to distinguish witches by their color. There were white, red, green, etc. witches. The tradition doesnt exist any more but the meaning of the colors is still applied in various practices. What is the color for these magical uses: divination, spirituality, protection, psychic powers, healing, truth, peace?",
+    "category": "religion-faith",
+    "answer": "White",
+    "choices": "Green\nPink\nWhite\nYellow",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "When you collect flowers or herbs for magical purposes you should have in mind the hour at which you gather them. What are the magical hours?",
+    "category": "religion-faith",
+    "answer": "3, 6, 9 and 12",
+    "choices": "3, 6, 9 and 12\n4, 6, 8 and 11\n1, 7, 9 and 11\n1, 4, 5 and 10",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This ancient pagan ritual was practiced in Scotland until the end of the 19th century. It allows a couple to make a commitment to each other within their own spiritual path. This commitment lasts for one year and a day. After that the couple can go their own way or renew their bond.",
+    "category": "religion-faith",
+    "answer": "Handfasting",
+    "choices": "Handfasting\nFaerie\nAnam cara\nA prayer of passage",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is this spell used for?  Dear Father, tsar fire, be gentle and kind to me.  Burn away all my aches  pains, tears  worries.",
+    "category": "religion-faith",
+    "answer": "Happiness",
+    "choices": "Love\nHappiness\nWealth\nFaith",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Every Catholic can receive any of the seven sacraments, but no one can receive all seven.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the Catholic term describing a place of purification after bodily death, but before the soul enters heaven?",
+    "category": "religion-faith",
+    "answer": "purgatory",
+    "choices": "apocalypse\nlimbo\npurgatory\napocrypha",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This part of the Catholic mass, in which the priest asks God to change the bread and wine into Jesus body and blood, is called what?",
+    "category": "religion-faith",
+    "answer": "consecration",
+    "choices": "invocation\nconsecration\noffertory\ncommunion",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Hail Mary is a biblical prayer.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What was the church council that revised the prayers used in the Catholic mass and authorized masses to be said in the language of the local people?",
+    "category": "religion-faith",
+    "answer": "Vatican II",
+    "choices": "Nicea\nVatican II\nVatican I\nTrent",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "A schism in the Christian church culminated in two bishops excommunicating each other in 1054, resulting in what?",
+    "category": "religion-faith",
+    "answer": "the division between Catholicism and Orthodoxy",
+    "choices": "the division between Catholicism and Orthodoxy\nthe Protestant Reformation\nthe ecumenical movement\nthe Crusades",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "There are ten holy days of obligation, days other than Sunday on which all the worlds Catholics are required to attend mass.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the Catholic term for a person who, after death, goes to heaven?",
+    "category": "religion-faith",
+    "answer": "saint",
+    "choices": "saint\ncherub\nseraph\nangel",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does the Catholic church teach about Mary, Jesus mother?",
+    "category": "religion-faith",
+    "answer": "She was a virgin until her death.",
+    "choices": "She was a virgin when Jesus was born, but not necessarily after.\nJoseph divorced her quietly after Jesus was born.\nShe was a virgin when Jesus was conceived, but not necessarily after.\nShe was a virgin until her death.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bibles description of the creation of the world, on what day of the week were the sun, moon, and stars formed?",
+    "category": "religion-faith",
+    "answer": "Fourth",
+    "choices": "Second\nThird\nFifth\nFourth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, Sarah and Abraham have a common relative by blood.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Who begged for the body of Jesus to give it a proper burial?",
+    "category": "religion-faith",
+    "answer": "Joseph of Arimathaea",
+    "choices": "Joseph of Arimathaea\nPeter\nMark\nMatthew",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What scripture of the King James Bible is most noted for the story of the birth of Jesus?",
+    "category": "religion-faith",
+    "answer": "Luke, Chapter 2",
+    "choices": "Luke, Chapter 1\nLuke, Chapter 3\nLuke, Chapter 2\nMatthew, Chapter 2",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the biblical texts, whom do these words belong to: Thou shalt have no other gods before me!?",
+    "category": "religion-faith",
+    "answer": "God",
+    "choices": "Moses\nAaron\nMiriam\nGod",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The first of the 10 commandments that also contains a promise was Honor thy Father and Mother.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Who was Ruths mother-in-law according to biblical texts?",
+    "category": "religion-faith",
+    "answer": "Naomi",
+    "choices": "Mara\nNaomi\nOrpah\nBoaz",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, Ruth was the great grandmother of David.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Who wrote Epistle to the Romans, included in the New Testament canon of the Christian Bible?",
+    "category": "religion-faith",
+    "answer": "Paul",
+    "choices": "Peter\nPaul\nMark\nLuke",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to Christian beliefs, what was the nature of the first sin man ever committed?",
+    "category": "religion-faith",
+    "answer": "Disobedience",
+    "choices": "Greed\nMurder\nDisobedience\nBlasphemy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bibles interpretation of Moses life, who ran along the bank to make sure that Moses was alright in his basket after he was set adrift on the Nile river?",
+    "category": "religion-faith",
+    "answer": "His sister",
+    "choices": "His brother\nHis mother\nHis sister\nHis father",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, did the Pharaoh\u2019s wife find little Moses who was drifting along the Nile in a basket.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What does the name Moses mean according to the Biblical texts?",
+    "category": "religion-faith",
+    "answer": "Drawn out",
+    "choices": "Found\nChild of the river\nConceived by a Hebrew\nDrawn out",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was the name of Mosess brother according to the Bible?",
+    "category": "religion-faith",
+    "answer": "Aaron",
+    "choices": "Clive\nAaron\nPeter\nJohn",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to Exodus, what was the ninth plague that God inflicted on Egypt in order to convince Pharaoh to let the Israelite slaves leave?",
+    "category": "religion-faith",
+    "answer": "Darkness",
+    "choices": "Death of First Born Child\nLice\nDarkness\nFrogs",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Why did Moses have to flee out of Egypt and settle on the Sinai Peninsula according to the Bible?",
+    "category": "religion-faith",
+    "answer": "He killed an Egyptian",
+    "choices": "He killed an Egyptian\nHe was banned for disrespectable behaviour towards the Pharaoh.\nNone of these\nHe killed the Pharaoh",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the last chapters of Exodus, what was the Tabernacle, which was built after the Israelites passed safely the Red Sea with Gods help?",
+    "category": "religion-faith",
+    "answer": "A portable place of worship",
+    "choices": "A vehicle with a prayer altar\nA portable prayer altar\nA portable place of worship\nA portable irrigating system",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is the second oldest living man according to the Bible?",
+    "category": "religion-faith",
+    "answer": "Jared",
+    "choices": "Enoch\nMahalalel\nJared\nMethuselah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the only Archangel mentioned in the Bible?",
+    "category": "religion-faith",
+    "answer": "Michael",
+    "choices": "Lucifer\nJesus\nMichael\nGabriel",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was emperor of Rome at the time of Jesus death?",
+    "category": "religion-faith",
+    "answer": "Tiberius",
+    "choices": "Augustus\nTiberius\nCaligula\nClaudius",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "King Solomon had 300 wives and 700 concubines.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "This tradition was founded in England in the 1960s by Alex Sanders, who referred to himself as the King of his Witches.",
+    "category": "religion-faith",
+    "answer": "Alexandrian",
+    "choices": "Strega\nGardnerian\nCeltic\nAlexandrian",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Caledonii tradition comes from this country.",
+    "category": "religion-faith",
+    "answer": "Scotland",
+    "choices": "France\nItaly\nEngland\nScotland",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This system is indigenous to South Central Pennsylvania, USA.",
+    "category": "religion-faith",
+    "answer": "Pow-Wow",
+    "choices": "Strega\nSatanic\nPow-Wow\nSeax-Wica",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This tradition was founded by Raymond Buckland in 1973.",
+    "category": "religion-faith",
+    "answer": "Seax-Wica",
+    "choices": "Seax-Wica\nDianic\nTeutonic\nHereditary",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This tradtion is also know as the Nordic tradition.",
+    "category": "religion-faith",
+    "answer": "Teutonic",
+    "choices": "Eclectic\nBritish Traditional Witch\nPictish\nTeutonic",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The International Red Garters are an organization of British traditional witches.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "If I practice the Craft by myself,  not as part of a coven, I am said to be this.",
+    "category": "religion-faith",
+    "answer": "Solitary",
+    "choices": "Strega\nSolitary\nAlexandrian\nPictish",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "An eclectic witch strictly follows his or her chosen tradition.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Voodoo is actually a religion, which originated in Africa. Voodoo comes from the West African word vodun. What does vodun mean?",
+    "category": "religion-faith",
+    "answer": "Spirit",
+    "choices": "Revenge\nSpirit\nDoll\nDeath",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The structure of Voodoo, as we know it today, was developed after the Europeans started slavery. Where was Voodoo born?",
+    "category": "religion-faith",
+    "answer": "Haiti",
+    "choices": "Jamaica\nHawaii\nTaiti\nHaiti",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Voodoo rituals include animal sacrifice.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The French rulers persecuted Voodoo priests and practitioners. In 1791 a revolution exploded, which was led by the Voodoo priests. It ended in the year of Napoleons crowning.",
+    "category": "religion-faith",
+    "answer": "1804",
+    "choices": "1784\n1804\n1754\n1854",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The high Voodoo priest and priestess are often called this.",
+    "category": "religion-faith",
+    "answer": "Papa and Maman",
+    "choices": "Papa and Maman\nSupreme Magicians\nSon and Daughter of the Serpent\nDad and Mum",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Voodoo Dancing is just a prelude to sexual frenzy.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In Voodoo, God is considered to be too distant for people to communicate with. Therefore, Voodoo priests communicate with God through Loa. What is Loa?",
+    "category": "religion-faith",
+    "answer": "The spirits",
+    "choices": "The spirits\nThe dolls\nThe drums\nThe demons",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Voodoo dolls are commonly used for voodoo.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Voodoos equivalent in Cuba is Santeria. Do you know which the equivalent of Voodoo in Brazil is?",
+    "category": "religion-faith",
+    "answer": "Macumba",
+    "choices": "Maabaa\nMooboo\nMacumba\nMojo",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Nowadays Voodoo is no longer a religion.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "How is New Year referred to in Judaism?",
+    "category": "religion-faith",
+    "answer": "Rosh Hashannah",
+    "choices": "Tzom Gedalia\nRosh Hashannah\nYom KIppur\nShabbat",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "At Passover, Jews eat a special meal done in a special order.  What is that meal called?",
+    "category": "religion-faith",
+    "answer": "A seder",
+    "choices": "A festavus for the rest of us\nA seder\nA Shidduch\nA circumcision",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the traditional Jewish prayer book called?",
+    "category": "religion-faith",
+    "answer": "Siddur",
+    "choices": "Siddur\nSeder\nThe United Psalmistry\nShofar",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many letters are in the hebrew alphabet?",
+    "category": "religion-faith",
+    "answer": "22",
+    "choices": "24\n22\n25\n20",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many vowels are in the Hebrew alphabet ?",
+    "category": "religion-faith",
+    "answer": "0",
+    "choices": "8\n0\n5\n6",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "We consider there to be three Patriarchs in Judaism. Who were they?",
+    "category": "religion-faith",
+    "answer": "Abraham, Issac, Jacob",
+    "choices": "Moses, David, Abraham\nAbraham, David, Moses\nAbraham, Issac, Jacob\nDavid, Joshua, Solomon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Judaism, who was Joshuas father?",
+    "category": "religion-faith",
+    "answer": "Nun",
+    "choices": "Abraham\nSolomon\nNun\nMoses",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "On the first day of which month do Jews celebrate New Year?",
+    "category": "religion-faith",
+    "answer": "Tishrei",
+    "choices": "Cheshvan\nAdar\nTishrei\nAv",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which Hebrew phrase is most commonly associated with the English expression Good Luck and/or Congratulations?",
+    "category": "religion-faith",
+    "answer": "Mazel Tov",
+    "choices": "Laych lGehinnom\nHayem Yankel\nOy Vey\nMazel Tov",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was the Baal Shem Tov ?",
+    "category": "religion-faith",
+    "answer": "The founder of Chassidism",
+    "choices": "The founder of the Bnai Brith\nThe first Premier of  Israel\nThe founder of Chassidism\nThe first President of Israel",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the second half of the Acts of the Apostles, what was Pauls name before God changed it?",
+    "category": "religion-faith",
+    "answer": "Saul",
+    "choices": "Peter\nLuke\nSaul\nJohn",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The second chapter of the Gospel of Luke, Luke 2, tells us the story of Christs birth.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the Old Testament, a man is said to have lived to be 969 years old.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "There is a man in the Bible named Rehoboam who had 88 children.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "There was an army mentioned in the Old Testament that consisted of men who were all left-handed and numbered 700.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Does the Bible ever speak of the sun moving backwards?",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which line gives the correct order of the first 5 books of the Old Testament?",
+    "category": "religion-faith",
+    "answer": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy",
+    "choices": "Genesis, Leviticus, Numbers, Deuteronomy, Exodus\nGenesis, Exodus, Numbers, Deuteronomy, Leviticus\nGenesis, Exodus, Leviticus, Deuteronomy, Numbers\nGenesis, Exodus, Leviticus, Numbers, Deuteronomy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What tribe of Israel was Moses born into?",
+    "category": "religion-faith",
+    "answer": "Levite",
+    "choices": "Reubon\nBenjamin\nJacob\nLevite",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Eye of newt and toe of frog\nWool of bat and tongue of dog\nis one of the most famous spells in English literature. In what Shakespeare play do the three witches cast their evil spells?",
+    "category": "religion-faith",
+    "answer": "Macbeth",
+    "choices": "The Tempest\nHamlet\nA Midsummers Night Dream\nMacbeth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "She held me spellbound in the night\nDancing shadows and firelight\nCrazy laughter in another room\nAnd she drove herself to madness\nwith a silver spoon.\nWhat group sings about a Witchy Woman with the moon in her eyes?",
+    "category": "religion-faith",
+    "answer": "The Eagles",
+    "choices": "J Giles Band\nThe Eagles\nThe Zombies\nGrateful Dead",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Do you think God knew what He was doing when he created woman? Or do you think it was another one of his minor mistakes like tidal waves, earthquakes or FLOODS!, asked Daryl Van Horne in The Witches of Eastwick. What actor played Daryl Van Horne, just your average horny little devil?",
+    "category": "religion-faith",
+    "answer": "Jack Nicholson",
+    "choices": "Dennis Hopper\nHarvey Keitel\nChristopher Walken\nJack Nicholson",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Ding dong the witch is dead.\nWhich old witch?\nThe wicked witch.\nAll you could see under the house was two shrivelled up legs and a pair of ruby slippers. Which wicked witchs demise brought forth such joy to the citizens of Oz in the book The Wizard of Oz?",
+    "category": "religion-faith",
+    "answer": "The Wicked Witch of the East",
+    "choices": "The Wicked Witch of the West\nThe Wicked Witch of the North\nThe Wicked Witch of the South\nThe Wicked Witch of the East",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The movie An American Haunting was based on one of the most famous hauntings in American folklore. A Tennessee farmer shot at a strange animal with the body of a dog and the head of a rabbit.  What name was given to the entity that haunted the family and was said to have murdered the Tennessee farmer?",
+    "category": "religion-faith",
+    "answer": "The Bell Witch",
+    "choices": "The Blair Witch\nThe White Witch\nMother Shipton\nThe Bell Witch",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The works of this Jewish thinker formed the basis of the writings of Thomas Aquinas.",
+    "category": "religion-faith",
+    "answer": "Maimonides",
+    "choices": "Rashi\nBal Shem Tov\nMaimonides\nIbn Gabriol",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is prayer shawl worn by Jews in the morning Jewish services, during the Torah service, on Yom Kippur, and other holidays called?",
+    "category": "religion-faith",
+    "answer": "A tallit",
+    "choices": "A kippah\nA mohel\nA mezzuzah\nA tallit",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Even when Jewish men are not reading Torah, they wear a garment with fringes with knots. It is worn under the shirt with the fringes exposed. What is this garment called ?",
+    "category": "religion-faith",
+    "answer": "Tallit katan",
+    "choices": "Yarmulka\nTephilin\nTallit katan\nKippah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The night before Yom Kippur, called this,  is the most important night service in Judaism.",
+    "category": "religion-faith",
+    "answer": "Kol Nidre",
+    "choices": "Rosh Hashannah\nMusaff\nShabbat  HaGadol\nKol Nidre",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The most important prayer in Judaism is called the Shema. What does it affirm?",
+    "category": "religion-faith",
+    "answer": "Our faith that there is one and only God.",
+    "choices": "That we will not be moved\nOur faith that there is one and only God.\nThat everyday problems will eventually solve if we have faith\nWe thank God for delivering us from at least some of our problems",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the first letter of the Hebrew alphabet?",
+    "category": "religion-faith",
+    "answer": "Aleph",
+    "choices": "Dalet\nGimmel\nBet\nAleph",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What do Jews do when the case which houses the Torah is opened?",
+    "category": "religion-faith",
+    "answer": "Stand up",
+    "choices": "Become quiet\nClose eyes\nBow heads\nStand up",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "On the Holy Day of Yom Kippur, Jews ask that all their sins be forgiven.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "On which Holy Day do Jews feast on unleavened bread?",
+    "category": "religion-faith",
+    "answer": "Passover",
+    "choices": "Rosh Hashannah\nChannukah\nPassover\nYom Kippur",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "There are two ways to pronounce Hebrew words. One is called Ashkanazi and the other one, this",
+    "category": "religion-faith",
+    "answer": "Sephardic",
+    "choices": "Galut\nAsian\nSawphateet\nSephardic",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "These fundamental statements have led to the formulation of the Buddhist philosophy, and contain the basic principles of the spiritual teacher, Buddha.",
+    "category": "religion-faith",
+    "answer": "The Four Noble Truths",
+    "choices": "The Seven Articles of Faith\nThe Three Scrolls\nThe Ten Paths\nThe Four Noble Truths",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the central theme of the teachings of religious teacher Buddha and of Buddhist philosophy as a whole?",
+    "category": "religion-faith",
+    "answer": "Suffering",
+    "choices": "Happiness\nAchieving perfection\nAchieving unity with nature\nSuffering",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was the birth name of the historic figure known as Buddha, the founder of the Buddhist religion?",
+    "category": "religion-faith",
+    "answer": "Siddhartha Gautama",
+    "choices": "Siddhartha Gautama\nJakili Saruputa\nElkini Baros\nMalik Mohammed",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the formula to end or reduce suffering according to the principles of Buddhism?",
+    "category": "religion-faith",
+    "answer": "The Noble Eightfold Path",
+    "choices": "The Ten Righteous Practices\nDeep Meditation\nThe Noble Eightfold Path\nThe Six Cures",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "After completing his religious reawakening, Buddha considered himself to be which of these?",
+    "category": "religion-faith",
+    "answer": "a man, who woke up to the nature of reality",
+    "choices": "a man, who woke up to the nature of reality\na god\na prophet, sent by a supreme being to deliver the universal truth\npure spiritual energy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The beginning of the Buddhist religion can be traced back to the fifth century BC in which country?",
+    "category": "religion-faith",
+    "answer": "India",
+    "choices": "China\nThailand\nIndia\nPakistan",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the Japanese variation of Buddhism, that emphasizes on the role of sitting meditation in pursuing enlightenment?",
+    "category": "religion-faith",
+    "answer": "Zen",
+    "choices": "Mahayana\nThervada\nZen\nTantric",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the definition of Zen Koan, one of the important aspects of Buddhist religious practices?",
+    "category": "religion-faith",
+    "answer": "A question, meant to challenge rational thinking",
+    "choices": "A question, meant to challenge rational thinking\nA clan of spiritual leaders in the Zen Buddhist religious community\nA sitting pillow, used during mediation\nAn robe worn by Zen Buddhist monks",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Creating complex, radial, and symbolic sand paintings is a practice typical for which branch of Buddhism?",
+    "category": "religion-faith",
+    "answer": "Tibetan Buddhism",
+    "choices": "Theravadic Buddhism\nTibetan Buddhism\nNichiren Buddhism\nZen Buddhism",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following statements best describes the essence of Buddhism?",
+    "category": "religion-faith",
+    "answer": "It is a means for people to save themselves.",
+    "choices": "It is a means for people to save themselves.\nIt is the legacy of a prophet, sent to earth with a message of universal love.\nIt is a religion that seeks to attract and convert others.\nIt is a tradition aimed at spreading peace in the world.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Son of a Jewish immigrant from Breslau, Prussia, Lucius Nathan Littauer was born in Gloversville, Upstate New York, in 1859. Being a politician wasnt his only occupation; what is Lucius Littauers other achievement with which he remained in history?",
+    "category": "religion-faith",
+    "answer": "The first Jewish football coach at Harvard",
+    "choices": "The first Jewish  basketball coach in Oxford\nThe first professional Jewish baseball player\nThe first Jewish football coach at Harvard\nThe first Jewish professional football coach",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Julius Vogel, a London born Jew, who first became involved in politics in 1862, was the first Jew to be on this political post.",
+    "category": "religion-faith",
+    "answer": "Prime Minister of New Zealand",
+    "choices": "Prime Minister of Australia\nPrime Minister of Canada\nPrime Minister of New Zealand\nGovernor General of Canada",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "During the 1968 presidential campaign, Rabbi Baruch Korff developed a personal relationship with this American president, who even referred to Korff as My Rabbi.",
+    "category": "religion-faith",
+    "answer": "Richard Nixon",
+    "choices": "Gerald Ford\nLyndon Johnson\nRichard Nixon\nJimmy Carter",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In 1927 Charles A. Levine was the first Jew to do what?",
+    "category": "religion-faith",
+    "answer": "Fly the Atlantic",
+    "choices": "Fly the Atlantic\nFly a USAF fighter\nGet a degree in aerospace engineering\nBuild a monoplane",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In what business did John M. Brunswick and his two half brothers, David and Emmanuel, make their fortune?",
+    "category": "religion-faith",
+    "answer": "Billiard table business",
+    "choices": "Entertaining industry\nAircraft industry\nBilliard table business\nCell phone business",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The music for Somewhere Over the Rainbow, one of the most famous and beloved songs of the late 1930s, was based on a Jewish Cantorial theme.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Isachar Zacharie, an English born Jew, who was related to important American politicians, worked as what?",
+    "category": "religion-faith",
+    "answer": "Lincolns podiatrist",
+    "choices": "Lincolns podiatrist\nAl Gores press secretary\nThe first Jewish Prime Minister\nWashingtons lawyer in Virginia",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Why was Rabbi David Einhorn, a German rabbi and later leader of the Jewish reform movement in the United States, forced to leave Baltimore in 1861, during the Civil War?",
+    "category": "religion-faith",
+    "answer": "He preached against slavery",
+    "choices": "He expressed too radical views\nHe insulted the Governor of Maryland,Thomas Hicks\nHe insulted the Mayor of Baltimore, George Williams\nHe preached against slavery",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "A famous and talented composer was almost bankrupt when he wrote one of his best-known works, Judas Maccabaeus - an oratorio based on a Jewish theme. Who was this classical composer?",
+    "category": "religion-faith",
+    "answer": "Handel",
+    "choices": "Hayden\nHandel\nChopin\nMozart",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Marty Glickman and Sam Stoller were great 100-yard runners in the 1930s. They were to be on the 4x100 meter relay race team for the USA in the 1936 Olympics, but eventually did not take part in the race. What was the reason?",
+    "category": "religion-faith",
+    "answer": "Hitler demanded their exclusion",
+    "choices": "They were late to the field\nThey refused to run on Saturday (Shabbos)\nThey were caught using steroids\nHitler demanded their exclusion",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Bodhisattva is consciously seeking what?",
+    "category": "religion-faith",
+    "answer": "Enlightenment",
+    "choices": "Tranquility\nEnlightenment\nThangka\nBuddha",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is Dharma?",
+    "category": "religion-faith",
+    "answer": "The cosmic principles of existence",
+    "choices": "The cosmic principles of existence\nThe Hindu Goddess of happiness\nThe extinction of desire and individual consciousness\nSame as Adharma",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Buddhist believe that this depends on the actions that we have taken in the past.",
+    "category": "religion-faith",
+    "answer": "Our births",
+    "choices": "Our Nirvana\nOur happiness\nOur births\nOur Karma",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Buddhism the cycle of rebirths is known as what?",
+    "category": "religion-faith",
+    "answer": "Samsara",
+    "choices": "Bodhi\nDharma\nSamsara\nThangka",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which saint is known as the patron of children?",
+    "category": "religion-faith",
+    "answer": "Nicholas",
+    "choices": "Anthony\nNicholas\nBarbara\nMartha",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is known as the patron of India?",
+    "category": "religion-faith",
+    "answer": "Francis Xavier",
+    "choices": "Francis Xavier\nJohn the Divine\nGiles\nCatherine",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "St. Benedict is known as the patron of which of these groups of people?",
+    "category": "religion-faith",
+    "answer": "Monks",
+    "choices": "Monks\nLibrarians\nMusicians\nFishermen",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was the first Italian-American woman to be canonized as a saint of the Catholic Church?",
+    "category": "religion-faith",
+    "answer": "Frances Cabrini",
+    "choices": "Mother Catherine\nDorothea of the Angels\nFrances Cabrini\nAgnes of God",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which saint is referred to as the patron of fishermen?",
+    "category": "religion-faith",
+    "answer": "Andrew the Apostle",
+    "choices": "Andrew the Apostle\nRaphael the Archangel\nJerome\nSebastian",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which  saint is most often invoked for the recovery of a lost object?",
+    "category": "religion-faith",
+    "answer": "Anthony",
+    "choices": "Josephine\nRebecca\nAnthony\nJude",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who used to be the patron saint of travelers?",
+    "category": "religion-faith",
+    "answer": "St. Christopher",
+    "choices": "St. Michael\nSt. Christopher\nSt. Theresa\nSt. Andrew",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which saint is the patron of all animals and living creatures?",
+    "category": "religion-faith",
+    "answer": "Francsis of Asissi",
+    "choices": "Francsis of Asissi\nFrancis de Salles\nFrancis of Rome\nFrancis Xavier",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is the patron saint of writers and librarians?",
+    "category": "religion-faith",
+    "answer": "Jerome",
+    "choices": "Jerome\nThomas Aquinas\nGregory\nEdward the Confessor",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "To which saint does one pray for healthy eyes?",
+    "category": "religion-faith",
+    "answer": "St. Lucy, Virgin",
+    "choices": "St. Mary of Naples\nSt. Lucy, Virgin\nSt. Frances of the Holy Redeemer\nSt. Anne",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the Hindu Trinity?",
+    "category": "religion-faith",
+    "answer": "Vishnu, Brahma, Shiva",
+    "choices": "Shiva, Brahma, Krishna\nShiva, Lakshmi, Ganesh\nVishnu, Brahma, Shiva\nBuddha, Brahma, Ganesh",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Hinduism is a monotheistic religion.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the most sacred river for Hindus?",
+    "category": "religion-faith",
+    "answer": "Gange",
+    "choices": "Jamuna\nGange\nSiddharta\nGoa",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many women-followers did the Hindu deity Lord Krishna have?",
+    "category": "religion-faith",
+    "answer": "108",
+    "choices": "108\n2\n1\n167",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What are the main characters of the ancient Sanskrit epic Ramayana?",
+    "category": "religion-faith",
+    "answer": "Rama and Sita",
+    "choices": "Brahma and Vishnu\nRama and Krishna\nRama and Sita\nKrishna and Shiva",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is the founder of the International Society for Krishna Consciousness, known as the Hare Krishna?",
+    "category": "religion-faith",
+    "answer": "Prabhupada",
+    "choices": "Prabhupada\nGeorge Harrison\nSai Baba\nDalai Lama",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Lord Ganesh, one of the most worshipped divinities in Hinduism, has the head of what animal?",
+    "category": "religion-faith",
+    "answer": "elephant",
+    "choices": "cobra\nlion\nbear\nelephant",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these belonged to the highest-ranking Hindu caste?",
+    "category": "religion-faith",
+    "answer": "priests",
+    "choices": "widows\nwarriors\npriests\nworkers",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Krishna is an incarnation of which Hindu god?",
+    "category": "religion-faith",
+    "answer": "Vishnu",
+    "choices": "Vishnu\nBuddha\nShiva\nBrahma",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Swastika is a solar symbol for Hindus.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to the Book of Esther, Esther replaced this disobedient Biblical queen.",
+    "category": "religion-faith",
+    "answer": "Queen Vashti",
+    "choices": "Queen Ruth\nQueen Vashti\nQueen Mary\nQueen of Sheba",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This brave Biblical woman led the Israelites to victory in the battle against Sisera.",
+    "category": "religion-faith",
+    "answer": "Deborah",
+    "choices": "Rebecah\nLeah\nSarah\nDeborah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, King David saw this beautiful woman bathing, and immediately desired her, but she was married.",
+    "category": "religion-faith",
+    "answer": "Bathsheba",
+    "choices": "Ahinoam\nAbigail\nMichal\nBathsheba",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This Biblical woman couldnt have children, but finally God granted her a son, who was to be named Samuel and become one of the Bibles most prolific prophets of all time.",
+    "category": "religion-faith",
+    "answer": "Hannah",
+    "choices": "Hannah\nAbigail\nPeninnah\nHagar",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the New Testament, this woman had a son called John the Baptist.",
+    "category": "religion-faith",
+    "answer": "Elizabeth",
+    "choices": "Martha\nElizabeth\nMaacah\nMary",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Book of Exodus, this brave mother hid her young baby son, Moses, in a basket along the Nile River, so that no one could kill him.",
+    "category": "religion-faith",
+    "answer": "Jochebed",
+    "choices": "Jochebed\nMiriam\nMartha\nZipporah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This biblical heroine hid two Israelite spies in her house under stalks of flax.",
+    "category": "religion-faith",
+    "answer": "Rehab",
+    "choices": "Leah\nRehab\nNaomi\nRachel",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Bible, this woman gave birth to male twins and as she was in labor the twins jostled each other, one babys hand grasping the heel of the other infants foot.",
+    "category": "religion-faith",
+    "answer": "Rebekah",
+    "choices": "Rachel\nRebekah\nLeah\nHagar",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This Biblical woman poured perfume on Jesus feet and wiped them with her hair.",
+    "category": "religion-faith",
+    "answer": "Mary",
+    "choices": "Mary\nKeturah\nSamaritan woman\nSarah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, this woman became a widow and decided to live with her mother-in-law instead of going home to her family. She then married Boaz.",
+    "category": "religion-faith",
+    "answer": "Ruth",
+    "choices": "Ruth\nNaomi\nOprah\nEsther",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these architects designed St. Peters Basilica in Rome?",
+    "category": "religion-faith",
+    "answer": "Carlo Marchionni",
+    "choices": "Carlo Marchionni\nDonato di Niccol\u00F2 di Betto Bardi\nMichelangelo di Lodovico Buonarroti Simoni\nGian Lorenzo Bernini",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Raphael Santi was the original architect of the Chigi Chapel but Gian Bernini finished it, after Raphael became a father.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "St. Peters Basilica is both the Popes principal church and his official ecclesiastical seat.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The Temple of Vespasian was begun by Titus after whose death?",
+    "category": "religion-faith",
+    "answer": "his father, Vespasian",
+    "choices": "his brother-in-law, Jesus\nhis father, Vespasian\nhis brother, Domitian\nhis best friend, Tiberius",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Following Michelangelos death, his student, Giacomo della Porta continued with the unfinished portions of Palazzo Farnese.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Did Leonardo Da Vinci design the facade for the church of Santa Bibiana.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "When Michelangelo was still an apprentice, he made an imitation of a famous Roman statue that was sold in Rome as an ancient Roman original. What was the name of the original statue?",
+    "category": "religion-faith",
+    "answer": "Il Putto Dormiente",
+    "choices": "Cherubini\nBacchus\nIl Putto Dormiente\nMoses",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "All originals of Leonardo da Vincis Leda and the Swan have been either lost or destroyed.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "How  many books are in the Torah?",
+    "category": "religion-faith",
+    "answer": "5",
+    "choices": "18\n5\n21\n10",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Jason Marquis (Cardinals), Shawn Green (Arizona),and Brad Asmus (Houston) are all Jewish.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What was the only automobile brand named after a Jew?",
+    "category": "religion-faith",
+    "answer": "Citroen",
+    "choices": "Oldsmobile\nCitroen\nDuesenberg\nAuburn",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these great home run hitters was Jewish?",
+    "category": "religion-faith",
+    "answer": "Hank Greenberg",
+    "choices": "Tony Gwynn\nHank Greenberg\nJimmy Foxx\nKing Kong Keller",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Except for Saturday, how many times a day must an Orthodox Jew pray?",
+    "category": "religion-faith",
+    "answer": "3",
+    "choices": "19\n3\n1\n5",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "On front of the home of every Jew, there is a special decoration or religious symbol. It is also found inside the home at very doorpost and every gate. In each one, there are three sections of the (Old) Testament.  What do we call these religious objects?",
+    "category": "religion-faith",
+    "answer": "Mezzuzas",
+    "choices": "Moshiach\nMohels\nMezzuzas\nTorahs",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "On Columbus first trip to the new world, many Jews were employed by Columbus. What was the highest job held by a Jew?",
+    "category": "religion-faith",
+    "answer": "Translator",
+    "choices": "Weatherman\nTranslator\nTreasurer\nSupply commander",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What religious article must every unmarried Jewish woman wear?",
+    "category": "religion-faith",
+    "answer": "None",
+    "choices": "Red String\nStar of David\nNone\nFringes",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Judaism locusts are kosher, which means that they are allowed to be eaten.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In every synagogue, in every country in the world, there are the same number of statues. How many?",
+    "category": "religion-faith",
+    "answer": "0",
+    "choices": "10\n5\n0\n3",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, God forbade Adam and Eve to eat the fruit of the apple tree.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Who is the first human who murdered a human according to the Bible?",
+    "category": "religion-faith",
+    "answer": "Cain",
+    "choices": "Eve\nCain\nAdam\nAbel",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Book of Revelation, there are angels of the Devil.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "It is written in the Bible, that false Christs and prophets will arise and will show great signs and wonders.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to Christian theology, Jesus Christ is a person with an entirely human nature.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What Biblical figure built an ark on top of a mountain?",
+    "category": "religion-faith",
+    "answer": "Noah",
+    "choices": "Moses\nJacob\nNoah\nJoseph",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What Biblical hero split the sea so that he and his people could go across?",
+    "category": "religion-faith",
+    "answer": "Moses",
+    "choices": "Noah\nJoseph\nJacob\nMoses",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does the name Moses mean according to the Bible?",
+    "category": "religion-faith",
+    "answer": "taken from the water",
+    "choices": "Prince of Egypt\ntaken from the water\nbeautiful\nsour",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many books are there in the Bible?",
+    "category": "religion-faith",
+    "answer": "66",
+    "choices": "64\n65\n59\n66",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many times a year is a healthy, adult Jew required to fast?",
+    "category": "religion-faith",
+    "answer": "6",
+    "choices": "0\n13\n6\n2",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Historically, Golda Meir was the first female Jewish leader.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the subject of the first Book of the  Talmud ?",
+    "category": "religion-faith",
+    "answer": "Blessings",
+    "choices": "There is no first book\nBlessings\nCivil Torts\nShabbat",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "It is considered that the Jewish Golden Age occurred in this country.",
+    "category": "religion-faith",
+    "answer": "Spain",
+    "choices": "Spain\nFrance\nIsrael\nIndia",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In 1776, when we Jews declared themselves free from England, which British colony had the most Jews?",
+    "category": "religion-faith",
+    "answer": "Jamaica",
+    "choices": "Union of South Africa\nAustralia\nJamaica\nCanada",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "On the holy day, Simchat Torah, Jews finish reading the five books of the Torah and do what immediately after?",
+    "category": "religion-faith",
+    "answer": "Start again",
+    "choices": "Throw a party\nStart again\nDiscuss the days events\nHave a meal",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Jews build temporary huts for this holy day.",
+    "category": "religion-faith",
+    "answer": "Sukkot",
+    "choices": "Hannukah\nYom Kippur\nSukkot\nRosh Hashannah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does the Hebrew expression Mazel Tov mean?",
+    "category": "religion-faith",
+    "answer": "Good luck",
+    "choices": "Have a great day\nHave an easy fast\nSorry\nGood luck",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Jewish calender is a lunar calender.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Judaism divides The Old Testament into three parts, called this in English.",
+    "category": "religion-faith",
+    "answer": "Torah, Prophets, Wisdom Literature",
+    "choices": "Torah, Pentatuch, Prophets\nTorah, Histories, Pentatuch\nTorah, Prophets, Wisdom Literature\nTorah, Chronicles, Major Prophets",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In what book of The New Testament was John the Baptist beheaded?",
+    "category": "religion-faith",
+    "answer": "Matthew",
+    "choices": "John\nLuke\nMark\nMatthew",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In The New Testament, Romans was written by the apostle Paul.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "How many books are in the New Testament?",
+    "category": "religion-faith",
+    "answer": "27",
+    "choices": "25\n27\n20\n31",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "It is believed by many that the Gospel of Luke is the most beautiful book ever written.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of the laws in  the Ten Commandments of the New Testament is conceived to be the greatest one?",
+    "category": "religion-faith",
+    "answer": "Love the Lord with all your heart, soul and mind",
+    "choices": "Honor your father and your mother\nYou shall not steal\nLove the Lord with all your heart, soul and mind\nLove your neighbor as yourself",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the New Testament, Acts is the next book after Romans.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the third book of the New Testament?",
+    "category": "religion-faith",
+    "answer": "Luke",
+    "choices": "Mark\nMatthew\nJonh\nLuke",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What did Jesus do to the man with leprosy, according to The New Testament?",
+    "category": "religion-faith",
+    "answer": "touched him and cured him",
+    "choices": "ignored him\ngave him medicine\nprayed for him\ntouched him and cured him",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Paul is acknowledged as the author of  First Epistle to the Corinthians book in The New Testament.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In which book of The New Testament is the following passage found Ask and it will be given to you;seek and you will find;knock and the door will be opened to you?",
+    "category": "religion-faith",
+    "answer": "Matthew",
+    "choices": "Psalms\nMatthew\nActs\nLuke",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was the name of Abrahams wife according to the book of Genesis?",
+    "category": "religion-faith",
+    "answer": "Sarah",
+    "choices": "Rebekah\nRachel\nLeah\nSarah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the book of Genesis, how old was Abraham when Isaac was born?",
+    "category": "religion-faith",
+    "answer": "100 years old",
+    "choices": "101 years old\n95 years old\n100 years old\n99 years old",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Isaac was Abrahams first son according to the Torah.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What was the name of Isaacs wife according to the book of Genesis?",
+    "category": "religion-faith",
+    "answer": "Rebekah",
+    "choices": "Leah\nRachel\nSarah\nRebekah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The book of Genesis tells that when Esau and Jacob were born, Jacob grabbed hold of what?",
+    "category": "religion-faith",
+    "answer": "Esaus heel",
+    "choices": "Esaus hand\nEsaus hair\nEsaus heel\nEsaus food",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Torah, what did Esau trade his birthright with Jacob for?",
+    "category": "religion-faith",
+    "answer": "Bread and lentil stew",
+    "choices": "Bread and wild game\nBread and vegetables\nBread and lentil stew\nManna",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was Jacobs first wife in the book of Genesis?",
+    "category": "religion-faith",
+    "answer": "Leah",
+    "choices": "Leah\nSarah\nRebekah\nRachel",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many years did Jacob have to work for each of his wives according to the Torah?",
+    "category": "religion-faith",
+    "answer": "7 years each",
+    "choices": "3 years each\n7 years each\n1 year each\n14 years each",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who founded the Scientology philosophy and religion?",
+    "category": "religion-faith",
+    "answer": "L. Ron Hubbard",
+    "choices": "L. Ron Hubbard\nMarion Davis\nJason Beghue\nJudson Lord",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This actor, who made it big as a high school gang member, delivering paint and flying airplanes, is one of the most famous Scientologists.",
+    "category": "religion-faith",
+    "answer": "John Travolta",
+    "choices": "Hayward Nelson\nJohn Travolta\nChristian Slater\nBrad Pitt",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these voice actors/actresses from The Simpsons series, is a Scientologist?",
+    "category": "religion-faith",
+    "answer": "Nancy Cartwright",
+    "choices": "Dan Castellaneta\nNancy Cartwright\nHank Azaria\nHarry Shearer",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "These two brothers are Scientologists who acted on famous comedy sitcoms. One was on That 70s Show and the other one was the oldest brother on Malcolm in the Middle. What is their last name?",
+    "category": "religion-faith",
+    "answer": "Masterson",
+    "choices": "Prepon\nMasterson\nRibisi\nKidman",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which Scientologist played the wife of \u201CThe King of Queens?",
+    "category": "religion-faith",
+    "answer": "Leah Remini",
+    "choices": "Juliette Lewis\nMimi Rogers\nAnn Archer\nLeah Remini",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Lisa Marie Presley and her mother Priscilla Presley are both Scientologists.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of these musicians is not a Scientologist?",
+    "category": "religion-faith",
+    "answer": "Michael Bolton",
+    "choices": "Chick Correa\nBeck\nBrandy\nMichael Bolton",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What Scientologist started the EST movement?",
+    "category": "religion-faith",
+    "answer": "Werner Erhard",
+    "choices": "David Miscavige\nWerner Erhard\nGreta  Van Susteren\nSonny Bono",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was Operation Snow White?",
+    "category": "religion-faith",
+    "answer": "An attempt by Scientology to infiltrate the US government",
+    "choices": "An attempt by Scientology to gain publicity by hiring writers to give it a better image\nAn attempt by Scientology to infiltrate the US government\nAn attempt by Scientology to gain new members by holding events in several large cities in the USA and Canada\nAnattempt by the IRS to get back taxes from the main Scientology group",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The title of what book in the Bible means departure?",
+    "category": "religion-faith",
+    "answer": "Exodus",
+    "choices": "Lamentations\nExodus\nGenesis\nDeuteronomy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Deuteronomy, the title of the fifth book of the Hebrew Bible, means second law.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the meaning of the book title Genesis?",
+    "category": "religion-faith",
+    "answer": "beginning",
+    "choices": "God\nman\nbeginning\ncreation",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Does The Book of Numbers from the Old Testament begin with the numbering of the people in Sinai?",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What book in the Bible was named after the successor of Moses?",
+    "category": "religion-faith",
+    "answer": "Joshua",
+    "choices": "Isaiah\nEzekiel\nJoshua\nJeremiah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Where can you find the story of Adam and Eve?",
+    "category": "religion-faith",
+    "answer": "Book of Genesis",
+    "choices": "Book of Jeremiah\nBook of Genesis\nBook of Lamentations\nBook of Exodus",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The story of Moses birth can be found in the Book of Deuteronomy.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Was Moses still alive in the Book of Numbers?",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What was the age of Joshua (Moses successor) when he died?",
+    "category": "religion-faith",
+    "answer": "110 years old",
+    "choices": "120 years old\n105 years old\n110 years old\n115 years old",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which 10th century Ashkenazi Rabbi outlawed polygamy?",
+    "category": "religion-faith",
+    "answer": "Rabbi Gershom",
+    "choices": "Rabbi Levi Ben-Meir\nRabbi Judah\nRabbi Gershom\nRabbi Feinstein",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The first international Jewish athletic competition, known as Maccabiah Games, was held in what year?",
+    "category": "religion-faith",
+    "answer": "1932",
+    "choices": "1896\n1964\n1932\n1956",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the collection of stories, legends, and allegorical interpretations of the Hebrew Bible Tanach?",
+    "category": "religion-faith",
+    "answer": "Midrash",
+    "choices": "Gemara\nMidrash\nKislev\nMishnah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The first day of the Jewish New Year, Rosh Hashanah, can only occur on which of these days?",
+    "category": "religion-faith",
+    "answer": "Monday, Tuesday, Thursday or Saturday",
+    "choices": "Sunday, Tuesday, Wednesday or Friday\nSunday, Monday, Wednesday or Friday\nMonday, Tuesday, Thursday or Saturday\nMonday, Thursday or Friday",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The first female Rabbi, Berlin-born Regina Jonas, was ordained in what year?",
+    "category": "religion-faith",
+    "answer": "1935",
+    "choices": "1935\n1905\n1964\n1789",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Four Jewish jobs require ordination (or Smeecha). Which of these is not one of them?",
+    "category": "religion-faith",
+    "answer": "Cantor",
+    "choices": "Cantor\nMohel\nShochet\nScribe",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Jewish American Sidney Franklin was greatly admired by Ernest Hemingway, as he was the first American to become successful in what occupation?",
+    "category": "religion-faith",
+    "answer": "Bullfighter",
+    "choices": "Boxer\nBullfighter\nPolice officer\nPolitician",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "One of the most important prayers in Jewish liturgy is the the Shemoneh Esreh (The Eighteen) This prayer, which must be said every day at almost every service, is also known by what other name?",
+    "category": "religion-faith",
+    "answer": "The Amidah",
+    "choices": "Shochain Od\nThe Amidah\nThe Shema\nThe Kol Nidrei",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Mike Epstein, Norm Sherry, Larry Sherry, and Barry Latman were all Jewish baseball players. What do they have in common?",
+    "category": "religion-faith",
+    "answer": "They all went to the same high school.",
+    "choices": "They all played for the Dodgers.\nThey all played for the Yankees.\nThey all went to the same high school.\nThe were all assassinated for political motives.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "When did the Six Day War between Israel and the Arab states of Egypt, Jordan, and Syria begin?",
+    "category": "religion-faith",
+    "answer": "June 5, 1967",
+    "choices": "June 5, 1971\nJune 5, 1967\nJune 5, 1963\nJune 5, 1969",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In 1825, Jewish American diplomat and journalist Mordecai Manuel Noah tried to found what Jewish institution in the United States?",
+    "category": "religion-faith",
+    "answer": "A Jewish homeland in the United States",
+    "choices": "A Jewish rebellion organization in the United States\nA Jewish homeland in the United States\nA Jewish government in the United States\nA Jewish independent church in the United States",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was the first Jewish player in the United States National Hockey League?",
+    "category": "religion-faith",
+    "answer": "Sam Rothschild",
+    "choices": "Sam Rothschild\nMathieu Schneider\nErnie Grunfield\nIssac Berger",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these terms is used by Jews to refer to the Old Testament?",
+    "category": "religion-faith",
+    "answer": "Tanakh",
+    "choices": "Torah\nTehillim\nTanakh\nSchmuel",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The most important religious document for the Jews, Torah, is written in what language?",
+    "category": "religion-faith",
+    "answer": "Hebrew",
+    "choices": "Arabic\nSyriac\nAramaic\nHebrew",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many commandments are there in the central document of Judaism, Torah?",
+    "category": "religion-faith",
+    "answer": "613",
+    "choices": "1075\n24\n613\n215",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to Judaism, even non-Jews are morally bound to observe how many laws from the Torah?",
+    "category": "religion-faith",
+    "answer": "7",
+    "choices": "10\n7\n313\n613",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these prayers is traditionally sung before sunset on Yom Kippur, the Jewish Day of Atonement?",
+    "category": "religion-faith",
+    "answer": "Kol Nidre",
+    "choices": "Slichot\nTanaim\nKol Nidre\nDor v Dor",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Every morning and evening, Jews must recite a prayer, which is also said at  the moment before death. What is the name of this prayer?",
+    "category": "religion-faith",
+    "answer": "The Shema Yisrael",
+    "choices": "The Hoshannah Rabbah\nThe Kaddish\nThe Kiddush\nThe Shema Yisrael",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This is the holiest city in Judaism and the spiritual center of the Jewish people. It also plays an important role in Christianity and Islam.",
+    "category": "religion-faith",
+    "answer": "Jerusalem",
+    "choices": "Constantinople\nJerusalem\nMedina\nMecca",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Temple Mount, the Church of Holy Sepulchre and the Western Wall are landmarks found in this city.",
+    "category": "religion-faith",
+    "answer": "Jerusalem",
+    "choices": "Baghdad\nOhrid\nJerusalem\nConstantinople",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who built the Temple of Jerusalem also known as the Holy Temple?",
+    "category": "religion-faith",
+    "answer": "King Solomon",
+    "choices": "Constantine I Emperor\nKing Ferdinand\nJustinian Emperor\nKing Solomon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "When was Jerusalem conquered by the Islamic Caliphate?",
+    "category": "religion-faith",
+    "answer": "In 638",
+    "choices": "In 1500\nIn 340\nIn 1040\nIn 638",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "After the Arabic-Israeli War (1948-1949) Jerusalem was divided between Israel (West part) and Jordan (East part).",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is Jesus birthplace according to the Bible?",
+    "category": "religion-faith",
+    "answer": "Bethlehem",
+    "choices": "Bethlehem\nJerusalem\nConstantinople\nNazareth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Where is The Milk Grotto Church of Virgin Mary located?",
+    "category": "religion-faith",
+    "answer": "Bethlehem",
+    "choices": "Bethlehem\nJerusalem\nNazareth\nBaghdad",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Bethlehem, Christmas ceremonies are held on three different dates.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to New Testament, the home of Joseph and Mary was in Jerusalem.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The Church of the Annunciation was built in Nazareth.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to the Book of Matthew, Jacob was the father of Issac.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Who was king when Jesus was born?",
+    "category": "religion-faith",
+    "answer": "King Herod",
+    "choices": "King Solomon\nKing David\nKing Herod\nNone of these",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Jesus was baptized by John the Baptist.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the Book of Matthew, what did Jesus say to the man with leprosy when he touched him?",
+    "category": "religion-faith",
+    "answer": "Be Clean!",
+    "choices": "Be cured!\nBe Clean!\nBe Healed!\nNone of these",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Whose mother-in-law was lying in bed with a fever in the Book of Matthew?",
+    "category": "religion-faith",
+    "answer": "Peter",
+    "choices": "Peter\nJames\nJohn\nMark",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Book of Matthew, how many disciples did Jesus give authority to heal the sick and drive out evil spirits?",
+    "category": "religion-faith",
+    "answer": "12",
+    "choices": "10\n7\n12\n5",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the apostles betrayed Jesus?",
+    "category": "religion-faith",
+    "answer": "Judas Iscariot",
+    "choices": "Simon the Zealot\nPhilip\nMatthew\nJudas Iscariot",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Where did Ruth live when she met her first husband according to the Book of Ruth?",
+    "category": "religion-faith",
+    "answer": "Moab",
+    "choices": "Bethlehem\nMoab\nJerusalem\nJudah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Book of Ruth, who was Ruths mother-in-law that she would not abandon?",
+    "category": "religion-faith",
+    "answer": "Naomi",
+    "choices": "Naomi\nMary\nOrpah\nRahab",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was Ruths sister-in-law according to the Book of Ruth?",
+    "category": "religion-faith",
+    "answer": "Orpah",
+    "choices": "Oprah\nRahab\nOrpah\nNaomi",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Book of Ruth, after the deaths of Naomis husband and her two sons, Naomi wanted to leave Moab. Where did she go?",
+    "category": "religion-faith",
+    "answer": "Bethlehem",
+    "choices": "Bethlehem\nJoppa\nJerusalem\nNinevah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Book of Ruth, what did Ruth do to indicate that she wanted to be redeemed?",
+    "category": "religion-faith",
+    "answer": "Sleep at Boaz feet.",
+    "choices": "Bow down to Boaz\nWash Boaz feet.\nSing to Boaz\nSleep at Boaz feet.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Book of Ruth, Boaz was the closest relative thats why he came forward as the kinsman-redeemer.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to the Book of Ruth, what did the kinsman-redeemer give to Boaz to indicate that Boaz would be the redeemer of Ruth?",
+    "category": "religion-faith",
+    "answer": "His sandal",
+    "choices": "A signed piece of paper\n500 shekels\nHis cloak\nHis sandal",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was the name of Ruth and Boazs son in the Book of Ruth?",
+    "category": "religion-faith",
+    "answer": "Obed",
+    "choices": "Jesse\nDavid\nSalmon\nObed",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Book of Ruth comes after this book.",
+    "category": "religion-faith",
+    "answer": "Judges",
+    "choices": "Joshua\nEsther\nDaniel\nJudges",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many books are there in the Old Testament of the Bible?",
+    "category": "religion-faith",
+    "answer": "39",
+    "choices": "39\n43\n20\n35",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Finish the title of this book of the Old Testament: The Song of _____",
+    "category": "religion-faith",
+    "answer": "Solomon",
+    "choices": "Solomon\nJob\nRuth\nJoel",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which book of the Old Testament of the Bible has the least number of chapters?",
+    "category": "religion-faith",
+    "answer": "Obadiah",
+    "choices": "Obadiah\nHaggai\nZephaniah\nHabakkuk",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which book of the Old Testament has the most chapters?",
+    "category": "religion-faith",
+    "answer": "Psalms",
+    "choices": "Psalms\nGenesis\nIsaiah\nJeremiah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The first two books in the Old Testament are Genesis and Exodus. What is the name of the third book?",
+    "category": "religion-faith",
+    "answer": "Leviticus",
+    "choices": "Deuteronomy\nNumbers\nJoshua\nLeviticus",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the title of the last book of the Old Testament?",
+    "category": "religion-faith",
+    "answer": "Malachi",
+    "choices": "Job\nMalachi\nZechariah\nHaggai",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these books doesnt belong with the others?",
+    "category": "religion-faith",
+    "answer": "Jude",
+    "choices": "Ezekiel\nLamentations\nJude\nGenesis",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Amos is the first book of the Old Testament alphabetically.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of these books of the Old Testament is not divided into parts I and II?",
+    "category": "religion-faith",
+    "answer": "Numbers",
+    "choices": "Kings\nNumbers\nSamuel\nChronicles",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "There are 32 chapters in the Book of Proverbs.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Who was the first US President whose name appeared on the charter of a synagogue?",
+    "category": "religion-faith",
+    "answer": "Franklin Pierce",
+    "choices": "Millard Fillmore\nGeorge Washington\nFranklin Pierce\nJohn F. Kennedy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was the  first Jew to serve as a  diplomat for the USA?",
+    "category": "religion-faith",
+    "answer": "Mordechai Noah",
+    "choices": "Harvey Lembeck\nMordechai Noah\nJudah Benjamin\nNoah Hershey",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was the first Jew to be offered a position on the US Supreme Court?",
+    "category": "religion-faith",
+    "answer": "Judah Benjamin",
+    "choices": "Benjamin Cardoza\nAugust Belmont\nLouis Brandeis\nJudah Benjamin",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was the  first Jew to serve as US Minister to The Hague?",
+    "category": "religion-faith",
+    "answer": "August Belmont",
+    "choices": "Judah Benjamin\nAugust Belmont\nJohn Hays\nHenry Androwsky",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was the approximate Jewish population of the United States in 1790?",
+    "category": "religion-faith",
+    "answer": "1300-1500",
+    "choices": "5200-5500\n2500-2700\n1300-1500\n3950-4300",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "During the Revolutionary War many Jews volunteered to fight the British and there was even a Jew Company. Where were the members of this company  from?",
+    "category": "religion-faith",
+    "answer": "Charleston, S.C.",
+    "choices": "Philadelphia, PA.\nBoston, MA.\nCharleston, S.C.\nNew York City, NY.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many years did Golda Meir serve as President of Israel?",
+    "category": "religion-faith",
+    "answer": "0",
+    "choices": "0\n3\n4\n6",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was the first President of Israel?",
+    "category": "religion-faith",
+    "answer": "Chaim Weizmann",
+    "choices": "David ben -Gurion\nChaim Weizmann\nGolda Meir\nMosahe Dayan",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was famous for saying We will fight the War [WWII] as if there were no White Paper and the White paper as if there were no war.?",
+    "category": "religion-faith",
+    "answer": "David Ben-Gurion",
+    "choices": "Menachem Begin\nMoshe Dayan\nGolda Meir\nDavid Ben-Gurion",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which successful Israeli General lost an eye and was famous for wearing an eye patch?",
+    "category": "religion-faith",
+    "answer": "Moshe Dayan",
+    "choices": "Moshe Malone\nMoshe ben-Aram\nMoshe Sharrett\nMoshe Dayan",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does the term Chabad, as in Chabad Hasidism, mean?",
+    "category": "religion-faith",
+    "answer": "It stands for wisdaom, understanding and knowledge.",
+    "choices": "Its the name of the place where this form of Hasidism began\nIts the name of the first Chabad Rabbi.\nIt stands for wisdaom, understanding and knowledge.\nIt stands for healing the World.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This great American Army officer helped form the Israeli Army. He was responsible for organizing the army along modern lines and for leading the effort  to save Jerusalem in the 1948 war.",
+    "category": "religion-faith",
+    "answer": "Mickey Marcus",
+    "choices": "Moshe Dayan\nModechai Manual\nEddie Jacobson\nMickey Marcus",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What king of Babylon took over Jerusalem in the first chapter of the Book of Daniel?",
+    "category": "religion-faith",
+    "answer": "Nebuchadnezzar",
+    "choices": "Nebuchadnezzar\nJehoiakim\nDarius\nBelshazzar",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Book of Daniel, upon his arrival in Babylon, what was Daniels name changed to?",
+    "category": "religion-faith",
+    "answer": "Belteshazzar",
+    "choices": "Meshach\nBelshazzar\nBelteshazzar\nShadrach",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What were the Hebrew names of Shadrach, Meshach and Abednego according to the Book of Daniel?",
+    "category": "religion-faith",
+    "answer": "Hananiah, Mishael and Azariah",
+    "choices": "Hananiah, Michael and Amos\nHananiah, Mark and Amos\nHananiah, Michael and Abraham\nHananiah, Mishael and Azariah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the second chapter of the Book of Daniel, what did King Nebuchadnezzar have a dream about?",
+    "category": "religion-faith",
+    "answer": "A statue",
+    "choices": "A tree\nA goat\nA temple\nA statue",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In King Nebuchadnezzars dream from the second chapter of the Book of Daniel, what kingdom does the head of gold represent?",
+    "category": "religion-faith",
+    "answer": "Babylonian Empire",
+    "choices": "Roman Empire\nBabylonian Empire\nMedo-Persia Empire\nGreek Empire",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What kingdom do the legs of iron represent in King Nebuchadnezzars dream in the second chapter of the Book of Daniel?",
+    "category": "religion-faith",
+    "answer": "Roman Empire",
+    "choices": "Roman Empire\nMedo-Persian Empire\nGreek Empire\nBabylonian Empire",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Book of Daniel, in King Nebuchadnezzars dream, the Greek Empire was represented by the chest and arms of silver.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the Book of Daniel, what would Shadrach, Meshach and Abednego not bow down to?",
+    "category": "religion-faith",
+    "answer": "An image of gold",
+    "choices": "An image of gold\nAn image of silver\nKing Nebuchadnezzar\nKing Xerxes",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Since they did not bow down, as King Nebuchadnezzar commanded, what happened to Shadrach, Meshach and Abednego in the Book of Daniel?",
+    "category": "religion-faith",
+    "answer": "They were thrown into a fiery furnace.",
+    "choices": "They were sent to the gallows.\nThey were thrown into a den of lions.\nThey were thrown into a fiery furnace.\nThey were stoned with rocks.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was king of Babylon when Darius the Mede took over?",
+    "category": "religion-faith",
+    "answer": "Belshazzar",
+    "choices": "Nebuchadnezzar\nBelshazzar\nBelteshazzar\nXerxes",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Book of Daniel, what did King Darius decree would happen if anyone prayed to any god or person, except for him for a period of 30 days?",
+    "category": "religion-faith",
+    "answer": "They would be thrown into the lions den.",
+    "choices": "They would be beheaded.\nThey would be thrown into the lions den.\nThey would be stoned.\nThey would be thrown into a fiery furnace.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What period was marked by the Great Jewish Revolt against the Roman Empire?",
+    "category": "religion-faith",
+    "answer": "66-70",
+    "choices": "120-110 b.c.e.\n250-223 b.c.e.\n66-70\n211-216",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who led the Jewish revolt against the Roman Empire in the period from 132 to 135?",
+    "category": "religion-faith",
+    "answer": "Bar Kochba and Rabbi Akiva",
+    "choices": "The Savoraim\nJudas Maccabee and his family\nBar Kochba and Rabbi Akiva\nEliezer Ben Ephraim",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does the number 613 refer to in Judaism?",
+    "category": "religion-faith",
+    "answer": "The number of commandments in the Torah",
+    "choices": "The number of Israelites who went into Egypt to survive while famine plagued the Holy  Land\nThe number of commandments in the Torah\nThe number of Israelites who left Egypt with Moses\nThe days in a Jewish lunar year",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What distinction does Moses Alexander hold?",
+    "category": "religion-faith",
+    "answer": "He was the first Jewish governor in the USA.",
+    "choices": "He was the first Jewish governor in the USA.\nHe was the first Jew to get an M.D. degree in the USA.\nHe was the first Jewish candidate for the American Presidency.\nHe was the first Jewish US Senator.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What distinction does Frank Wolf hold?",
+    "category": "religion-faith",
+    "answer": "He produced the first Yiddish play in then USA.",
+    "choices": "He was the first  Jewish general in the US Army.\nHe was the first Jewish recipient of the Pulitzer Prize.\nHe was the first Jewish member of the House of Representatives.\nHe produced the first Yiddish play in then USA.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was the name of the first union for actors in the US?",
+    "category": "religion-faith",
+    "answer": "The Hebrew Actors Union",
+    "choices": "The Screen Actors Guild\nThe Yiddish Actors Union\nThe Jewish Actors Guild\nThe Hebrew Actors Union",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What did Rose and Morris Michtom create in 1902?",
+    "category": "religion-faith",
+    "answer": "The Teddy Bear",
+    "choices": "The Teddy Bear\nThe endoscope\nThe credit card\nThe vacuum tube",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is Victor David Brenner remembered for?",
+    "category": "religion-faith",
+    "answer": "He made the portrait of Lincoln found on the US penny.",
+    "choices": "He was the first Jewish mayor in the USA.\nHe painted the painting Washington Crossing the Delaware.\nHe was the first Jewish general in the US Army.\nHe made the portrait of Lincoln found on the US penny.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which settlement is famous as the location of one of the most spectacular craters in Israel?",
+    "category": "religion-faith",
+    "answer": "Mitzpeh Ramon",
+    "choices": "Kfar Yaackov\nMitzpeh Ramon\nKiryat Shemona\nAcre",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which organization was founded by Rabbi Ben Frankel in 1923?",
+    "category": "religion-faith",
+    "answer": "The Hillel Foundation",
+    "choices": "The Jewish National Fund\nHebrew Union College\nThe Hillel Foundation\nHadassah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The circled-U symbol found on the labels of certain products shows that the Union of Orthodox Congregations have found the food is kosher. What was the first food product to have this symbol?",
+    "category": "religion-faith",
+    "answer": "Heinz ketchup",
+    "choices": "Breakstones sour cream\nHeinz ketchup\nManischewitz matzot\nEmpire chicken",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which Israeli city is a sister city of New York City?",
+    "category": "religion-faith",
+    "answer": "Tel Aviv",
+    "choices": "Haifa\nNetanya\nTel Aviv\nJerusalem",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Can an egg laid on a holy day (a Yom Tov) be eaten?",
+    "category": "religion-faith",
+    "answer": "Rabbi Hillel says no, but Rabbi Shammai says yes.",
+    "choices": "Definitely no\nRabbi Hillel says no, but Rabbi Shammai says yes.\nDefinitely yes\nRabbi Hillel says yes, but  Rabbi Shammai says no.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "An Israeli has invented a gun that can shoot around corners.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "This Jewish woman is often considered the First Lady in Television  News.",
+    "category": "religion-faith",
+    "answer": "Dorothy Fuldheim",
+    "choices": "Hannah Senesh\nBarbara Walters\nDorothy Fuldheim\nGlickl  von Hamelin",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This man and his partner, Mort Shuman, wrote almost 1,500 songs. His writings include: Viva Las Vegas, Prisoner of Love, Sweets for My Sweets, This Magic Moment, and Suspicion.",
+    "category": "religion-faith",
+    "answer": "Doc Pomus",
+    "choices": "Alex Bernstein\nDavis Fuldheim\nBrian Epstein\nDoc Pomus",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is strange about the edible vegetable Salicornia, which Israel exports to Europe?",
+    "category": "religion-faith",
+    "answer": "The vegetable is also used in glass-making.",
+    "choices": "It can only be eaten cooked.\nThe plant is 100% edible.\nIt is completely salt-free.\nThe vegetable is also used in glass-making.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What city is called The capital of the Negev (desert)?",
+    "category": "religion-faith",
+    "answer": "Beer Sheva",
+    "choices": "Beer Sheva\nNetanya\nHaifa\nJaffa",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is Gal Friedman?",
+    "category": "religion-faith",
+    "answer": "He was the first Israeli to win an Olympic gold  medal.",
+    "choices": "He was the first Israeli UN Ambassador.\nShe was Israels first  Ambassador to the USA.\nHe was the first Israeli to win an Olympic gold  medal.\nShe was the first Israeli to win a Nobel Prize.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This Israeli city, which features many beautiful beaches and beautiful seashore views, is also the site of the first IKEA in Israel.",
+    "category": "religion-faith",
+    "answer": "Netanya",
+    "choices": "Jaffa\nNetanya\nHadera\nKiryat Shemona",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "You can go snow skiing in the area of which Israeli mountain?",
+    "category": "religion-faith",
+    "answer": "Mt. Hermon",
+    "choices": "Mt. Nebo\nMt. Hermon\nMt. Carmel\nMt. Sinai",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Knesset is the Israeli parliament. In the Knesset building there is a tapestry by this famous artist.",
+    "category": "religion-faith",
+    "answer": "Chagal",
+    "choices": "Ginsberg\nWillensky\nPicasso\nChagal",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This great proponent for peace and understanding, who was Mayor of Jerusalem for 28 years, died in January , 2007.",
+    "category": "religion-faith",
+    "answer": "Teddy  Kollek",
+    "choices": "Moshe Tellek\nTeddy  Kollek\nAriel Sharon\nIlliyon Golan",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these holidays does not have a fast associated with it?",
+    "category": "religion-faith",
+    "answer": "Sukkot",
+    "choices": "Sukkot\nTisha BAv\nPurim\nPassover",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was Ilon Ramon?",
+    "category": "religion-faith",
+    "answer": "The first Israeli astronaut",
+    "choices": "The first Israeli astronaut\nThe first Israeli to win the Nobel Prize in Literature\nThe first Israeli tomplay in the NBA.\nThe first Israeli Ambassador to Egypt since Moses",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What did these six people have in common: Roderigo De Trianna, Luis De Torres, Maestre Bernal, Alfonso De La Calle, Marco the Surgeon, and Roderigo Sanchez De Segovia?",
+    "category": "religion-faith",
+    "answer": "They all sailed with Columbus.",
+    "choices": "They were the first Jews to be killed by the Spanish Inquisition.\nThey were the only Jews, or Muslims, who were allowed to remain in Spain after the Expulsion Notice of 1492 in order to attend to the health of King Ferdinand First.\nThey all sailed with Columbus.\nThey were Marranos who feigned to disavow Judaism so they could remain in Spain after the Expulsion Notice of 1492.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Jewish women often wear a piece of jewelry with the shape of human hand and sometimes writings on it. What is it called?",
+    "category": "religion-faith",
+    "answer": "Hamsa",
+    "choices": "TziTzit\nHamsa\nAron\nMezzuzah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Jewish traditions, what is the ceremony for the naming of a female baby on the evening of her fifth day?",
+    "category": "religion-faith",
+    "answer": "The Eve of the Sixth",
+    "choices": "Sarahs Ceremony\nThe Confirmation\nPinyin Ha-ben\nThe Eve of the Sixth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "During Jewish wedding ceremonies, the bride and groom stay under a canopy. What is this canopy called?",
+    "category": "religion-faith",
+    "answer": "Chupah",
+    "choices": "Chutzpah\nChanukia\nTallit katan\nChupah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The word Channukah, which refers to a Jewish tradition, means what in Hebrew?",
+    "category": "religion-faith",
+    "answer": "Dedication",
+    "choices": "Dedication\nCelebration\nWinter\nPilgrimage",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What meals are typically eaten during the celebrations of the Channukah holiday?",
+    "category": "religion-faith",
+    "answer": "Potato pancakes and jelly doughnuts",
+    "choices": "Potato pancakes and flat bread\nPotato pancakes and jelly doughnuts\nBoiled chicken and dumplings\nJelly doughnuts and flat bread",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the traditional food for Shavuot, a major festival in Judaism?",
+    "category": "religion-faith",
+    "answer": "Dairy products",
+    "choices": "Boiled chicken\nFish\nPotato dishes\nDairy products",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which line contains the correct names of the three Pilgrimage Festivals in Judaism?",
+    "category": "religion-faith",
+    "answer": "Sukkot, Passover, and Shavuot",
+    "choices": "Passover, Channukah, and Shavuot\nRosh Hashannah, Yom Kippur, and Channukah\nRosh Hashannah, Yom Kippur, and Sukkot\nSukkot, Passover, and Shavuot",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which line represents the correct beginning of the Shema prayer?",
+    "category": "religion-faith",
+    "answer": "Hear, O Israel! The Lord is our God! The Lord is One!",
+    "choices": "Hear, O Israel! Bless the Lord who gave us the Torah!\nHear, O Israel! The Lord is our God! The Lord is One!\nBlessed be the name of the glory of His kingdom!\nBlessed be the name of the Lord who made our bread!",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these people do Jews consider to be their historical religious Patriarchs?",
+    "category": "religion-faith",
+    "answer": "Abraham, Issac, and Jacob",
+    "choices": "Abraham, Moses, and David\nAbraham, Issac, and Jacob\nAbraham, Moses, and Solomon\nMoses, David, and Solomon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is considered the father of the Jewish political movement and ideology of Zionism?",
+    "category": "religion-faith",
+    "answer": "Theodor Herzl",
+    "choices": "Theodor Herzl\nAlfred Dreyfus\nI .L. Peretz\nSholom Aleichem",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Jewish children are considered  grown up enough to be responsible for their actions at what age?",
+    "category": "religion-faith",
+    "answer": "Boys at 13, girls at 12",
+    "choices": "All children above 13\nBoys at 13, girls at 12\nBoys at 14, girls at 13\nBoys at 13, girls at 14",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the meaning of the Hebrew toast lChaim!?",
+    "category": "religion-faith",
+    "answer": "To life!",
+    "choices": "To life!\nTo our country!\nTo health!\nTo success!",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, God commanded this prophet to anoint David as king.",
+    "category": "religion-faith",
+    "answer": "Samuel",
+    "choices": "Abiathar\nSamuel\nAhimelech\nSaul",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, David played this instrument to Israels first king, Saul.",
+    "category": "religion-faith",
+    "answer": "Harp",
+    "choices": "Bongos\nHarp\nFlute\nGuitar",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was Davids father according to the Bible?",
+    "category": "religion-faith",
+    "answer": "Jesse",
+    "choices": "Jesse\nSamuel\nSolomon\nEliab",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Bible, David fought the giant Goliath of Gath with a staff in his hand, a sling, and a shepherds bag which contained this number of stones.",
+    "category": "religion-faith",
+    "answer": "5",
+    "choices": "6\n4\n5\n3",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, David was very close friends with this son of King Saul.",
+    "category": "religion-faith",
+    "answer": "Jonathan",
+    "choices": "Shammah\nJonathan\nJoshua\nAbner",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Biblical king Saul became jealous of David because he was victorious in battle and was loved by all Israel. One day when David was playing the harp for him, Saul did which of the following in an attempt to kill him?",
+    "category": "religion-faith",
+    "answer": "Hurled a spear",
+    "choices": "Hurled a spear\nThrew a heavy rock\nTried to choke him\nTried to poison him",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, David married this daughter of Saul.",
+    "category": "religion-faith",
+    "answer": "Michal",
+    "choices": "Michal\nMerab\nSerah\nRuth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Bible, David once killed a lion and a bear.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What Jewish tribe did David belong to?",
+    "category": "religion-faith",
+    "answer": "Judah",
+    "choices": "Judah\nNaphtali\nBenjamin\nSimon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many years did David reign as king of Israel?",
+    "category": "religion-faith",
+    "answer": "40",
+    "choices": "25\n45\n35\n40",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How long has Tel Aviv been the capital of Israel?",
+    "category": "religion-faith",
+    "answer": "None of these",
+    "choices": "Since 1967\nSince 1948\nNone of these\nSince 1984",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who named Tel Aviv?",
+    "category": "religion-faith",
+    "answer": "Nahum Sokolow",
+    "choices": "David Ben Gurion\nNahum Sokolow\nChaim Nachman Bialik\nJoshua",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was the approximate population of Tel Aviv according to the Israel Central Bureau of Statistics as of June 2006?",
+    "category": "religion-faith",
+    "answer": "380,600",
+    "choices": "570,600\n475,500\n1,125,000\n380,600",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the Arabic name for Tel Aviv?",
+    "category": "religion-faith",
+    "answer": "Tal al-rabey",
+    "choices": "Tal al-rabey\nYaffa\nJebu al-Etzion\nGush Dan",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What type of stone was used to build the Western or Wailing Wall in Jerusalem?",
+    "category": "religion-faith",
+    "answer": "Limestone",
+    "choices": "Safedstone\nGnesis\nLimestone\nGranite",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was the first mayor of Tel Aviv?",
+    "category": "religion-faith",
+    "answer": "Meir Dizengoff",
+    "choices": "Israel Rokach\nDavid Bloch\nMeir Dizengoff\nChaim Levanon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the Israeli National Theater?",
+    "category": "religion-faith",
+    "answer": "Habima",
+    "choices": "Notzar\nTzavata\nHabima\nBeit Lessin",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In what language do Ethiopian Jews read Torah?",
+    "category": "religion-faith",
+    "answer": "Gez",
+    "choices": "Gez\nArabic\nAmharic\nHausau",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is Israels number one agricultural export?",
+    "category": "religion-faith",
+    "answer": "flowers",
+    "choices": "bananas\nflowers\nseedless watermelon\noranges",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What term is used to describe a persons return to live in Israel?",
+    "category": "religion-faith",
+    "answer": "aliyah",
+    "choices": "midinayah\naliyah\nshiddoch\ngaboniah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the organization that promotes a return to Israel?",
+    "category": "religion-faith",
+    "answer": "The Jewish Agency",
+    "choices": "The Gush Etzion\nThe Vaad Harabbonim\nThe Karaite\nThe Jewish Agency",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What kind of museum is the Batey Haosef Museum in Tel Aviv?",
+    "category": "religion-faith",
+    "answer": "military",
+    "choices": "jewelry\nperformance art\nmodern art\nmilitary",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which part of Israel is famous fro producing wine?",
+    "category": "religion-faith",
+    "answer": "Golan Heights",
+    "choices": "The Negev\nLod\nGolan Heights\nEilat",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is given credit  for reviving the Hebrew language?",
+    "category": "religion-faith",
+    "answer": "Eliezer Ben Yehuda",
+    "choices": "Eliezer Ben Yehuda\nHannah Senesh\nJoseph Trumpeldor\nDavid Ben Gurion",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What poem written by Chaim Nachman Bialik inspired many people to immigrate to Israel?",
+    "category": "religion-faith",
+    "answer": "The City of the Killings",
+    "choices": "The New Colossus\nRabbi BenEzra\nBabi Yar\nThe City of the Killings",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Arthur Loomis Harmon, who helped design the Empire State Building, designed what building in Jerusalem?",
+    "category": "religion-faith",
+    "answer": "The YMCA",
+    "choices": "The King David Hotel\nThe Kinnesset\nThe YMCA\nThe Water Clock Tower Hotel",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Hannukah (or Channukah) is the Jewish equivalent of Christmas.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Where in Israel was the Mishna written?",
+    "category": "religion-faith",
+    "answer": "The Galilee",
+    "choices": "The Galilee\nQumran\nJerusalem\nThe Negev",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who wrote Psalm 23?",
+    "category": "religion-faith",
+    "answer": "David",
+    "choices": "Moses\nDavid\nSolomon\nEthan",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many books is the Book of Psalms divided into?",
+    "category": "religion-faith",
+    "answer": "Five",
+    "choices": "Four\nFive\nTwo\nThree",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What are Psalms 120 to 134 referred to as?",
+    "category": "religion-faith",
+    "answer": "Psalms of Ascent",
+    "choices": "Psalms of David\nPsalms of God\nPsalms of Ascent\nHymns",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was the earliest author of a psalm?",
+    "category": "religion-faith",
+    "answer": "Moses",
+    "choices": "David\nMoses\nEzra\nAsaph",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Psalm 23, the Lord is referred to as what?",
+    "category": "religion-faith",
+    "answer": "My Shepherd",
+    "choices": "My Provider\nMy Shepherd\nMy God\nMy Hope",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The following lines are from which psalm?\n\nFor You formed my inward parts; You wove me in my mothers womb. I will give thanks to You, for I am fearfully and wonderfully made.",
+    "category": "religion-faith",
+    "answer": "Psalm 139",
+    "choices": "Psalm 23\nPsalm 139\nPsalm 150\nPsalm 119",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Book of Psalms is classified as what type of book in the Bible?",
+    "category": "religion-faith",
+    "answer": "Poetic",
+    "choices": "Poetic\nHistorical\nApocalyptic\nProphetic",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "During her testimony at her trial, Joan of Arc stated she preferred which of the following to the sword?",
+    "category": "religion-faith",
+    "answer": "Banner",
+    "choices": "Knitting\nPraying\nBanner\nBible",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Where was Joan of Arc captured by Burgundian forces?",
+    "category": "religion-faith",
+    "answer": "Compiegne",
+    "choices": "Reims\nOrleans\nCompiegne\nParis",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was Joan of Arc accused of at her trial?",
+    "category": "religion-faith",
+    "answer": "Heresy",
+    "choices": "Murder\nPerjury\nHeresy\nHigh treason",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "To what kind of capital punishment was Joan of Arc condemned?",
+    "category": "religion-faith",
+    "answer": "Burning at the stake",
+    "choices": "Hanging\nDrowning\nBurning at the stake\nBeheading",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What extremely brave attempt to escape did Joan of Arc make while she was imprisoned in Rouen?",
+    "category": "religion-faith",
+    "answer": "She jumped from the tower where she was held prisoner.",
+    "choices": "All of these\nShe jumped from the tower where she was held prisoner.\nShe knocked a guard unconscious and tried to put on his armor and escape.\nShe pretended she was very sick and then tried to run away.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Joan of Arc lived during the first half of what century?",
+    "category": "religion-faith",
+    "answer": "15th century",
+    "choices": "15th century\n11th century\n17th century\n13th century",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the famous sci-fi author that created Scientology?",
+    "category": "religion-faith",
+    "answer": "L. Ron Hubbard",
+    "choices": "Isaac Asimov\nL. Ron Hubbard\nRobert A. Heinlein\nArthur C. Clarke",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the book, that states points of the scientologic doctrine for the first time?",
+    "category": "religion-faith",
+    "answer": "Dianetics: The Modern Science of Mental Health",
+    "choices": "The Study of Scientology\nThe Scientology Bible\nFinal Blackout\nDianetics: The Modern Science of Mental Health",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the evil alien dictator who, according to Scientologists, placed millions of people on earth and killed them, using hydrogen bombs?",
+    "category": "religion-faith",
+    "answer": "Xenu",
+    "choices": "Space Hitler\nDomo\nXenu\nTerl",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these celebrities is not a scientologist?",
+    "category": "religion-faith",
+    "answer": "Jack Nicholson",
+    "choices": "Jack Nicholson\nJohn Travolta\nJuliette Lewis\nTom Cruise",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the term that scientologists use to describe traumatic recordings that cause mental and psychosomatic physical problems?",
+    "category": "religion-faith",
+    "answer": "engrams",
+    "choices": "engrams\nscientogs\nhate particles\ndianetics",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What do the eight corners of the Scientology cross symbolize?",
+    "category": "religion-faith",
+    "answer": "the eight dynamics of life",
+    "choices": "the eight dynamics of life\nthe eight planets orbiting the Sun\nthe eight messiahs of Scientology\nthe arms of the evil intergalactic emperor",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these countries does not recognize Scientology as an official religion?",
+    "category": "religion-faith",
+    "answer": "Germany",
+    "choices": "Zimbabwe\nTanzania\nGermany\nSpain",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the literal meaning of the word scientology?",
+    "category": "religion-faith",
+    "answer": "The Study of Knowledge",
+    "choices": "The Study of the Self\nThe Study of Hubbard\nThe Study of the Universe\nThe Study of Knowledge",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the 1970s, members of The Church of Scientology committed infiltration of United States federal agencies in order to eliminate unfavorable reports on Scientology. What was the code name for the operation?",
+    "category": "religion-faith",
+    "answer": "Operation Snow White",
+    "choices": "Operation Snow White\nOperation Massacre\nOperation  Scientology\nOperation Dumbo Drop",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the term scientologists use to describe an immortal spiritual being?",
+    "category": "religion-faith",
+    "answer": "a thetan",
+    "choices": "a thetan\na hubbard\na cleared one\na ghost",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is Rosh Chodesh?",
+    "category": "religion-faith",
+    "answer": "Celebration of the new month",
+    "choices": "Celebration of the new month\nThe first book of the Talmud\nA fast day  that occurs a day after Rosh Hashanah\nThe first book of the Torah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is Yom Sheni shel Galuyot?",
+    "category": "religion-faith",
+    "answer": "The extra day of observance of  some holidays in the Diaspora",
+    "choices": "The extra day of observance of  some holidays in the Diaspora\nThe special prayer shawl worn by men every day\nThe last day of Passover\nThe second Torah read in synagogues on Saturday",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is Yichuss?",
+    "category": "religion-faith",
+    "answer": "Special honor you get from family members",
+    "choices": "Special honor you get from family members\nThe special prayer shawl worn by women\nA fast day celebrated on the day before Passover\nThe first book of the Kabbalah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does Yom Yerusalyim celebrate?",
+    "category": "religion-faith",
+    "answer": "The unification of the City of Jerusalem after the Six Days War",
+    "choices": "The building of the Second Temple in Jerusalem\nThe peace treaty between Egypt and Israel at Camp David\nThe building of the First Temple by Solomon\nThe unification of the City of Jerusalem after the Six Days War",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What do we call the  first written book of the Kabbalah?",
+    "category": "religion-faith",
+    "answer": "Zohar",
+    "choices": "Zohar\nBeraishees\nDevarim\nShimote",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What are the two major pronunciations of Hebrew?",
+    "category": "religion-faith",
+    "answer": "Ashkenazi and Sephardeet",
+    "choices": "Giladi and Sawpharteet\nZechut and Akivat\nGermaneet and Yemanee\nAshkenazi and Sephardeet",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What are Dam, Tzefardea, Kinim?",
+    "category": "religion-faith",
+    "answer": "The first three plagues G-D put upon the Egyptians",
+    "choices": "The names of the three major holidays Jews celebrate in September and October\nThe first three plagues G-D put upon the Egyptians\nThe three books of the Torah\nThe national anthem of Israel",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What do we call the language spoken by Jews in Spain and Portugal, which consisted of mainly Spanish and Hebrew  words written in Hebrew letters?",
+    "category": "religion-faith",
+    "answer": "Ladino",
+    "choices": "Yiddish\nEsperanto\nLadino\nEsperanza",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Hebrew term for the Old Testament is Tanach. How many books are in the Tanach?",
+    "category": "religion-faith",
+    "answer": "24",
+    "choices": "26\n65\n39\n24",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does Aygel Hah Zahav refer to?",
+    "category": "religion-faith",
+    "answer": "The golden calf built by Aaron.",
+    "choices": "The Book of Psalms.\nSpecial prayers said at bedtime and and sunrise.\nThe red heifer\nThe golden calf built by Aaron.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which Hebrew term means genius?",
+    "category": "religion-faith",
+    "answer": "gaon",
+    "choices": "Chassid\nmitganaiyim\nChabad\ngaon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is considered the first Chassidic Rabbi?",
+    "category": "religion-faith",
+    "answer": "the Baal Shem Tov",
+    "choices": "the Baal Shem Tov\nRabbi Akiba\nRabbi Hillel\nRabbi Shammai",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The esoteric tradition known as Tantra originated in Tibet and is unique to Tibetan Buddhism.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of the following is not one of the four main forms of Tibetan Buddhism?",
+    "category": "religion-faith",
+    "answer": "Chan",
+    "choices": "Gelug\nChan\nNying\nSakya",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the title of the leader of the Kagyu, one of the four major schools of Tibetan Buddhism?",
+    "category": "religion-faith",
+    "answer": "Karmapa",
+    "choices": "Chogyum Trungpa\nKarmapa\nPachen Lama\nDalai Lama",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of the Tibetan King who is said to have brought and solidified Buddhism in Tibet?",
+    "category": "religion-faith",
+    "answer": "Songtsen Gampo",
+    "choices": "Marpa\nSongtsen Gampo\nTilopa\nGenghis Khan",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which word refers to a Tibetan Buddhist lama or other religious figure, who has consciously decided to be reborn, in order to continue his/her religious pursuits?",
+    "category": "religion-faith",
+    "answer": "Tulku",
+    "choices": "Terma\nTulku\nLama\nTerton",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was the founder of the first Tibetan Buddhist Dharma center in the West?",
+    "category": "religion-faith",
+    "answer": "Chogyam Trungpa",
+    "choices": "Chogyam Trungpa\nDalai Lama\nThich Nhat Hanh\nPema Chodren",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is the second highest lama in the Gelugpa lineage of Tibetan Buddhism?",
+    "category": "religion-faith",
+    "answer": "Panchen Lama",
+    "choices": "Panchen Lama\nKhenpo Gangshar Rinpoche\nDalai Lama\nKarmapa",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What year did the XIVth Dalai Lama escape Tibet?",
+    "category": "religion-faith",
+    "answer": "1959",
+    "choices": "1989\n1959\n1960\n1949",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Potala is traditionally the summer palace of the Dalai Lama in Tibet.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Padmasambhava, a widely revered Indian Buddhist master who founded the Tantric school of Buddhism in the 8th century, is known by what other name?",
+    "category": "religion-faith",
+    "answer": "Guru Rinpoche",
+    "choices": "Shakyapa Rinpoche\nLama Zopa Rinpoche\nTotally Awesome Indian Dude\nGuru Rinpoche",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Dalai Lama and the Karmapa are believed to be emanations of what deity?",
+    "category": "religion-faith",
+    "answer": "Chenrenzig",
+    "choices": "Palden Lhamo\nTara\nChenrenzig\nDorje Shug-dun",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Holy Grail is sometimes associated with which magical object in Celtic mythology?",
+    "category": "religion-faith",
+    "answer": "The cauldron of Bran",
+    "choices": "The spear of Lug\nThe boat of Lyr\nThe cauldron of Bran\nThe stone of F\u00E1l",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who wrote Joseph dArimathie, the first literary work to link the Holy Grail with the Last Supper of Jesus and Joseph of Arimathea?",
+    "category": "religion-faith",
+    "answer": "Robert de Boron",
+    "choices": "Geoffrey of Monmouth\nChr\u00E9tien de Troyes\nThomas Malory\nRobert de Boron",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Arthurian legend Percival first saw the Holy Grail in the castle of the Fisher King, who was badly wounded in this part of the body.",
+    "category": "religion-faith",
+    "answer": "in the groin",
+    "choices": "in the shoulder\nin the groin\nin the neck\nin the arm",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Percival was the first knight in Arthurian legend to see the Holy Grail in the castle of the Fisher King. He could not heal the King\u2019s wound, though. Why?",
+    "category": "religion-faith",
+    "answer": "He did not ask the right question.",
+    "choices": "He did not ask the right question.\nHe was not well-intentioned.\nHe was not the chosen one.\nHe was cursed by The Green Knight.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Three Knights of the Round Table get to see the Holy Grail. First Percival, then Bors and next who of the following?",
+    "category": "religion-faith",
+    "answer": "Galahad",
+    "choices": "Mordred\nGawain\nLancelot\nGalahad",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The book \u2018Holy Blood, Holy Grail\u2019 by Michael Baigent, Richard Leigh, and Henry Lincoln proposes the hypothesis that Jesus and Mary Magdalene were actually married and upon Jesus\u2019 death she fled to France, carrying his child.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In the mystery novel The Da Vinci Code by Dan Brown the secrets of the Holy Grail are kept by this secret society.",
+    "category": "religion-faith",
+    "answer": "The priory of Sion",
+    "choices": "The order of the Phoenix\nThe priory of Sion\nThe Illuminati\nThe order of the Dragon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the 1991 movie The Fisher King, Robin Williams\u2019 character is obsessed with the legend of the Fisher King and tries to get the Holy Grail. He believes that this object is actually the Grail.",
+    "category": "religion-faith",
+    "answer": "\u0430 sport trophy",
+    "choices": "\u0430 silver cauldron\n\u0430 crystal champagne glass\n\u0430 sport trophy\n\u0430 crystal plate",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Holy Grail was a popular theme in many literary works from the 19th century such as the Arthurian cycle The Idylls of the King. Who was its author?",
+    "category": "religion-faith",
+    "answer": "Alfred, Lord Tennyson",
+    "choices": "Dante Gabriel Rossetti\nJane Austin\nWalter Scott\nAlfred, Lord Tennyson",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Holy Grail is usually presented as a large beautiful cup or dish. But medieval author Wolfram von Eschenbach claimed in his poem Perzival that the Grail was actually a crown given by God.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The search for The Holy Grail is one of the central themes in the opera Persifal by this German composer.",
+    "category": "religion-faith",
+    "answer": "Richard Wagner",
+    "choices": "Richard Wagner\nKarl Maria von Webber\nRobert Schumann\nFranz Fischer",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "At Christmas, Christians celebrates the Nativity or birth of Jesus Christ in which city?",
+    "category": "religion-faith",
+    "answer": "Bethlehem",
+    "choices": "None of these\nBethlehem\nNazareth\nJerusalem",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which Christian saint, regarded as the first martyr of Christianity, is commemorated on December 27 or 26?",
+    "category": "religion-faith",
+    "answer": "Saint Stephen",
+    "choices": "Saint Matthew\nSaint Andrew\nSaint Paul\nSaint Stephen",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "On September 8 or September 21, Eastern Orthodox Christians celebrate the birth of this important biblical figure to parents Joachim and Anna.",
+    "category": "religion-faith",
+    "answer": "Virgin Mary",
+    "choices": "King Solomon\nJohn the Baptist\nVirgin Mary\nKing David",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which event is regarded as the greatest feast in the Christian calendar?",
+    "category": "religion-faith",
+    "answer": "Resurrection of Jesus",
+    "choices": "Resurrection of Jesus\nAscension of Christ\nEpiphany\nNativity of Christ",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "He is considered to be the first Jew  to set foot on land that would become part of the USA.",
+    "category": "religion-faith",
+    "answer": "Joachim Gaunse",
+    "choices": "Asser Lev\nJoachim Gaunse\nLuis de Torres\nSolomon Franco",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In 1649 he was warned out of trying to settle in Boston.",
+    "category": "religion-faith",
+    "answer": "Solomon Franco",
+    "choices": "Joachim Gaunse\nSolomon Franco\nAsser Lev\nLuis de Torres",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In 1656 the first Jewish cemetery in the USA was founded in this city.",
+    "category": "religion-faith",
+    "answer": "New  York City, NY",
+    "choices": "Philadelphia, PA\nNewport , RI\nNew  York City, NY\nCharleston, SC",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "He is considered the first Jew on American land to get the right  to serve in a militia.",
+    "category": "religion-faith",
+    "answer": "Asser Levy",
+    "choices": "Asser Lev\nSolomon Franco\nMyer Myers\nAsser Levy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In 1665, Abraham de Lucena was arrested and fined for selling goods at retail prices.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The funds to build the first Lutheran church were advanced by a Jew.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The British Plantation Act gave Jews the right to become naturalized citizens with rights to trade within the colonies. In what year was it enacted?",
+    "category": "religion-faith",
+    "answer": "1740",
+    "choices": "1740\n1763\n1699\n1749",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This was the first colony to give Jews full political rights.",
+    "category": "religion-faith",
+    "answer": "New York",
+    "choices": "Pennsylvania\nRhode Island\nNew York\nSouth Carolina",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This offered Jews full equality in all future US territories and states.",
+    "category": "religion-faith",
+    "answer": "The Northwest Territory Act",
+    "choices": "The Northwest Territory Act\nThe Future Farm and Territory Act\nThe Stamp Act\nThe Homestead Act",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "He was the first Jew to serve in a state legislature.",
+    "category": "religion-faith",
+    "answer": "Dr. Levi Myers",
+    "choices": "Jonas Phillips\nDr. Levi Myers\nMyer Myers\nAsser Levy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This famous pirate, who was a marrano, played a significant role in American history.",
+    "category": "religion-faith",
+    "answer": "Jean Lafitte",
+    "choices": "Jean Lafitte\nAlexander Hamilton\nLafayette\nJohn Jay",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "He was the first Jewish Commodore in the US Navy. He ended the practice of flogging which used to be an accepted form of punishment in the US Navy.",
+    "category": "religion-faith",
+    "answer": "Uriah Phillip Levy",
+    "choices": "Uriah Phillip Levy\nAbraham Moise Silver\nMyer Myers\nAsser Lev",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Bnai Brit , a well known social welfare organization, was formed to help people who suffered in this American tragedy.",
+    "category": "religion-faith",
+    "answer": "The great Chicago fire.",
+    "choices": "The sinking of the Chalmers\nThe Civil War\nThe San Francisco earthquake\nThe great Chicago fire.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Morris Raphall, a Rabbi from New York City, was the first to open a session of Congress with a prayer. In what year did he do this?",
+    "category": "religion-faith",
+    "answer": "1860",
+    "choices": "1843\n1819\n1860\n1825",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The  first Yiddish play was produced in New York in this year.",
+    "category": "religion-faith",
+    "answer": "1882",
+    "choices": "1902\n1894\n1882\n1897",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "He was the first American-born Rabbi to lead a Chassidic group.",
+    "category": "religion-faith",
+    "answer": "Rabbi Levi Yitzach Halevi Horowitz",
+    "choices": "Rabbi Abba Hillel Silver\nRabbi Chaim Nathan Silver\nRabbi Jacob ben Yakov Halevy\nRabbi Levi Yitzach Halevi Horowitz",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following may save sinners according to the King James version of the Bible?",
+    "category": "religion-faith",
+    "answer": "personal relationship with God through His Son Jesus Christ",
+    "choices": "membership in a certain religion\npersonal relationship with God through His Son Jesus Christ\ngood works like almsgiving and fasting\nbaptism",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the punishment for human sins as it is written according to the Bible?",
+    "category": "religion-faith",
+    "answer": "second or spiritual death",
+    "choices": "excommunication from the religion\nlonger life\nphysical death\nsecond or spiritual death",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, is there anything that humans can do to be saved from Hell, the bottomless pit where worms dieth not?",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "At Nazareth, this Biblical figure grew and waxed in spirit. His name means the anointed one.",
+    "category": "religion-faith",
+    "answer": "Jesus Christ",
+    "choices": "Isaac\nJesus Christ\nPaul\nMoses",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, people are reconciled with God because of His Sons death at the cross in Mount Golgotha.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to the Bible, Jesus turned water to wine in this wedding feast that He had attended in Cana. Which of His miracles was this?",
+    "category": "religion-faith",
+    "answer": "first miracle",
+    "choices": "last miracle\nsecond miracle\nleast miracle\nfirst miracle",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, who should believers use as mediator between them and God when they pray?",
+    "category": "religion-faith",
+    "answer": "Jesus Christ",
+    "choices": "Mary\nJoseph\nJesus Christ\nJohn, the Baptist",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which epistle states that there is one mediator between God and men?",
+    "category": "religion-faith",
+    "answer": "Timothy",
+    "choices": "Ephesians\nPhilemon\nRomans\nTimothy",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the King James Version of the Bible, what did God command people to do always, day and night?",
+    "category": "religion-faith",
+    "answer": "praying",
+    "choices": "rejoicing\ndrinking wine\nsinning\npraying",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the Bible, are there any verses that strictly mention \u201Ctrinity\u201D as a term?",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What three things does the religious concept of the Trimurti represent?",
+    "category": "religion-faith",
+    "answer": "Creator, Protector, and Destructor",
+    "choices": "Father, Grandfather, and Son\nHeaven, Earth and Hell\nFather, Mother, and Child\nCreator, Protector, and Destructor",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Biology divides cellular life forms into three basic life domains. What are they?",
+    "category": "religion-faith",
+    "answer": "Archaea, Bacteria, and Eucaryota",
+    "choices": "Endoderm, Mesoderm, and Exoterm\nArchaea, Glycosis, and Endoderm\nArchaea, Bacteria, and Eucaryota\nArchaea, Mesoder, and Exoterm",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Is Nona the goddess of death in the Roman myth of the triple spinning fate goddesses?",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "In biology, is the Great Apes family a species trinity comprising of chimpanzees, gorillas, and orangutans?",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which one of these three basic chemical compounds can turn the blue litmus into red?",
+    "category": "religion-faith",
+    "answer": "Acid",
+    "choices": "Salt\nBase\nNone of them\nAcid",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "St. Nicholas the Wonderworker is the patron saint of which of the following?",
+    "category": "religion-faith",
+    "answer": "All of these",
+    "choices": "Merchants\nAll of these\nArchers\nSailors",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "St. Nicholas is revered by both Orthodox and Catholic Christians.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Saint Nicholas is one of the sources of the holiday figure of Santa Claus.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Where was the historical Saint Nicholas born?",
+    "category": "religion-faith",
+    "answer": "Asia Minor",
+    "choices": "Asia Minor\nCartagena\nHis birthplace is unknown.\nRome",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "St. Nicholas is believed to have made a pilgrimage to the Holy Land.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Saint Nicholas was released from prison in 313, after this emperor issued the Edict of Milan, extending official tolerance to Christianity.",
+    "category": "religion-faith",
+    "answer": "Constantine the Great",
+    "choices": "Octavian\nMarcus Aurelius\nConstantine the Great\nDiocletian",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Saint Nicholas died on 6 December.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The splendid Basilica di San Nicola (Basilica of Saint Nicholas) is in Rome.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "The historical Saint Nocholas was a Greek Bishop of what ancient town?",
+    "category": "religion-faith",
+    "answer": "Myra",
+    "choices": "Myra\nBeit Jala\nPatara\nPaternopoli",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to legend Saint Nicholas provided dowries to three young women who could not afford to marry.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Saint Brigitta was a Swedish nun and founder of the Bridgettine Order.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Nicknamed Black Angel, he was a prominent commander in the Chechen separatist movement against Russia.",
+    "category": "religion-faith",
+    "answer": "Ruslan Gelayev",
+    "choices": "Magomed Khanbiyev\nRuslan Gelayev\nMukhtar Suleimanov\nAbdulkhalik Kurbanov",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "His name means King of Kings and he ruled the Malian Empire for over twenty years.",
+    "category": "religion-faith",
+    "answer": "Mansa Musa",
+    "choices": "Mansa Musa\nMustapha Kartali\nMalcolm X\nMargery Kempe",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What statement is true about Saint Godric of Finchale?",
+    "category": "religion-faith",
+    "answer": "Both of these",
+    "choices": "He was never formally canonized.\nHe was an English hermit.\nNone of these\nBoth of these",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "He was an African-American Muslim minister and an advocate for the rights of African Americans.",
+    "category": "religion-faith",
+    "answer": "Malcolm X",
+    "choices": "Lamen Kebe\nMalcolm X\nSali-Bul Ali\nAbdul Rahman Ibrahim Sori",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "James, one of the Twelve Apostles of Jesus, was known by which of these names?",
+    "category": "religion-faith",
+    "answer": "All of these",
+    "choices": "All of these\nJames, son of Alphaeus\nJames the Greater\nJames the Less",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Junichiro Koizumi is a politician who served as Prime Minister of Japan.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "He was a Supreme Pontiff of the Roman Catholic Church and Sovereign of Vatican City from 1978 until his death in 2005.",
+    "category": "religion-faith",
+    "answer": "Pope John Paul II",
+    "choices": "John Paul I\nPope John Paul II\nBenedict XVI\nPaul VI",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Margery Kempe was an English religious mystic whose autobiography is one of the earliest in English literature.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "This Spanish knight founded the Society of Jesus in 1534.",
+    "category": "religion-faith",
+    "answer": "Ignatius of Loyola",
+    "choices": "Martin Luther\nIgnatius of Loyola\nPope Paul V\nJohn Calvin",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "He wrote the third Gospel and the Acts of the Apostles.",
+    "category": "religion-faith",
+    "answer": "Luke the Evangelist",
+    "choices": "Luke the Evangelist\nJohn the Evangelist\nMatthew the Evangelist\nMark the Evangelist",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "He was a Christian saint from Egypt and a prominent leader among the Desert Fathers.",
+    "category": "religion-faith",
+    "answer": "Anthony the Great",
+    "choices": "Saint Menas\nAnthony the Great\nSaint Varus\nSaint Rais",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What statement is true about Ignatius Loyola, a Spanish knight from a Basque noble family?",
+    "category": "religion-faith",
+    "answer": "All of these",
+    "choices": "He was the founder of the Jesuit Order.\nHe was canonized by Pope Gregory Ksaverity.\nHe was a religious leader during the Counter-Reformation.\nAll of these",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "St Anicetus was the first Roman Bishop to forbid Montanism.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Leo IX launched a dispute regarding celibacy of the clergy.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Mary Faustina Kowalska was a Russian nun and mystic, venerated by the Roman Catholic Church as a saint.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to Christian tradition, this saint attached a silver hand to the icon of Theotokos, which has since then been known as Three-handed?",
+    "category": "religion-faith",
+    "answer": "John of Damascus",
+    "choices": "Ignatius of Antioch\nCosmas of Maiuma\nJohn of Damascus\nAbraham the Writer",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Vladimir the Great converted to Christianity and baptised all of Kievan Rus.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Saint Stephen is often depicted with a crown for martyrdom.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Saint Helena was Roman empress and the mother of Emperor Constantine the Great.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the earliest identified Christian house church?",
+    "category": "religion-faith",
+    "answer": "Dura-Europos church",
+    "choices": "Dura-Europos church\nMonastery of Saint Anthony\nMegiddo church\nSaint-Pierre-aux-Nonnains basilica",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Megiddo church, one of the oldest church buildings discovered by archaeologists, is located in Israel.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "This Coptic Orthodox monastery is located in an oasis in the Eastern Desert of Egypt.",
+    "category": "religion-faith",
+    "answer": "St. Anthony Monastery",
+    "choices": "St. George Monastery\nSt. Anthony Monastery\nSt. Bishoy Monastery\nSt. Mina Monastery",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which statement is true about Saint-Pierre-aux-Nonnains basilica in Metz, France?",
+    "category": "religion-faith",
+    "answer": "All of these",
+    "choices": "It was built in 380 AD.\nIt was originally built to be part of a Roman spa complex.\nIt is one of the oldest churches in Europe.\nAll of these",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Church of Our Lady Mary of Zion is an Ethiopian Orthodox Church.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What is the oldest cathedral in Germany?",
+    "category": "religion-faith",
+    "answer": "Cathedral of Trier",
+    "choices": "Hildesheim Cathedral\nCathedral of Trier\nRegensburg Cathedral\nAachen Cathedral",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Church of Saint Simeon Stylites is located in Syria.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of these churches was designed by Isidore of Miletus and Anthemius of Tralles, who were professors of geometry at the University of Constantinople?",
+    "category": "religion-faith",
+    "answer": "Hagia Sophia",
+    "choices": "Saint Catherine\u2019s Monastery\nNone of these\nThe Church of Our Lady Mary of Zion\nHagia Sophia",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which monastery lies at the foot of Mount Sinai, where, according to the Hebrew Bible, Moses received the Ten Commandments from God?",
+    "category": "religion-faith",
+    "answer": "Saint Catherine\u2019s Monastery",
+    "choices": "St. Anthony Monastery\nSt. Simeon Monastery\nSt. Paul Monastery\nSaint Catherine\u2019s Monastery",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What church was built over the cave that tradition marks as the birthplace of Jesus of Nazareth?",
+    "category": "religion-faith",
+    "answer": "Church of the Nativity, Bethlehem",
+    "choices": "Church of the Nativity, Raleigh\nAll of these\nChurch of the Nativity, Bethlehem\nChurch of the Nativity, Arbanassi",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Emanuel Swedenborg is a Dutch scientist, philosopher, mystic and theologian.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What did Emanuel Swedenborg claim?",
+    "category": "religion-faith",
+    "answer": "all of these",
+    "choices": "all of these\nthat the presence of the spiritual sense makes the Word Divine\nthat the Second Coming of Jesus Christ had occurred\nthat the Last Judgement had already occurred",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Emanuel Swedenborg claimed that he could talk with angels, demons and other spirits.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "What prominent Swedish author called Emanuel Swedenborg nothing but a fool?",
+    "category": "religion-faith",
+    "answer": "Johan Henrik Kellgren",
+    "choices": "Carl Jung\nAugust Strindberg\nHonor\u00E9 de Balzac\nJohan Henrik Kellgren",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In 1710, Emanuel Swedenborg made a grand tour through the Netherlands, France, and Germany.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Emanuel Swedenborg lived in the 19th century.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Emanuel Swedenborg supported the Christian doctrine of the Trinity.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Which of these is a work by Emanuel Swedenborg?",
+    "category": "religion-faith",
+    "answer": "All of these",
+    "choices": "Heaven and Hell\nAll of these\nThe Last Judgment\nArcana Coelestia",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What happened in April 1745, when Emanuel Swedenborg was having dinner in a private room at a London tavern.",
+    "category": "religion-faith",
+    "answer": "All of these",
+    "choices": "Darkness fell upon his eyes.\nHe hurried home.\nAll of these\nHe saw a man sitting in the corner, who told him: Do not eat too much!",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many saints are recognized in Judaism ?",
+    "category": "religion-faith",
+    "answer": "0",
+    "choices": "613\n3\n4\n0",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The first five books of the Old Testament are referred to as what?",
+    "category": "religion-faith",
+    "answer": "The Torah",
+    "choices": "The Torah\nThe Sacred Writings of Abraham\nThe Code\nThe Bible",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Judaism, who is considered to be the first Jew ?",
+    "category": "religion-faith",
+    "answer": "Abraham",
+    "choices": "Abraham\nMoses\nNoah\nAdam",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Why is the city of Hebron so important to Judaism ?",
+    "category": "religion-faith",
+    "answer": "It is believed that Abraham, Sarah, Issac, Rebekkah, Leah and Jacob are buried there",
+    "choices": "It is where the first Capital of Israel stood\nIt is believed that Abraham, Sarah, Issac, Rebekkah, Leah and Jacob are buried there\nIt was a stop on the way out of Egypt\nIt is where Jeremiah was born",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In the context of Judaism, who was Abrahams wife ?",
+    "category": "religion-faith",
+    "answer": "Sarah",
+    "choices": "Leah\nRachel\nSarah\nRebekkah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How many laws are in the first five books of the Old Testament?",
+    "category": "religion-faith",
+    "answer": "613",
+    "choices": "2150\n1000\n613\n100",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Why will Jews not eat pork?",
+    "category": "religion-faith",
+    "answer": "Pigs do not chew their cud and they do not have cloven hoofs",
+    "choices": "Pigs are symbols of evil\nPigs cause disease if not properly cooked\nPigs do not chew their cud and they do not have cloven hoofs\nPigs are dirty",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Judaism, what do we call food that is permissible to be eaten?",
+    "category": "religion-faith",
+    "answer": "Kosher",
+    "choices": "Parve\nKosher\nFleisch\nGribnitz",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to Judaism, what work is permissible on Sunday?",
+    "category": "religion-faith",
+    "answer": "Any work",
+    "choices": "Only transportation to synagogue\nCharity\nNone\nAny work",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does the word Rabbi mean?",
+    "category": "religion-faith",
+    "answer": "My teacher",
+    "choices": "My overseer\nMY priest\nMy leader\nMy teacher",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The witch hunts started as a result of the superstitions of some Catholic Monks. This Dominican monk is considered to be the initiator of the witch hunts as he prepared a detailed manual of deviltry for the Church.  It did not take long before women in Southern France were sent to the stake, condemned for cohabitation with the devil.",
+    "category": "religion-faith",
+    "answer": "Thomas Aquinas",
+    "choices": "Thomas Aquinas\nJohn XXII\nGregory\nHugo de Boniols",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The first woman accused of witchcraft was burned around 1275. This was the reason for her condemnation.",
+    "category": "religion-faith",
+    "answer": "Having intercourse with the devil",
+    "choices": "Bringing misfortune\nParticipating in witch ring-dance rituals\nHealing a child with magical water\nHaving intercourse with the devil",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Many of witchcraft confessions were extorted by means of torture, called ordeal. This method of torture was not used during the process of the ordeal.",
+    "category": "religion-faith",
+    "answer": "The sound of trickling water",
+    "choices": "The Iron Maiden\nThe Thumbscrew\nThe sound of trickling water\nHot pincers",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Burning women who were supposedly witches was a common practice on the European continent. In England, however, they punished witches in this way.",
+    "category": "religion-faith",
+    "answer": "Hanged them",
+    "choices": "Starved them to death\nHanged them\nBuried them alive\nStabbed them with a silver lance",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Most of the victims of the witch hunts were women. However, there were some men also burned, accused of being witches. This is why.",
+    "category": "religion-faith",
+    "answer": "They tried to protect women accused of witchcraft",
+    "choices": "They were more intelligent than other people\nThey collected herbs\nThey tried to protect women accused of witchcraft\nThey often went out for a walk during full moon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "As the witch hunts expanded, any woman could be tried as a witch, but in the beginning these were the most common victims of the Holy Inquisition.",
+    "category": "religion-faith",
+    "answer": "Old, lonely women",
+    "choices": "Educated women\nBeautiful young girls\nOld, lonely women\nWomen of middle age who gave birth to twins",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "It was a common conception that the number of people involved in the witchcraft activities could be boundless. For example, in 1609 the witch hunting French official Pierre de Lancre stated that all 30,000 dwellers of the French region Labourd were witches, including  these people.",
+    "category": "religion-faith",
+    "answer": "Priests",
+    "choices": "Physicians\nYoung girls\nPriests\nTeachers",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The famous Salem Witch trial started with an incident in January, 1692. A Caribbean-born slave was accused of initiating the witch phenomenon. Twenty more people were killed as no one of them confessed to being a witch. What was the reason that triggered the Salem witch craze?",
+    "category": "religion-faith",
+    "answer": "Eight little girls from the town got ill with strange symptoms such as convulsions, incomprehensible speech, and trance-like states",
+    "choices": "Several babies in the town were born dead\nThere were innumerable storms over the town destroyed the crops\nA severe drought made the local river dry up\nEight little girls from the town got ill with strange symptoms such as convulsions, incomprehensible speech, and trance-like states",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This was a common torture method used in Scotland, which made the accused witch confess her deeds. The method caused hallucinations and made it easy for the inquisitors to extort confessions to flying, turning into animals, meeting the devil and taking part in witches\u2019 Sabbaths.",
+    "category": "religion-faith",
+    "answer": "Sleep deprivation",
+    "choices": "Whipping\nThe Iron Maiden\nSleep deprivation\nOverheating",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Witch hunts still exist today. In 1981 a woman was killed by the mob, throwing stones at her as they believed she was a witch. This was the reason for stoning her to death.",
+    "category": "religion-faith",
+    "answer": "Her sorcery incited the attack upon Pope John Paul II",
+    "choices": "Her sorcery incited the attack upon Pope John Paul II\nHer spells were the reason for the ozone hole\nHer magic killed the child of a neighbour\nHer sorcery caused a tsunami in Mexico",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Old Testament, the prophet Hosea was instructed by God to marry a prostitute.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Psalm 119 is the longest psalm in the Bible. How many verses does it contain?",
+    "category": "religion-faith",
+    "answer": "176",
+    "choices": "176\n150\n200\n138",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Old Testament, Moses was 105 years old when he died.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "It is stated in the Old Testament that Jeremiah, Hosea, Jonah, and Job were prophets.",
+    "category": "religion-faith",
+    "answer": "False",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to The Old Testament, the prophet Jonah was sent to which city to warn its inhabitants of the coming judgment on them?",
+    "category": "religion-faith",
+    "answer": "Ninevah",
+    "choices": "Ninevah\nJoppa\nAi\nTarshish",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The prophet Haggai is mentioned in the book of Ezra.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to the Book of Genesis, what did G-D  create last, on the sixth day, as almost an afterthought?",
+    "category": "religion-faith",
+    "answer": "Adam",
+    "choices": "Eve\nAdam\nThe fishes of the waters\nThe birds of prey",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What was the name of Abrahams first wife?",
+    "category": "religion-faith",
+    "answer": "Sarah",
+    "choices": "Sarah\nHaggar\nHaggai\nRuth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was Issacs wife according to Genesis?",
+    "category": "religion-faith",
+    "answer": "Rebecca",
+    "choices": "Leah\nRebecca\nRachel\nRuth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Judaism has three  Patriarchs -Abraham, Issac, and Jacob. Who are the four Matriarchs?",
+    "category": "religion-faith",
+    "answer": "Sarah, Rebecca, Leah, Rachel",
+    "choices": "Sarah, Rebecca, Ruth, Naomi\nSarah , Rebecca , Rachel, Ruth\nSarah, Rebecca, Leah, Rachel\nSarah , Rebecca , Leah, Ruth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of these is not one of Jacobs twelve sons?",
+    "category": "religion-faith",
+    "answer": "Ephraim",
+    "choices": "Naphtali\nGad\nEphraim\nZebulon",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the name of Jacobs only daughter according to Genesis?",
+    "category": "religion-faith",
+    "answer": "Dina",
+    "choices": "Dina\nLeah\nLaban\nMileah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The  Book of Genesis contains the first Biblical reference to someone being put into prison. Who was  put into prison?",
+    "category": "religion-faith",
+    "answer": "Joseph",
+    "choices": "Cain\nPotiphar\nJudah\nJoseph",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was the third son of Adam and Eve, sometimes described as the quiet one?",
+    "category": "religion-faith",
+    "answer": "Seth",
+    "choices": "Seth\nEli\nAbel\nNahor",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The Hebrew people lived in the first ghetto when they were in Egypt. Where was this place?",
+    "category": "religion-faith",
+    "answer": "Goshen",
+    "choices": "Cannan\nBarnes-Kaddesh\nNubia\nGoshen",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the genealogy of Jesus, who was the father of Jesse?",
+    "category": "religion-faith",
+    "answer": "Obed",
+    "choices": "David\nObed\nBoaz\nSamson",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In which of the following lands did Job live when he was first mentioned in the book of Job?",
+    "category": "religion-faith",
+    "answer": "Uz",
+    "choices": "Judea\nUz\nGalilee\nNazareth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who was king of Judaea during the birth of Jesus?",
+    "category": "religion-faith",
+    "answer": "King Herod",
+    "choices": "King David\nKing Solomon\nKing Herod\nKing Darius",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, how old was Joseph when he was put in charge of the whole land of Egypt, as Pharaoh had ordered.",
+    "category": "religion-faith",
+    "answer": "30 years old",
+    "choices": "40 years old\n30 years old\n22 years old\n35 years old",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible after Sarahs death, Abraham married another woman. What was her name?",
+    "category": "religion-faith",
+    "answer": "Keturah",
+    "choices": "Keturah\nJessica\nNaomi\nSheba",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "From what tribe of Israel was Samson according to the Bible?",
+    "category": "religion-faith",
+    "answer": "Dan",
+    "choices": "Benjamin\nGad\nDan\nLevi",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "This Biblical character is Jacobs father-in-law as well as father of Rachel and Leah.",
+    "category": "religion-faith",
+    "answer": "Laban",
+    "choices": "Laban\nTerah\nNoah\nAram-balam",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which is the sixth book of the New Testament?",
+    "category": "religion-faith",
+    "answer": "Romans",
+    "choices": "Mark\nRomans\nGalatians\nLuke",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to the Bible, when Naomi told her two daughters-in-law to leave her and go to their homes, which daughter-in-law decided to stay?",
+    "category": "religion-faith",
+    "answer": "Ruth",
+    "choices": "Rebbecca\nJudy\nBeth\nRuth",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following did Jesus call first to be his disciple?",
+    "category": "religion-faith",
+    "answer": "Simon",
+    "choices": "Philip\nJames\nSimon\nJudas",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What kind of person may you call Judas?",
+    "category": "religion-faith",
+    "answer": "A friend who betrayed you",
+    "choices": "Someone who follows you\nA thief\nA friend who betrayed you\nA person who committed suicide",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following events can be referred to as an Armageddon?",
+    "category": "religion-faith",
+    "answer": "The last and completely destructive battle",
+    "choices": "A battle between former allies\nA death of a charismatic leader\nThe last gathering of a group of friends\nThe last and completely destructive battle",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which use of Goliath is correct?",
+    "category": "religion-faith",
+    "answer": "The local grocery successfully competed against the nearby Goliath supermaket",
+    "choices": "Switzerland is the Goliath of international politics.\nThe FIFA 2006 World Cup final between France and Italy was like David against Goliath.\nThe local grocery successfully competed against the nearby Goliath supermaket\nFiesta is a real Goliath among Fords models.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "How would you describe a Samaritan?",
+    "category": "religion-faith",
+    "answer": "A person who helps people in need",
+    "choices": "A person who helps people in need\nAn enemy\nA person who migrates to a foreign country\nAn egoist",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who is the salt of the earth?",
+    "category": "religion-faith",
+    "answer": "Decent, reliable people",
+    "choices": "People who spread gossips\nDecent, reliable people\nPeople who do not keep their word\nAll Christians",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who can be best described as doubting Thomas?",
+    "category": "religion-faith",
+    "answer": "Someone who believes only what he sees",
+    "choices": "Someone who believes only what he sees\nAnyone who doesnt believe in God\nA left-wing politician\nA scientist (especially in physics, mathematics, chemistry and biology)",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Which of the following can be described as a prodigal son?",
+    "category": "religion-faith",
+    "answer": "A young man who wastes his parents money on parties",
+    "choices": "The youngest son in the family\nA young man who wastes his parents money on parties\nA son that is very obedient and does dutifully everything his parents tell him\nThe firstborn son",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does the sentence Ann was the apple of Marks eye tell us about the relation between those two?",
+    "category": "religion-faith",
+    "answer": "Mark is deeply in love with Ann.",
+    "choices": "Mark hates Ann.\nMark is deeply in love with Ann.\nAnn is deeply in love with Mark.\nAnn hates Mark.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What characteristic is commonly attributed to King Solomon?",
+    "category": "religion-faith",
+    "answer": "Wisdom",
+    "choices": "Wealth\nLust\nHunger\nWisdom",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What message am I conveying, if I say I dont know him from Adam?",
+    "category": "religion-faith",
+    "answer": "The person is completely unknown to me.",
+    "choices": "I know very little about the person.\nIn spite of the negative form, the idiom means that you know someone very well.\nThe person is completely unknown to me.\nI dont know his true character.",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does the phrase of biblical proportions mean?",
+    "category": "religion-faith",
+    "answer": "of a vast, enormous scale",
+    "choices": "of a vast, enormous scale\nof little importance\nrelated to a flood\nvery sinful in its nature",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "If John knows Mary in the biblical sense, what can we say about the pair?",
+    "category": "religion-faith",
+    "answer": "They have had sex.",
+    "choices": "Mary is Johns sister.\nThey have had sex.\nTheir parents decided about their marriage.\nThey are in a Platonic relationship (ie. love, but no sex).",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What Biblical character said the following?\nMy petition and my request is this:If the king regards me with favor and if it pleases the king to grant my petition and fulfill my request, let the king and Haman come tomorrow to the banquet  I will prepare for them. Then I will answer the kings question.",
+    "category": "religion-faith",
+    "answer": "Esther",
+    "choices": "Esther\nMartha\nRuth\nDeborah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "The following words belong to this biblical figure:\nMay the day of my birth perish, and the night it was said,A boy is born! That day-may it turn to darkness; may the God above not care about it; may no light shine upon it.",
+    "category": "religion-faith",
+    "answer": "Job",
+    "choices": "Jesus\nJohn the Baptist\nAbraham\nJob",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What Biblical hero delivered these words?\nOut of the eater, something to eat; out of the strong, something sweet.",
+    "category": "religion-faith",
+    "answer": "Samson",
+    "choices": "Samson\nSolomon\nDavid\nSamuel",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What Biblical character asked the following question?\nAm I leading a rebellion, that you have come out with swords and clubs to capture me?",
+    "category": "religion-faith",
+    "answer": "Jesus",
+    "choices": "Peter\nJude\nJesus\nPaul",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What character from the Bible said the following? Get rid of that slave woman and her son, for that slave womans son will never share in the inheritance with my son Isaac.",
+    "category": "religion-faith",
+    "answer": "Sarah",
+    "choices": "Ruth\nSarah\nLeah\nRebeccah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who said the following: It is not the healthy who need a doctor, but the sick. But go and learn what this means: I desire mercy, not sacrifice. For I have not come to call the righteous, but sinners.",
+    "category": "religion-faith",
+    "answer": "Jesus",
+    "choices": "John\nJesus\nJoseph\nMatthew",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What Biblical figure said this?\nI am now an old man and dont know the day of my death. Now then, get your weapons-your quiver and bow-and go out to the open country to hunt some wild game for me. Prepare me the kind of tasty food I like and bring it to me to eat, so that I may give you my  blessing before I die.",
+    "category": "religion-faith",
+    "answer": "Issac",
+    "choices": "Jacob\nEsau\nAdam\nIssac",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Name the Biblical character who delivered these words: Pick me up and throw me into the sea, and it will become calm, I know that is is my fault that this great storm has come upon you.",
+    "category": "religion-faith",
+    "answer": "Jonah",
+    "choices": "Obadiah\nMicah\nHaggai\nJonah",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What character from the Bible said this?\nLord dont you care that my sister has left me to do the work by myself? Tell her to help me!",
+    "category": "religion-faith",
+    "answer": "Martha",
+    "choices": "Queen Vashti\nMartha\nMary\nQueen Sheba",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "Who delivered these words: Suppose I go to the Israelites and say to them, The God of your fathers has sent me to you, and they ask me, \u2018What is his name? Then what shall I tell them?",
+    "category": "religion-faith",
+    "answer": "Moses",
+    "choices": "Joseph\nJonah\nMoses\nAaron",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the symbol of the dhamma (dharma)?",
+    "category": "religion-faith",
+    "answer": "wheel",
+    "choices": "flag\nwheel\nchair\nflower",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What Buddhist term refers to the cycle of reincarnation or rebirth?",
+    "category": "religion-faith",
+    "answer": "Samsara",
+    "choices": "Dharma\nSamsara\nNaraka\nAsura",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What does the word buddha mean?",
+    "category": "religion-faith",
+    "answer": "awake",
+    "choices": "light\nthe only one\ngod\nawake",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "What is the path to happiness in Buddhism?",
+    "category": "religion-faith",
+    "answer": "middle way",
+    "choices": "ancient path\npath of freedom\npath of love\nmiddle way",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to Buddhism what are the3 evil roots/defilements that hide the truth from us?",
+    "category": "religion-faith",
+    "answer": "delusion, hatred, greed",
+    "choices": "hatred, greed, selfishness\ndelusion, confusion, anger\ndelusion, hatred, jealousy\ndelusion, hatred, greed",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "In Buddhism which of these beings inhabit Hells?",
+    "category": "religion-faith",
+    "answer": "Naraka beings",
+    "choices": "Brahmas\nPreta\nNaraka beings\nAsuras",
+    "type": "MultipleChoiceQuestion"
+  },
+  {
+    "question": "According to Buddhism, life is or leads to suffering in one way or another.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "It is generally accepted that the last words of the Buddha were: All component things are transient, work out your salvation with diligence.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "Kamma is only one of the 5 natural laws that Buddha spoke about.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  },
+  {
+    "question": "According to Buddhism there are realms of existences other than human and animal realm.",
+    "category": "religion-faith",
+    "answer": "True",
+    "choices": "True\nFalse",
+    "type": "TrueFalseQuestion"
+  }
+]
